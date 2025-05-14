@@ -5,6 +5,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Quiz Website</title>
   <link rel="stylesheet" href="style.css" />
+  /* Initially hide the menu on small screens */
+  <style>
+.navbar {
+  display: none;
+}
+
+.navbar.active {
+  display: block; /* Show the menu when 'active' class is added */
+}
+
+.menu-toggle {
+  display: block;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+/* Show menu only when on mobile */
+@media (max-width: 768px) {
+  .navbar {
+    display: none; /* Hide navbar by default */
+    flex-direction: column;
+    background-color: #333;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    z-index: 9999;
+  }
+
+  .navbar.active {
+    display: flex;
+  }
+
+  .navbar a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    display: block;
+  }
+
+  .navbar a:hover {
+    background-color: #444;
+  }
+}
+</style>
   <script>
     if (!localStorage.getItem("isLoggedIn")) {
       window.location.href = "login.html";
@@ -235,6 +281,12 @@
       document.body.classList.add(saved);
     };
   </script> -->
+<script>
+  document.getElementById('menu-toggle').addEventListener('click', () => {
+  const navbar = document.querySelector('.navbar');
+  navbar.classList.toggle('active');  // Toggle the active class on the navbar
+});
+</script>
 <!-- 🎯🎯🎯🎯🎯 -->
  <script>
     document.getElementById('startQuizBtn').addEventListener('click', function () {
