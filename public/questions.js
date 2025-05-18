@@ -2274,6 +2274,249 @@ const questionBank =
     },
    
 // End 
+// 📂📂📕📕📕MicroBiology 
+
+    {
+        "course": "BSN-MicroBio",
+        "numb": 1,
+        "question": "Which microorganism is responsible for causing malaria?",
+        "answer": "A. Plasmodium falciparum",
+        "options": [
+            "A. Plasmodium falciparum",
+            "B. Candida albicans",
+            "C. Escherichia coli",
+            "D. Streptococcus pyogenes"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 2,
+        "question": "Which of the following is a gram-negative bacterium?",
+        "answer": "C. Neisseria gonorrhoeae",
+        "options": [
+            "A. Staphylococcus aureus",
+            "B. Clostridium tetani",
+            "C. Neisseria gonorrhoeae",
+            "D. Bacillus anthracis"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 3,
+        "question": "Candida albicans is classified as a:",
+        "answer": "B. Fungus",
+        "options": [
+            "A. Virus",
+            "B. Fungus",
+            "C. Bacterium",
+            "D. Protozoa"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 4,
+        "question": "Which microorganism causes typhoid fever?",
+        "answer": "B. Salmonella typhi",
+        "options": [
+            "A. Mycobacterium leprae",
+            "B. Salmonella typhi",
+            "C. Vibrio cholerae",
+            "D. Listeria monocytogenes"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 5,
+        "question": "HIV is a type of:",
+        "answer": "C. Virus",
+        "options": [
+            "A. Bacterium",
+            "B. Fungus",
+            "C. Virus",
+            "D. Protozoa"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 6,
+        "question": "Which of the following is a protozoan pathogen?",
+        "answer": "A. Giardia lamblia",
+        "options": [
+            "A. Giardia lamblia",
+            "B. Streptococcus pneumoniae",
+            "C. Influenza virus",
+            "D. Penicillium notatum"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 7,
+        "question": "Which organism causes whooping cough?",
+        "answer": "A. Bordetella pertussis",
+        "options": [
+            "A. Bordetella pertussis",
+            "B. Treponema pallidum",
+            "C. Campylobacter jejuni",
+            "D. Helicobacter pylori"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 8,
+        "question": "Which disease is caused by Clostridium botulinum?",
+        "answer": "C. Botulism",
+        "options": [
+            "A. Tetanus",
+            "B. Gas gangrene",
+            "C. Botulism",
+            "D. Diphtheria"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 9,
+        "question": "Ringworm is caused by a:",
+        "answer": "C. Fungus",
+        "options": [
+            "A. Virus",
+            "B. Bacterium",
+            "C. Fungus",
+            "D. Parasite"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 10,
+        "question": "The causative agent of syphilis is:",
+        "answer": "C. Treponema pallidum",
+        "options": [
+            "A. Chlamydia trachomatis",
+            "B. Neisseria meningitidis",
+            "C. Treponema pallidum",
+            "D. Haemophilus influenzae"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 11,
+        "question": "Which staining technique differentiates bacteria based on their cell wall composition?",
+        "answer": "B. Gram stain",
+        "options": [
+            "A. Acid-fast stain",
+            "B. Gram stain",
+            "C. Endospore stain",
+            "D. Simple stain"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 12,
+        "question": "Which lab method is most accurate for identifying COVID-19 virus?",
+        "answer": "C. PCR test",
+        "options": [
+            "A. Gram stain",
+            "B. Culture test",
+            "C. PCR test",
+            "D. ELISA"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 13,
+        "question": "The primary method used to sterilize surgical instruments in hospitals is:",
+        "answer": "B. Autoclaving",
+        "options": [
+            "A. Boiling",
+            "B. Autoclaving",
+            "C. Filtration",
+            "D. Pasteurization"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 14,
+        "question": "Which of the following is an effective method for detecting HIV?",
+        "answer": "B. ELISA",
+        "options": [
+            "A. Gram stain",
+            "B. ELISA",
+            "C. Bile salt test",
+            "D. Catalase test"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 15,
+        "question": "UV light is used for:",
+        "answer": "A. Sterilizing plastic ware",
+        "options": [
+            "A. Sterilizing plastic ware",
+            "B. Cleaning floors",
+            "C. Heating cultures",
+            "D. Promoting bacterial growth"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 16,
+        "question": "Which test is used for the detection of Mycobacterium tuberculosis in sputum?",
+        "answer": "A. Ziehl-Neelsen stain",
+        "options": [
+            "A. Ziehl-Neelsen stain",
+            "B. Gram stain",
+            "C. Coagulase test",
+            "D. Bile esculin test"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 17,
+        "question": "What is the main principle behind the disk diffusion method (Kirby-Bauer)?",
+        "answer": "C. Measuring antimicrobial sensitivity",
+        "options": [
+            "A. Identifying bacteria",
+            "B. Detecting antigens",
+            "C. Measuring antimicrobial sensitivity",
+            "D. Measuring pH changes"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 18,
+        "question": "Which sterilization method is best for heat-sensitive liquids?",
+        "answer": "D. Filtration",
+        "options": [
+            "A. Incineration",
+            "B. Autoclaving",
+            "C. Dry heat",
+            "D. Filtration"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 19,
+        "question": "What is the main purpose of disinfection?",
+        "answer": "C. Reduce the number of pathogenic organisms",
+        "options": [
+            "A. Kill all microorganisms including spores",
+            "B. Remove dirt",
+            "C. Reduce the number of pathogenic organisms",
+            "D. Stimulate immune response"
+        ]
+    },
+    {
+        "course": "BSN-MicroBio",
+        "numb": 20,
+        "question": "Which of the following is NOT a method of microbial control?",
+        "answer": "C. Antibiotic resistance",
+        "options": [
+            "A. Radiation",
+            "B. Incineration",
+            "C. Antibiotic resistance",
+            "D. Antiseptics"
+        ]
+    },
+
 
 
 
@@ -2287,7 +2530,857 @@ const questionBank =
       "C. Input Port",
       "D. Indexed Page"
     ]
-  }
+  },
+
+
+
+//   📕📕📕📕BSN-Microbiology
+  {
+    "course": "BSN-Biochem",
+    "numb": 1,
+    "question": "Which of the following best describes the primary structure of a protein?",
+    "answer": "A. The sequence of amino acids in the polypeptide chain",
+    "options": [
+      "A. The sequence of amino acids in the polypeptide chain",
+      "B. The 3D folding of the polypeptide chain",
+      "C. The interaction between multiple polypeptide chains",
+      "D. The arrangement of beta sheets and alpha helices"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 2,
+    "question": "What type of bond links monosaccharides in a polysaccharide?",
+    "answer": "B. Glycosidic bond",
+    "options": [
+      "A. Peptide bond",
+      "B. Glycosidic bond",
+      "C. Phosphodiester bond",
+      "D. Hydrogen bond"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 3,
+    "question": "Which nitrogenous base is found in RNA but not in DNA?",
+    "answer": "C. Uracil",
+    "options": [
+      "A. Adenine",
+      "B. Thymine",
+      "C. Uracil",
+      "D. Cytosine"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 4,
+    "question": "What is the main function of lipids in biological membranes?",
+    "answer": "C. Structural components forming a lipid bilayer",
+    "options": [
+      "A. Energy storage",
+      "B. Catalysis of reactions",
+      "C. Structural components forming a lipid bilayer",
+      "D. Genetic information storage"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 5,
+    "question": "Which vitamin acts as a coenzyme in many enzymatic reactions involving carboxylation?",
+    "answer": "B. Vitamin B7 (Biotin)",
+    "options": [
+      "A. Vitamin B6",
+      "B. Vitamin B7 (Biotin)",
+      "C. Vitamin C",
+      "D. Vitamin D"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 6,
+    "question": "In the quaternary structure of hemoglobin, how many polypeptide chains are involved?",
+    "answer": "D. Four",
+    "options": [
+      "A. One",
+      "B. Two",
+      "C. Three",
+      "D. Four"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 7,
+    "question": "What is the main structural difference between DNA and RNA?",
+    "answer": "C. DNA contains deoxyribose, RNA contains ribose",
+    "options": [
+      "A. DNA contains uracil, RNA contains thymine",
+      "B. DNA is single-stranded, RNA is double-stranded",
+      "C. DNA contains deoxyribose, RNA contains ribose",
+      "D. DNA has a phosphate group, RNA does not"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 8,
+    "question": "Which of the following is an essential amino acid?",
+    "answer": "C. Lysine",
+    "options": [
+      "A. Glycine",
+      "B. Alanine",
+      "C. Lysine",
+      "D. Proline"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 9,
+    "question": "Which carbohydrate is the storage form of glucose in animals?",
+    "answer": "B. Glycogen",
+    "options": [
+      "A. Cellulose",
+      "B. Glycogen",
+      "C. Starch",
+      "D. Chitin"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 10,
+    "question": "What type of interaction stabilizes the secondary structure of proteins?",
+    "answer": "C. Hydrogen bonds",
+    "options": [
+      "A. Ionic bonds",
+      "B. Disulfide bridges",
+      "C. Hydrogen bonds",
+      "D. Covalent bonds"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 11,
+    "question": "Which of these lipids is classified as a steroid?",
+    "answer": "C. Cholesterol",
+    "options": [
+      "A. Phospholipid",
+      "B. Triglyceride",
+      "C. Cholesterol",
+      "D. Glycolipid"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 12,
+    "question": "What is the function of RNA polymerase?",
+    "answer": "B. Synthesizes RNA from DNA template",
+    "options": [
+      "A. Synthesizes DNA",
+      "B. Synthesizes RNA from DNA template",
+      "C. Synthesizes proteins",
+      "D. Breaks down RNA"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 13,
+    "question": "Which sugar is a component of ATP?",
+    "answer": "C. Ribose",
+    "options": [
+      "A. Fructose",
+      "B. Glucose",
+      "C. Ribose",
+      "D. Galactose"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 14,
+    "question": "The peptide bond is formed between which functional groups of amino acids?",
+    "answer": "A. Amino and carboxyl groups",
+    "options": [
+      "A. Amino and carboxyl groups",
+      "B. Two amino groups",
+      "C. Two carboxyl groups",
+      "D. Hydroxyl and carboxyl groups"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 15,
+    "question": "Which biomolecule is most directly involved in catalysis?",
+    "answer": "C. Proteins",
+    "options": [
+      "A. Lipids",
+      "B. Carbohydrates",
+      "C. Proteins",
+      "D. Nucleic acids"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 16,
+    "question": "What defines an essential nutrient?",
+    "answer": "B. Must be obtained from diet",
+    "options": [
+      "A. Synthesized by the body",
+      "B. Must be obtained from diet",
+      "C. Toxic in high amounts",
+      "D. Can be synthesized in small quantities"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 17,
+    "question": "Which polysaccharide forms the cell wall in plants?",
+    "answer": "B. Cellulose",
+    "options": [
+      "A. Glycogen",
+      "B. Cellulose",
+      "C. Starch",
+      "D. Peptidoglycan"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 18,
+    "question": "What functional group characterizes amino acids?",
+    "answer": "B. Amino and carboxyl",
+    "options": [
+      "A. Hydroxyl and methyl",
+      "B. Amino and carboxyl",
+      "C. Phosphate and methyl",
+      "D. Sulfhydryl and hydroxyl"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 19,
+    "question": "Which vitamin deficiency leads to scurvy?",
+    "answer": "C. Vitamin C",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin B12",
+      "C. Vitamin C",
+      "D. Vitamin D"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 20,
+    "question": "Which nucleotide base pairing is correct in DNA?",
+    "answer": "B. Adenine-Thymine",
+    "options": [
+      "A. Adenine-Guanine",
+      "B. Adenine-Thymine",
+      "C. Cytosine-Thymine",
+      "D. Guanine-Thymine"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 21,
+    "question": "Which metabolic pathway produces the most ATP per glucose molecule?",
+    "answer": "C. Oxidative phosphorylation",
+    "options": [
+      "A. Glycolysis",
+      "B. Citric acid cycle",
+      "C. Oxidative phosphorylation",
+      "D. Fermentation"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 22,
+    "question": "During anaerobic respiration, pyruvate is converted into:",
+    "answer": "B. Lactate",
+    "options": [
+      "A. Acetyl-CoA",
+      "B. Lactate",
+      "C. Carbon dioxide",
+      "D. Glucose"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 23,
+    "question": "Which enzyme regulates the rate-limiting step in glycolysis?",
+    "answer": "B. Phosphofructokinase-1 (PFK-1)",
+    "options": [
+      "A. Hexokinase",
+      "B. Phosphofructokinase-1 (PFK-1)",
+      "C. Pyruvate kinase",
+      "D. Lactate dehydrogenase"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 24,
+    "question": "What is the main purpose of the pentose phosphate pathway?",
+    "answer": "B. Production of NADPH and ribose-5-phosphate",
+    "options": [
+      "A. ATP production",
+      "B. Production of NADPH and ribose-5-phosphate",
+      "C. Protein synthesis",
+      "D. Fatty acid oxidation"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 25,
+    "question": "Which molecule acts as a common energy currency in the cell?",
+    "answer": "C. ATP",
+    "options": [
+      "A. NADH",
+      "B. FADH2",
+      "C. ATP",
+      "D. GTP"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 26,
+    "question": "What process regenerates NAD+ under anaerobic conditions?",
+    "answer": "B. Fermentation",
+    "options": [
+      "A. Glycolysis",
+      "B. Fermentation",
+      "C. Electron transport chain",
+      "D. Beta-oxidation"
+    ]
+  },
+  {
+    "course": "BSN-Biochem",
+    "numb": 27,
+    "question": "The citric acid cycle occurs in which cellular compartment?",
+"answer": "C. Mitochondrial matrix",
+"options": [
+"A. Cytoplasm",
+"B. Nucleus",
+"C. Mitochondrial matrix",
+"D. Endoplasmic reticulum"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 28,
+"question": "Which vitamin deficiency causes beri-beri?",
+"answer": "A. Thiamine (Vitamin B1)",
+"options": [
+"A. Thiamine (Vitamin B1)",
+"B. Niacin (Vitamin B3)",
+"C. Riboflavin (Vitamin B2)",
+"D. Pyridoxine (Vitamin B6)"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 29,
+"question": "What coenzyme is required for the function of pyruvate dehydrogenase?",
+"answer": "D. Thiamine pyrophosphate (TPP)",
+"options": [
+"A. NAD+",
+"B. FAD",
+"C. Coenzyme A",
+"D. Thiamine pyrophosphate (TPP)"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 30,
+"question": "Which molecule is the final electron acceptor in aerobic respiration?",
+"answer": "A. Oxygen",
+"options": [
+"A. Oxygen",
+"B. NAD+",
+"C. FAD",
+"D. Carbon dioxide"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 31,
+"question": "What is the main storage form of fat in humans?",
+"answer": "D. Triglycerides",
+"options": [
+"A. Phospholipids",
+"B. Steroids",
+"C. Glycolipids",
+"D. Triglycerides"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 32,
+"question": "Which fatty acid type has no double bonds?",
+"answer": "A. Saturated fatty acids",
+"options": [
+"A. Saturated fatty acids",
+"B. Monounsaturated fatty acids",
+"C. Polyunsaturated fatty acids",
+"D. Trans fatty acids"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 33,
+"question": "Which organ primarily performs gluconeogenesis?",
+"answer": "C. Liver",
+"options": [
+"A. Kidney",
+"B. Pancreas",
+"C. Liver",
+"D. Muscle"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 34,
+"question": "Which hormone stimulates glycogen breakdown?",
+"answer": "B. Glucagon",
+"options": [
+"A. Insulin",
+"B. Glucagon",
+"C. Cortisol",
+"D. Thyroxine"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 35,
+"question": "Which enzyme breaks down triglycerides into glycerol and free fatty acids?",
+"answer": "C. Lipase",
+"options": [
+"A. Amylase",
+"B. Protease",
+"C. Lipase",
+"D. Lactase"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 36,
+"question": "What is the basic unit of nucleic acids?",
+"answer": "A. Nucleotide",
+"options": [
+"A. Nucleotide",
+"B. Amino acid",
+"C. Monosaccharide",
+"D. Fatty acid"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 37,
+"question": "Which enzyme unwinds DNA during replication?",
+"answer": "D. Helicase",
+"options": [
+"A. Ligase",
+"B. DNA polymerase",
+"C. Primase",
+"D. Helicase"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 38,
+"question": "Which molecule carries amino acids to the ribosome during translation?",
+"answer": "B. tRNA",
+"options": [
+"A. mRNA",
+"B. tRNA",
+"C. rRNA",
+"D. snRNA"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 39,
+"question": "What is the end product of fatty acid beta-oxidation?",
+"answer": "A. Acetyl-CoA",
+"options": [
+"A. Acetyl-CoA",
+"B. Pyruvate",
+"C. Lactate",
+"D. NADH"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 40,
+"question": "Which vitamin is essential for blood clotting?",
+"answer": "C. Vitamin K",
+"options": [
+"A. Vitamin A",
+"B. Vitamin D",
+"C. Vitamin K",
+"D. Vitamin E"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 41,
+"question": "Which enzyme converts angiotensinogen to angiotensin I?",
+"answer": "A. Renin",
+"options": [
+"A. Renin",
+"B. ACE",
+"C. Aldosterone",
+"D. Angiotensinogenase"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 42,
+"question": "Which of the following is a zwitterion at physiological pH?",
+"answer": "B. Amino acid",
+"options": [
+"A. Fatty acid",
+"B. Amino acid",
+"C. Glucose",
+"D. Nucleotide"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 43,
+"question": "Which molecule is the main carrier of electrons in cellular respiration?",
+"answer": "C. NAD+",
+"options": [
+"A. ATP",
+"B. CO2",
+"C. NAD+",
+"D. O2"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 44,
+"question": "Which enzyme catalyzes the first step in the urea cycle?",
+"answer": "D. Carbamoyl phosphate synthetase I",
+"options": [
+"A. Ornithine transcarbamylase",
+"B. Arginase",
+"C. Argininosuccinate synthase",
+"D. Carbamoyl phosphate synthetase I"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 45,
+"question": "Which of these is a ketone body produced during fasting?",
+"answer": "B. Acetoacetate",
+"options": [
+"A. Lactate",
+"B. Acetoacetate",
+"C. Pyruvate",
+"D. Oxaloacetate"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 46,
+"question": "Which hormone is responsible for lowering blood glucose levels?",
+"answer": "A. Insulin",
+"options": [
+"A. Insulin",
+"B. Glucagon",
+"C. Cortisol",
+"D. Adrenaline"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 47,
+"question": "Which enzyme breaks down starch into maltose?",
+"answer": "C. Amylase",
+"options": [
+"A. Lactase",
+"B. Maltase",
+"C. Amylase",
+"D. Sucrase"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 48,
+"question": "What is the major site of protein digestion in the human body?",
+"answer": "B. Small intestine",
+"options": [
+"A. Mouth",
+"B. Small intestine",
+"C. Stomach",
+"D. Large intestine"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 49,
+"question": "Which of these enzymes is responsible for DNA synthesis?",
+"answer": "D. DNA polymerase",
+"options": [
+"A. RNA polymerase",
+"B. Helicase",
+"C. Ligase",
+"D. DNA polymerase"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 50,
+"question": "Which hormone stimulates the release of bile from the gallbladder?",
+"answer": "B. Cholecystokinin (CCK)",
+"options": [
+"A. Secretin",
+"B. Cholecystokinin (CCK)",
+"C. Gastrin",
+"D. Insulin"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 51,
+"question": "Which blood test would indicate impaired carbohydrate metabolism?",
+"answer": "C. Blood glucose level",
+"options": [
+"A. Hemoglobin",
+"B. Serum creatinine",
+"C. Blood glucose level",
+"D. Serum albumin"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 52,
+"question": "What is the role of the enzyme lactase?",
+"answer": "B. Breaks down lactose into glucose and galactose",
+"options": [
+"A. Breaks down maltose",
+"B. Breaks down lactose into glucose and galactose",
+"C. Breaks down sucrose",
+"D. Synthesizes lactose"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 53,
+"question": "Which metabolic disorder results from a deficiency of phenylalanine hydroxylase?",
+"answer": "A. Phenylketonuria (PKU)",
+"options": [
+"A. Phenylketonuria (PKU)",
+"B. Alkaptonuria",
+"C. Maple syrup urine disease",
+"D. Homocystinuria"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 54,
+"question": "Which vitamin deficiency causes rickets?",
+"answer": "D. Vitamin D",
+"options": [
+"A. Vitamin A",
+"B. Vitamin B12",
+"C. Vitamin C",
+"D. Vitamin D"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 55,
+"question": "Which enzyme catalyzes the conversion of glucose-6-phosphate to glucose?",
+"answer": "B. Glucose-6-phosphatase",
+"options": [
+"A. Hexokinase",
+"B. Glucose-6-phosphatase",
+"C. Phosphofructokinase",
+"D. Glucose kinase"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 56,
+"question": "Which of these amino acids is glucogenic?",
+"answer": "A. Alanine",
+"options": [
+"A. Alanine",
+"B. Leucine",
+"C. Lysine",
+"D. Isoleucine"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 57,
+"question": "Which hormone increases blood calcium levels?",
+"answer": "C. Parathyroid hormone (PTH)",
+"options": [
+"A. Calcitonin",
+"B. Insulin",
+"C. Parathyroid hormone (PTH)",
+"D. Glucagon"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 58,
+"question": "Which organ produces bile?",
+"answer": "A. Liver",
+"options": [
+"A. Liver",
+"B. Pancreas",
+"C. Gallbladder",
+"D. Stomach"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 59,
+"question": "Which nucleotide is a precursor for DNA synthesis?",
+"answer": "B. Deoxyribonucleotide",
+"options": [
+"A. Ribonucleotide",
+"B. Deoxyribonucleotide",
+"C. ATP",
+"D. cAMP"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 60,
+"question": "What is the primary role of HDL cholesterol?",
+"answer": "D. Transport cholesterol from tissues to liver",
+"options": [
+"A. Transport cholesterol to tissues",
+"B. Form bile salts",
+"C. Synthesize cholesterol",
+"D. Transport cholesterol from tissues to liver"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 61,
+"question": "Which enzyme converts fibrinogen to fibrin during clot formation?",
+"answer": "C. Thrombin",
+"options": [
+"A. Plasmin",
+"B. Prothrombin",
+"C. Thrombin",
+"D. Factor XIII"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 62,
+"question": "Which molecule inhibits acetylcholinesterase?",
+"answer": "B. Organophosphates",
+"options": [
+"A. Beta blockers",
+"B. Organophosphates",
+"C. Calcium channel blockers",
+"D. NSAIDs"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 63,
+"question": "Which organelle is the site of oxidative phosphorylation?",
+"answer": "D. Mitochondria",
+"options": [
+"A. Nucleus",
+"B. Endoplasmic reticulum",
+"C. Golgi apparatus",
+"D. Mitochondria"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 64,
+"question": "Which compound acts as a buffer in blood plasma?",
+"answer": "A. Bicarbonate",
+"options": [
+"A. Bicarbonate",
+"B. Phosphate",
+"C. Albumin",
+"D. Hemoglobin"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 65,
+"question": "Which vitamin is involved in the carboxylation of clotting factors?",
+"answer": "C. Vitamin K",
+"options": [
+"A. Vitamin A",
+"B. Vitamin D",
+"C. Vitamin K",
+"D. Vitamin E"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 66,
+"question": "Which enzyme hydrolyzes peptide bonds in proteins?",
+"answer": "D. Protease",
+"options": [
+"A. Amylase",
+"B. Lipase",
+"C. Lactase",
+"D. Protease"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 67,
+"question": "Which molecule is the primary nitrogen donor for nucleotide synthesis?",
+"answer": "B. Glutamine",
+"options": [
+"A. Aspartate",
+"B. Glutamine",
+"C. Alanine",
+"D. Glycine"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 68,
+"question": "Which type of RNA carries genetic information from DNA to ribosomes?",
+"answer": "A. mRNA",
+"options": [
+"A. mRNA",
+"B. tRNA",
+"C. rRNA",
+"D. miRNA"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 69,
+"question": "Which hormone increases gluconeogenesis during fasting?",
+"answer": "B. Cortisol",
+"options": [
+"A. Insulin",
+"B. Cortisol",
+"C. Glucagon",
+"D. Aldosterone"
+]
+},
+{
+"course": "BSN-Biochem",
+"numb": 70,
+"question": "Which vitamin deficiency causes pellagra?",
+"answer": "A. Niacin (Vitamin B3)",
+"options": [
+"A. Niacin (Vitamin B3)",
+"B. Riboflavin (Vitamin B2)",
+"C. Thiamine (Vitamin B1)",
+"D. Pyridoxine (Vitamin B6)"
+]
+}
+
+
+
+
+
+
 ];
 
 let selectedCourse = "";
