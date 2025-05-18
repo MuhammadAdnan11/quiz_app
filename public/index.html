@@ -2,241 +2,139 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Quiz Website</title>
-  <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css" />
+    <!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<style>
-.menu-toggle {
-  display: none;
-}
-
-/* Show hamburger menu only on small screens */
-@media (max-width: 768px) {
-  .menu-toggle {
-    display: block;
-    font-size: 28px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: #000; /* or white depending on your design */
-  }
-  .navbar {
-    display: none;
-    flex-direction: column;
-    background-color: #333;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    width: 100%;
-    padding: 10px;
-    z-index: 9999;
-  }
-
-  .navbar.active {
-    display: flex;
-  }
-
-  .navbar a {
-    color: white;
-    padding: 10px;
-    text-decoration: none;
-  }
-
-  .navbar a:hover {
-    background-color: #444;
-  }
-}
-</style>
   <script>
     if (!localStorage.getItem("isLoggedIn")) {
       window.location.href = "login.html";
     }
   </script>
-
-   <style>
+  <style>
     #quizSection {
-      display: none; /* initially hidden */
+      display: none;
+    }
+    #document-section {
+      margin-top: 20px;
+      padding: 10px;
+      background: #f0f0f0;
+      border-radius: 8px;
+    }
+    #document-links li {
+      margin: 5px 0;
     }
   </style>
 </head>
 <body>
   <header class="header">
-    <a href="#" class="logo">Quiz.</a>
+    <a href="#" class="logo">QuizMaster</a>
     <button class="menu-toggle" id="menu-toggle">&#9776;</button>
     <nav class="navbar">
-      <a href="#" class="active">Home</a>
-      <a href="#">About</a>
-      <a href="#">Services</a>
-      <a href="#">Contact</a>
+      <a href="./index.html" class="active">Home</a>
+      <a href="./about.html">About</a>
+      <!-- <a href="#">Services</a> -->
+      <a href="./contact.html">Contact</a>
+      <!-- <a href="#">Report</a> -->
       <a href="./login.html">Login</a>
       <a href="./registration.html">Register</a>
     </nav>
   </header>
 
-  <main class="main">
-    <!-- <section class="home" id="home-section">
-      <div class="home-content">
-        <h1>Quiz Portal</h1>
-        <p>Ready to test your computer skills? Dive into this quiz and prove your knowledge!</p>
-       
-        <p>Select a course and start the quiz:</p> -->
-
-    <!-- ✅ Course Dropdown -->
-    <!-- <select id="course-select">
-      <option value="" disabled selected>Select a course</option>
-      <option value="ict">ICT / Computer Skills</option>
-      <option value="msword">MS Word</option>
-      <option value="networking">Networking</option> -->
-      <!-- Add more subjects here -->
-    <!-- </select> -->
-<div class="particles">
-  <span></span><span></span><span></span><span></span><span></span>
+<!-- ETEA News Sidebar -->
+<div class="news-sidebar">
+  <h2>Latest ETEA News</h2>
+  <ul>
+    <li><a href="https://etea.edu.pk/result">Results for RTI South – Test Date: 09-May-2025</a></li>
+    <li><a href="https://etea.edu.pk/result">QARI, AT, and CT-IT – Test Date: 04-May-2025</a></li>
+    <li><a href="https://etea.edu.pk/result">Entrance Test Schedule – May 2025</a></li>
+  </ul>
 </div>
 
 
-<!-- Home Section -->
-<section class="home" id="home-section">
-  <div class="home-content">
-    <h1>Quiz Portal</h1>
-    <p>Select a course and start the quiz:</p>
-    <select id="course-select">
-      <option value="" disabled selected>Select a course</option>
-      <option value="ict">ICT</option>
-      <option value="msword">MS Word</option>
-      <option value="networking">Networking</option>
-    </select>
-    <br /><br />
-    <button id="start-quiz-btn" class="start-btn">Start Quiz</button>
-      <p style="color: rgb(22, 12, 12)">Prepared By: <b>"Engr M.Adnan"</b> for GIMS Students Practice</p>
 
 
-    </div>
-</section>
 
-<!-- Quiz Section -->
-<section class="quiz-section" style="display: none;">
-  <div class="quiz-box">
-    <h1>Computer Quiz</h1>
-    <div class="quiz-header">
-      <span>Course: <span id="selected-course-label">-</span></span><br />
-      <span>Score: <span class="current-score">0</span> / <span class="total-questions">0</span></span>
+  <main class="main">
+    <div class="particles">
+      <span></span><span></span><span></span><span></span><span></span>
     </div>
-    <div class="progress-container">
-      <div class="progress-bar" id="progress-bar"></div>
-    </div>
-    <h2 class="question-text"></h2>
-    <div class="option-list"></div>
-    <div class="quiz-footer">
-      <span class="question-counter"><span class="current-question">1</span> of <span class="total-questions">0</span> Questions</span><br />
-      <button class="next-btn">Next</button>
-    </div>
+
+  <!-- Inside your #home-section, replace this part -->
+   <section class="home" id="home-section">
+<div class="home-content">
+  <h1>QuizMaster</h1>
+<p>Select a course and start the quiz:</p>
+ <!-- Semester dropdown -->
+  
+        <label for="semester-select">Select Semester:</label>
+        <select id="semester-select">
+          <option value="" disabled selected>Select Semester</option>
+          <option value="semester1">Semester 1</option>
+          <option value="semester2">Semester 2</option>
+          <option value="semester3">Semester 3</option>
+          <option value="CNA">CNA</option>
+          <option value="BSN">BSN</option>
+        </select>
+        
+
+        <!-- Course dropdown -->
+        <label for="course-select">Select Course:</label>
+        <select id="course-select" disabled>
+          <option value="" disabled selected>Select a course</option>
+          <!-- options loaded dynamically based on semester -->
+        </select>
+</div>
+       <!-- Document links section -->
+      <div id="document-section" style="display: none;">
+  <h3 class="doc-toggle">Available Documents <span class="arrow">▼</span></h3>
+  <div class="doc-content">
+    <ul id="document-links"></ul>
   </div>
-</section>
+</div>
 
-
-
-
-        <!-- <button id="start-quiz-btn" class="start-btn">Start Quiz</button> -->
+        <br /><br />
+        <button id="start-quiz-btn" class="start-btn">Start Quiz</button>
+        <p style="color: rgb(22, 12, 12)">Prepared By: <b>"Engr M.Adnan"</b> for GIMS Students Practice</p>
       </div>
-    </section>
+    
+   </section>
 
-    <!-- <section class="quiz-section" id="quiz-section" style="display: none;">
+<!-- Add semester select -->
+
+
+
+
+
+
+
+ 
+
+    <!-- Quiz Section -->
+    <section class="quiz-section" style="display: none;">
       <div class="quiz-box">
-        <h1>Computer Skills</h1>
+        <h1>Computer Quiz</h1>
         <div class="quiz-header">
-          <span>Test Your ICT Knowledge</span>
-          <span class="header-score">Score: <span class="current-score">0</span> / <span class="total-questions">0</span></span>
+          <span>Course: <span id="selected-course-label">-</span></span><br />
+          <span>Score: <span class="current-score">0</span> / <span class="total-questions">0</span></span>
+        </div>
+        <div class="progress-container">
+          <div class="progress-bar" id="progress-bar"></div>
         </div>
         <h2 class="question-text"></h2>
         <div class="option-list"></div>
-
         <div class="quiz-footer">
-          <span class="question-counter"><span class="current-question">1</span> of <span class="total-questions">0</span> Questions</span>
+          <span class="question-counter"><span class="current-question">1</span> of <span class="total-questions">0</span> Questions</span><br />
           <button class="next-btn">Next</button>
         </div>
       </div>
-
-
-      <div class="result-box" style="display: none;">
-        <h2>Quiz Result!</h2>
-        <div class="percentage-container">
-          <div class="circular-progress">
-            <span class="progress-value">0%</span>
-          </div>
-          <span class="question-total">You answered <span class="current-score">0</span> out of <span class="total-questions">0</span> questions correctly.</span>
-        </div>
-        <div class="buttons">
-          <button class="tryAgain-btn">Try Again</button>
-          <button class="goHome-btn">Go To Home</button>
-        </div>
-      </div>
-    </section> -->
-<!-- Include this inside your <body> where appropriate -->
-<!-- <section class="quiz-section">
-  <div class="quiz-box">
-    <h1>Computer Skills</h1>
-    <div class="quiz-header">
-      <span>Test Your ICT Knowledge</span>
-      <span class="header-score">Score: <span class="current-score">0</span> / <span class="total-questions">0</span></span>
-    </div>
-    <h2 class="question-text"></h2>
-    <div class="option-list"></div>
-    <div class="quiz-footer">
-      <span class="question-counter"><span class="current-question">1</span> of <span class="total-questions">0</span> Questions</span>
-      <button class="next-btn">Next</button>
-    </div>
-  </div>
-</section> -->
-<!-- Start Button (could be in a welcome screen or header) -->
-<!-- <button id="start-quiz-btn" class="start-btn">Start Quiz</button> -->
-
-<!-- Quiz Section (hidden by default) -->
-<!-- <section class="quiz-section" style="display: none;">
-  <div class="quiz-box">
-    <h1>Computer Skills</h1>
-    <div class="quiz-header">
-      <span>Test Your ICT Knowledge</span>
-      <span class="header-score">Score: <span class="current-score">0</span> / <span class="total-questions">0</span></span>
-    </div>
-    <h2 class="question-text"></h2>
-    <div class="option-list"></div>
-    <div class="quiz-footer">
-      <span class="question-counter"><span class="current-question">1</span> of <span class="total-questions">0</span> Questions</span>
-      <button class="next-btn">Next</button>
-    </div>
-  </div>
-</section> -->
-
-<section class="quiz-section">
-  <div class="quiz-box">
-    <h1>Computer Skills</h1>
-    <div class="quiz-header">
-      <span>Test Your ICT Knowledge</span><br />
-      <span class="header-score">Score: <span class="current-score">0</span> / <span class="total-questions">0</span></span>
-    </div>
-
- <!-- ✅ New progress bar -->
-  <div class="progress-container">
-    <div class="progress-bar" id="progress-bar"></div>
-  </div>
-
-
-    <h2 class="question-text"></h2>
-    <div class="option-list"></div>
-    <div class="quiz-footer">
-      <span class="question-counter"><span class="current-question">1</span> of <span class="total-questions">0</span> Questions</span><br />
-      <button class="next-btn">Next</button>
-    </div>
-  </div>
-</section>
+    </section>
 
 
 
-
-
-
-
+    <!-- Quiz Guide -->
     <div class="popup-info" style="display: none;">
       <h2>Quiz Guide</h2>
       <span class="info">1. Click "Continue" to begin the quiz.</span>
@@ -251,158 +149,328 @@
     </div>
   </main>
 
+<!-- Vision and mission  -->
+<section class="vision-mission-section">
+  <div class="container">
+    <div class="column">
+      <div class="icon">
+        <i class="fas fa-eye"></i>
+      </div>
+      <h3>Our Vision</h3>
+      <p>To be a leading digital platform that empowers students to achieve academic excellence through engaging, accessible, and personalized quiz experiences.</p>
+    </div>
+    <div class="column">
+      <div class="icon">
+        <i class="fas fa-bullseye"></i>
+      </div>
+      <h3>Our Mission</h3>
+      <p>Our mission is to provide a dynamic and user-friendly quiz platform that enhances learning by offering diverse, high-quality assessments. We aim to foster a supportive environment where students can identify their strengths, address challenges, and track their academic progress effectively.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Quote carousel  -->
+<div class="quote-carousel">
+  <div class="quotes">
+    <div class="quote">
+      <span class="quote-icon">❝</span>
+      <p>"Education is the most powerful weapon which you can use to change the world."</p>
+      <span class="author">– Nelson Mandela</span>
+    </div>
+    <div class="quote">
+      <span class="quote-icon">❝</span>
+      <p>"The roots of education are bitter, but the fruit is sweet."</p>
+      <span class="author">– Aristotle</span>
+    </div>
+    <div class="quote">
+      <span class="quote-icon">❝</span>
+      <p>"An investment in knowledge pays the best interest."</p>
+      <span class="author">– Benjamin Franklin</span>
+    </div>
+  </div>
+
+  <div class="carousel-controls">
+    <button onclick="prevQuote()">❮</button>
+    <button onclick="nextQuote()">❯</button>
+  </div>
+</div>
+
+<!-- Avatar  -->
+ <!-- <div class="profile-intro">
+  <div class="avatar">
+    <img src="/image/avatar.jpg" alt="Engr.Muhammad Adnan">
+  </div>
+  <div class="intro-text">
+    <h3>Hello, I'm Muhammad Adnan</h3>
+    <p>I'm passionate about education, technology, and empowering learners through knowledge. I love building meaningful web experiences and sharing ideas that inspire growth.</p>
+  </div>
+</div> -->
+
+<div class="profile-container">
+  <div class="profile-intro animate-fade-up">
+    <div class="avatar">
+      <img src="./image/avatar.jpg" alt="Engr. Muhammad Adnan">
+    </div>
+    <div class="intro-text">
+      <h3>Hello, I'm Muhammad Adnan</h3>
+      <p>
+        I'm passionate about education, technology, and empowering learners through knowledge. I love building meaningful web experiences and sharing ideas that inspire growth.
+      </p>
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/muhammad-adnan-174270251/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Testominals section  -->
+
+<section class="testimonials">
+  <h2>What Our Users Say</h2>
+  <div class="testimonial-container">
+  
+    <div class="testimonial animate-on-scroll">
+      <img src="./image/team-3.jpg" alt="Feroz Khan">
+      <p>"This quiz helped me learn so much about computers. Super helpful!"</p>
+      <h4>Feroz Khan</h4>
+      <span>Medical Student</span>
+    </div>
+
+    <div class="testimonial animate-on-scroll">
+      <img src="./image/team-1.jpg" alt="Bilal Ahmed">
+      <p>"Very well designed. The questions are accurate and challenging."</p>
+      <h4>Bilal Ahmed</h4>
+      <span>IT Trainer</span>
+    </div>
+
+    <div class="testimonial animate-on-scroll">
+      <img src="./image/team-4.jpg" alt="Fatima Raza">
+      <p>"I loved the instant feedback and the overall design. Great job!"</p>
+      <h4>Fatima Raza</h4>
+      <span>College Student</span>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- Footer  -->
+ <footer class="site-footer">
+  <div class="footer-content">
+    <div class="footer-left">
+      <h3>QuizMaster</h3>
+      <p>Helping students sharpen their computer skills every day.</p>
+    </div>
+
+    <div class="footer-links">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Start Quiz</a></li>
+        <li><a href="#">Testimonials</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-contact">
+      <h4>Contact</h4>
+      <p>Email: adnan191022@gmail.com</p>
+      <p>Phone: +923169727859</p>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2025 QuizMaster. All rights reserved.</p>
+  </div>
+</footer>
+
+
+
+
+  <!-- Javascript portion from here  -->
   <script src="questions.js"></script>
-  <!-- <script src="script.js"></script> -->
-  <!-- 🎯 -->
-  <!-- <script>
-    document.getElementById('start-quiz-btn').addEventListener('click', () => {
-      document.getElementById('home-section').style.display = 'none';
-      document.getElementById('quiz-section').style.display = 'block';
-    });
+  <!-- <script src="../script.js"></script> -->
 
-    const toggle = document.getElementById("menu-toggle");
-    const navbar = document.querySelector(".navbar");
-    const links = navbar.querySelectorAll("a");
-
-    toggle.addEventListener("click", () => {
-      navbar.classList.toggle("active");
-    });
-    links.forEach(link => {
-      link.addEventListener("click", () => {
-        navbar.classList.remove("active");
-      });
-    });
-
-    window.onload = () => {
-      const saved = localStorage.getItem("theme") || "light";
-      document.body.classList.add(saved);
-    };
-  </script> -->
-<script>
+  <script>
+document.addEventListener('DOMContentLoaded', () => {
+  // Hamburger menu toggle
   document.getElementById('menu-toggle').addEventListener('click', () => {
-  const navbar = document.querySelector('.navbar');
-  navbar.classList.toggle('active');  // Toggle the active class on the navbar
-});
-</script>
-<!-- 🎯🎯🎯🎯🎯 -->
- <script>
-    document.getElementById('startQuizBtn').addEventListener('click', function () {
-      const courseSelected = document.getElementById('courseSelect').value;
-      
-      if (!courseSelected) {
-        alert('Please select a course before starting the quiz.');
-        
-        // Reset visibility of elements to ensure they are displayed correctly
-        document.getElementById('homePage').style.display = 'block'; // Show home page again
-        document.getElementById('startQuizBtn').style.display = 'block'; // Ensure "Start Quiz" button is visible
-        document.getElementById('quizSection').style.display = 'none'; // Hide quiz section
-        document.getElementById('courseSelect').style.display = 'block'; // Ensure course select is visible
-      } else {
-        // Proceed with starting the quiz if a course is selected
-        document.getElementById('homePage').style.display = 'none'; // Hide home page
-        document.getElementById('startQuizBtn').style.display = 'none'; // Hide "Start Quiz" button
-        document.getElementById('quizSection').style.display = 'block'; // Show quiz section
-      }
-    });
-  </script>
-
-<!-- <script>
-const questions = [
-  {
-    numb: 1,
-    question: "What is hardware?",
-    answer: "B. Physical parts of the computer",
-    options: [
-      "A. Medical software",
-      "B. Physical parts of the computer",
-      "C. A type of virus",
-      "D. None of the above"
-    ]
-  },
-  {
-    numb: 2,
-    question: "What is software?",
-    answer: "A. Programs and operating systems",
-    options: [
-      "A. Programs and operating systems",
-      "B. Wires and circuits",
-      "C. Hardware",
-      "D. Physical equipment"
-    ]
-  }
-];
-
-let questionIndex = 0;
-let userScore = 0;
-
-const questionText = document.querySelector(".question-text");
-const optionsList = document.querySelector(".option-list");
-const nextBtn = document.querySelector(".next-btn");
-const totalQuestions = document.querySelector(".total-questions");
-const currentQuestionEl = document.querySelector(".current-question");
-const currentScore = document.querySelector(".current-score");
-
-// Display the first question
-function showQuestion(index) {
-  const q = questions[index];
-  questionText.textContent = `${q.numb}. ${q.question}`;
-  optionsList.innerHTML = "";
-
-  q.options.forEach(option => {
-    const div = document.createElement("div");
-    div.className = "option";
-    div.innerHTML = `<span>${option}</span>`;
-    div.onclick = () => selectOption(div, q.answer);
-    optionsList.appendChild(div);
+    document.querySelector('.navbar').classList.toggle('active');
   });
 
-  currentQuestionEl.textContent = index + 1;
-  totalQuestions.textContent = questions.length;
-  currentScore.textContent = userScore;
-}
+  const courseSelect = document.getElementById("course-select");
+  const documentSection = document.getElementById("document-section");
+  const documentLinks = document.getElementById("document-links");
 
-function selectOption(selected, correctAnswer) {
-  const userAnswer = selected.textContent;
-  const options = optionsList.children;
+// 📚📕📕Notes pdf 
+  const documentsBySubject = {
+    ict: [
+      { name: "Network", url: "docs/network.pdf" },
+      { name: "Network Topologies", url: "docs/network-topologies.pdf" },
+      { name: "Network Topologies", url: "docs/computer-virus.pdf" }
 
-  if (userAnswer === correctAnswer) {
-    selected.classList.add("correct");
-    userScore++;
-  } else {
-    selected.classList.add("incorrect");
-    [...options].forEach(opt => {
-      if (opt.textContent === correctAnswer) {
-        opt.classList.add("correct");
-      }
-    });
-  }
+        ],
+     ck: [
+      { name: "Network", url: "docs/network.pdf" },
+      { name: "Network Topologies", url: "docs/network-topologies.pdf" },
+      { name: "Network Topologies", url: "docs/computer-virus.pdf" }
 
-  [...options].forEach(opt => opt.classList.add("disabled"));
-  nextBtn.classList.add("active");
-}
+    ]
+    // msword: [
+    //   { name: "MS Word Guide", url: "docs/msword-guide.pdf" }
+    // ],
+    // networking: [
+    //   { name: "Networking Basics", url: "docs/networking-basics.pdf" }
+    // ]
+  };
 
-nextBtn.onclick = () => {
-  questionIndex++;
-  if (questionIndex < questions.length) {
-    showQuestion(questionIndex);
-    nextBtn.classList.remove("active");
-  } else {
-    alert("Quiz complete!");
-  }
+  // Course selection 📁📂
+const semesterSelect = document.getElementById("semester-select");
+// const courseSelect = document.getElementById("course-select");
+
+// Define courses by semester (update as per your actual courses)
+const coursesBySemester = {
+  semester1: [
+    { value: "ict", text: "ICT" },
+    { value: "ck", text: "Computer Skills" },
+    { value: "ant", text: "Anatomy" },
+    { value: "psy", text: "Physiology" },
+    { value: "biochem", text: "Biochemistry" },
+    { value: "eng", text: "English" },
+  ],
+  semester2: [
+    { value: "ant", text: "Anatomy" },
+    { value: "psy", text: "Physiology" },
+  ],
+  semester3: [
+    { value: "ict", text: "Computer Skills" },
+    { value: "bioeth", text: "Bio-Ethics" },
+    { value: "eng", text: "English" },
+    { value: "thrd_PaperA", text: "Paper-A (Spec)" },
+    { value: "thrd_PaperB", text: "Paper-B (Spec)" },
+ 
+  ], 
+ CNA: [
+    { value: "ict", text: "Computer Skills" },
+    { value: "antPhy", text: "Anatomy/Physio" },
+    { value: "eng", text: "English" },
+    { value: "fon", text: "FON" },
+    { value: "isl", text: "Islamayat" },
+ 
+  ],
+    BSN: [
+     { value: "ict", text: "ICT" },
+    { value: "bsn-Fon", text: "FON" },
+    { value: "bsn-eng", text: "English" },
+    { value: "bsn-AP", text: "A&P" },
+    { value: "bsn-microbio", text: "Microbiology" },
+ 
+  ],
 };
 
-// Start immediately (simulate continue click)
-document.addEventListener("DOMContentLoaded", () => {
-  showQuestion(questionIndex);
+// When semester changes, update courses dropdown
+semesterSelect.addEventListener("change", function () {
+  const selectedSemester = this.value;
+// console.log("Semester changed:", this.value);
+  // Reset course select options
+  courseSelect.innerHTML = '<option value="" disabled selected>Select a course</option>';
+
+  if (selectedSemester && coursesBySemester[selectedSemester]) {
+    coursesBySemester[selectedSemester].forEach(course => {
+      const option = document.createElement("option");
+      option.value = course.value;
+      option.textContent = course.text;
+      courseSelect.appendChild(option);
+    });
+    courseSelect.disabled = false; // enable course dropdown
+  } else {
+    courseSelect.disabled = true; // disable if no semester selected
+  }
+
+  // Hide documents section until course selected
+  documentSection.style.display = "none";
 });
-</script> -->
 
 
 
 
 
-<!-- 🧪🧪🧪🧪 -->
- 
 
+  courseSelect.addEventListener("change", function () {
+    const selected = this.value;
+    documentLinks.innerHTML = "";
+
+    if (documentsBySubject[selected]) {
+      documentsBySubject[selected].forEach(doc => {
+        const li = document.createElement("li");
+        const link = document.createElement("a");
+        link.href = doc.url;
+        link.download = ""; 
+        link.textContent = doc.name;
+        li.appendChild(link);
+        documentLinks.appendChild(li);
+      });
+      documentSection.style.display = "block";
+    } else {
+      documentSection.style.display = "none";
+    }
+  });
+
+  document.getElementById("start-quiz-btn").addEventListener("click", function () {
+    const courseSelected = courseSelect.value;
+    if (!courseSelected) {
+      alert("Please select a course before starting the quiz.");
+      return;
+    }
+
+    document.getElementById("home-section").style.display = "none";
+    document.querySelector(".quiz-section").style.display = "block";
+    documentSection.style.display = "none";
+  });
+});
+
+// Quote Carousel 
+
+  const quotesContainer = document.querySelector('.quotes');
+  const quotes = document.querySelectorAll('.quote');
+  let currentIndex = 0;
+
+  function updateCarousel() {
+    quotesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  }
+
+  function nextQuote() {
+    currentIndex = (currentIndex + 1) % quotes.length;
+    updateCarousel();
+  }
+
+  function prevQuote() {
+    currentIndex = (currentIndex - 1 + quotes.length) % quotes.length;
+    updateCarousel();
+  }
+
+  setInterval(nextQuote, 6000);
+
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+          observer.unobserve(entry.target); // Animate only once
+        }
+      });
+    }, { threshold: 0.1 });
+
+    document.querySelectorAll(".animate-on-scroll").forEach((el) => {
+      observer.observe(el);
+    });
+  });
+
+
+
+</script>
 </body>
 </html>
