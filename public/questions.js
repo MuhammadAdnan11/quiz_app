@@ -865,6 +865,127 @@ const questionBank =
         "D. Firewall"
     ]
 },
+{
+    course: "ict",
+    numb: 73,
+    question: "Which shortcut starts the slideshow from the beginning?",
+    answer: "A. F5",
+    options: [
+        "A. F5",
+        "B. Ctrl + F5",
+        "C. Shift + F5",
+        "D. Alt + F5"
+    ]
+},
+{
+    course: "ict",
+    numb: 74,
+    question: "Which shortcut starts the slideshow from the current slide?",
+    answer: "C. Shift + F5",
+    options: [
+        "A. F5",
+        "B. Ctrl + Enter",
+        "C. Shift + F5",
+        "D. Alt + Shift + F5"
+    ]
+},
+{
+    course: "ict",
+    numb: 75,
+    question: "What does Ctrl + M do in PowerPoint?",
+    answer: "B. Adds a new slide",
+    options: [
+        "A. Opens Slide Master",
+        "B. Adds a new slide",
+        "C. Mutes the presentation",
+        "D. Opens the Insert menu"
+    ]
+},
+{
+    course: "ict",
+    numb: 76,
+    question: "Which shortcut opens the Print dialog box?",
+    answer: "A. Ctrl + P",
+    options: [
+        "A. Ctrl + P",
+        "B. Alt + P",
+        "C. Ctrl + Shift + P",
+        "D. F12"
+    ]
+},
+{
+    course: "ict",
+    numb: 77,
+    question: "Which shortcut saves the PowerPoint file?",
+    answer: "C. Ctrl + S",
+    options: [
+        "A. Ctrl + Shift + S",
+        "B. Ctrl + Enter",
+        "C. Ctrl + S",
+        "D. Alt + S"
+    ]
+},
+{
+    course: "ict",
+    numb: 78,
+    question: "Which shortcut allows you to duplicate a selected slide?",
+    answer: "A. Ctrl + D",
+    options: [
+        "A. Ctrl + D",
+        "B. Ctrl + M",
+        "C. Alt + D",
+        "D. Shift + D"
+    ]
+},
+{
+    course: "ict",
+    numb: 79,
+    question: "How can you open the Slide Show tab using a keyboard shortcut?",
+    answer: "A. Alt + S",
+    options: [
+        "A. Alt + S",
+        "B. Alt + D",
+        "C. Ctrl + S",
+        "D. Alt + H"
+    ]
+},
+{
+    course: "ict",
+    numb: 80,
+    question: "What does Ctrl + K do in PowerPoint?",
+    answer: "B. Insert a hyperlink",
+    options: [
+        "A. Insert a comment",
+        "B. Insert a hyperlink",
+        "C. Insert a keyframe",
+        "D. Insert a slide"
+    ]
+},
+{
+    course: "ict",
+    numb: 81,
+    question: "Which shortcut is used to group selected objects?",
+    answer: "A. Ctrl + G",
+    options: [
+        "A. Ctrl + G",
+        "B. Alt + G",
+        "C. Shift + G",
+        "D. Ctrl + Shift + G"
+    ]
+},
+{
+    course: "ict",
+    numb: 82,
+    question: "What does Ctrl + Z do?",
+    answer: "C. Undoes the last action",
+    options: [
+        "A. Redoes the last action",
+        "B. Saves the file",
+        "C. Undoes the last action",
+        "D. Zooms in"
+    ]
+},
+
 //    💻💻💻🎯 Computer Skills
  // ICT💻💻💻 
   {	        course: "ck",
