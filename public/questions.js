@@ -985,6 +985,307 @@ const questionBank =
         "D. Zooms in"
     ]
 },
+{
+    course: "ict",
+    numb: 83,
+    question: "Which Excel function is used to add a range of numbers?",
+    answer: "A. SUM",
+    options: [
+        "A. SUM",
+        "B. ADD",
+        "C. TOTAL",
+        "D. COMBINE"
+    ]
+},
+{
+    course: "ict",
+    numb: 84,
+    question: "What will the formula =PRODUCT(2,5) return?",
+    answer: "B. 10",
+    options: [
+        "A. 7",
+        "B. 10",
+        "C. 25",
+        "D. 0"
+    ]
+},
+{
+    course: "ict",
+    numb: 85,
+    question: "Which symbol is used for division in Excel formulas?",
+    answer: "C. /",
+    options: [
+        "A. \\",
+        "B. //",
+        "C. /",
+        "D. DIV"
+    ]
+},
+{
+    course: "ict",
+    numb: 86,
+    question: "Which formula calculates 20% of value in cell A1?",
+    answer: "D. =A1*20%",
+    options: [
+        "A. =20%A1",
+        "B. =A1/20%",
+        "C. =20*A1%",
+        "D. =A1*20%"
+    ]
+},
+{
+    course: "ict",
+    numb: 87,
+    question: "Which of the following is a valid cell reference in Excel?",
+    answer: "B. B2",
+    options: [
+        "A. 2B",
+        "B. B2",
+        "C. Column2",
+        "D. R2C2"
+    ]
+},
+{
+    course: "ict",
+    numb: 88,
+    question: "What is the result of =10/2 in Excel?",
+    answer: "C. 5",
+    options: [
+        "A. 12",
+        "B. 0.2",
+        "C. 5",
+        "D. 2"
+    ]
+},
+{
+    course: "ict",
+    numb: 89,
+    question: "Which function is used to find the average of numbers?",
+    answer: "A. AVERAGE",
+    options: [
+        "A. AVERAGE",
+        "B. MEAN",
+        "C. MID",
+        "D. AVG"
+    ]
+},
+{
+    course: "ict",
+    numb: 90,
+    question: "Which of the following will calculate the sum of values in cells A1 to A5?",
+    answer: "D. =SUM(A1:A5)",
+    options: [
+        "A. =ADD(A1-A5)",
+        "B. =A1+A5",
+        "C. =TOTAL(A1:A5)",
+        "D. =SUM(A1:A5)"
+    ]
+},
+{
+    course: "ict",
+    numb: 91,
+    question: "How do you begin a formula in Excel?",
+    answer: "A. =",
+    options: [
+        "A. =",
+        "B. +",
+        "C. $",
+        "D. @"
+    ]
+},
+{
+    course: "ict",
+    numb: 92,
+    question: "What is the output of =100*5% in Excel?",
+    answer: "C. 5",
+    options: [
+        "A. 0.5",
+        "B. 50",
+        "C. 5",
+        "D. 100"
+    ]
+},
+{
+    "course": "ict",
+    "numb": 93,
+    "question": "During a hospital shift, a nurse notices that patient records are taking unusually long to open and strange pop-ups appear. What is the most likely cause?",
+    "answer": "A. The system may be infected with a computer virus.",
+    "options": [
+      "A. The system may be infected with a computer virus.",
+      "B. The network cable is disconnected.",
+      "C. The monitor is faulty.",
+      "D. The printer is offline."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 94,
+    "question": "A nurse receives an email attachment labeled 'urgent_lab_results.exe'. What should they do before opening it?",
+    "answer": "B. Scan the attachment with antivirus software.",
+    "options": [
+      "A. Open it quickly as it’s urgent.",
+      "B. Scan the attachment with antivirus software.",
+      "C. Forward it to a colleague.",
+      "D. Restart the computer."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 95,
+    "question": "After inserting a USB drive into a hospital computer, it starts acting erratically. What should be your first step?",
+    "answer": "C. Run a full antivirus scan on the computer.",
+    "options": [
+      "A. Replace the computer hardware.",
+      "B. Delete all files on the USB.",
+      "C. Run a full antivirus scan on the computer.",
+      "D. Ignore the issue and continue."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 96,
+    "question": "Why is antivirus software essential in a hospital setting?",
+    "answer": "D. To protect patient data from malware and ransomware.",
+    "options": [
+      "A. To improve the speed of computers.",
+      "B. To clean dust from the system.",
+      "C. To avoid software updates.",
+      "D. To protect patient data from malware and ransomware."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 97,
+    "question": "What type of virus prevents users from accessing their medical files unless a ransom is paid?",
+    "answer": "B. Ransomware",
+    "options": [
+      "A. Trojan horse",
+      "B. Ransomware",
+      "C. Worm",
+      "D. Adware"
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 98,
+    "question": "A nursing student is asked to update antivirus software. What is the purpose of this update?",
+    "answer": "A. To detect and remove newly developed threats.",
+    "options": [
+      "A. To detect and remove newly developed threats.",
+      "B. To increase internet speed.",
+      "C. To upgrade RAM.",
+      "D. To install new fonts."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 99,
+    "question": "Which of the following actions can increase the risk of virus infection in hospital computers?",
+    "answer": "C. Downloading unauthorized software from the internet.",
+    "options": [
+      "A. Restarting the system regularly.",
+      "B. Using hospital-approved software.",
+      "C. Downloading unauthorized software from the internet.",
+      "D. Logging out after each use."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 100,
+    "question": "What is the best practice to protect hospital data when using a shared computer?",
+    "answer": "D. Log out and avoid downloading unknown files.",
+    "options": [
+      "A. Save passwords in the browser.",
+      "B. Keep multiple tabs open.",
+      "C. Disable the antivirus temporarily.",
+      "D. Log out and avoid downloading unknown files."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 101,
+    "question": "A nurse opens a link in a suspicious email, and the system crashes. What type of virus might this be?",
+    "answer": "A. Trojan Horse",
+    "options": [
+      "A. Trojan Horse",
+      "B. Rootkit",
+      "C. BIOS virus",
+      "D. Spamware"
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 102,
+    "question": "Why is it important to schedule regular antivirus scans on hospital systems?",
+    "answer": "C. To automatically detect and remove potential threats.",
+    "options": [
+      "A. To increase computer brightness.",
+      "B. To install printer drivers.",
+      "C. To automatically detect and remove potential threats.",
+      "D. To update software licenses."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 103,
+    "question": "How can a virus in one department’s computer spread to others in the hospital?",
+    "answer": "B. Through the shared hospital network.",
+    "options": [
+      "A. Through electricity cables.",
+      "B. Through the shared hospital network.",
+      "C. Via printer ink.",
+      "D. From hospital Wi-Fi passwords."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 104,
+    "question": "Which of the following is a sign that a hospital computer might be infected with a virus?",
+    "answer": "D. Frequent crashes and unknown programs running.",
+    "options": [
+      "A. Normal boot-up time.",
+      "B. Low screen brightness.",
+      "C. Quiet fan noise.",
+      "D. Frequent crashes and unknown programs running."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 105,
+    "question": "Before transferring patient reports via USB, what precaution should be taken?",
+    "answer": "C. Scan the USB with antivirus software.",
+    "options": [
+      "A. Format the USB.",
+      "B. Copy files directly.",
+      "C. Scan the USB with antivirus software.",
+      "D. Disable firewall settings."
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 106,
+    "question": "Which antivirus feature helps detect harmful activities even before virus definitions are updated?",
+    "answer": "A. Real-time protection",
+    "options": [
+      "A. Real-time protection",
+      "B. Disk defragmenter",
+      "C. Clipboard manager",
+      "D. Font installer"
+    ]
+  },
+  {
+    "course": "ict",
+    "numb": 107,
+    "question": "Why should medical staff avoid using personal USBs in hospital systems?",
+    "answer": "D. They might introduce viruses into critical medical databases.",
+    "options": [
+      "A. They take too much space.",
+      "B. They reduce internet speed.",
+      "C. They use battery unnecessarily.",
+      "D. They might introduce viruses into critical medical databases."
+    ]
+  },
+
 
 //    💻💻💻🎯 Computer Skills
  // ICT💻💻💻 
@@ -1850,7 +2151,188 @@ const questionBank =
         "C. Access Point",
         "D. Firewall"
     ]
-},
+},{
+    "course": "ck",
+    "numb": 73,
+    "question": "During a hospital shift, a nurse notices that patient records are taking unusually long to open and strange pop-ups appear. What is the most likely cause?",
+    "answer": "A. The system may be infected with a computer virus.",
+    "options": [
+      "A. The system may be infected with a computer virus.",
+      "B. The network cable is disconnected.",
+      "C. The monitor is faulty.",
+      "D. The printer is offline."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 74,
+    "question": "A nurse receives an email attachment labeled 'urgent_lab_results.exe'. What should they do before opening it?",
+    "answer": "B. Scan the attachment with antivirus software.",
+    "options": [
+      "A. Open it quickly as it’s urgent.",
+      "B. Scan the attachment with antivirus software.",
+      "C. Forward it to a colleague.",
+      "D. Restart the computer."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 75,
+    "question": "After inserting a USB drive into a hospital computer, it starts acting erratically. What should be your first step?",
+    "answer": "C. Run a full antivirus scan on the computer.",
+    "options": [
+      "A. Replace the computer hardware.",
+      "B. Delete all files on the USB.",
+      "C. Run a full antivirus scan on the computer.",
+      "D. Ignore the issue and continue."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 76,
+    "question": "Why is antivirus software essential in a hospital setting?",
+    "answer": "D. To protect patient data from malware and ransomware.",
+    "options": [
+      "A. To improve the speed of computers.",
+      "B. To clean dust from the system.",
+      "C. To avoid software updates.",
+      "D. To protect patient data from malware and ransomware."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 77,
+    "question": "What type of virus prevents users from accessing their medical files unless a ransom is paid?",
+    "answer": "B. Ransomware",
+    "options": [
+      "A. Trojan horse",
+      "B. Ransomware",
+      "C. Worm",
+      "D. Adware"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 78,
+    "question": "A nursing student is asked to update antivirus software. What is the purpose of this update?",
+    "answer": "A. To detect and remove newly developed threats.",
+    "options": [
+      "A. To detect and remove newly developed threats.",
+      "B. To increase internet speed.",
+      "C. To upgrade RAM.",
+      "D. To install new fonts."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 79,
+    "question": "Which of the following actions can increase the risk of virus infection in hospital computers?",
+    "answer": "C. Downloading unauthorized software from the internet.",
+    "options": [
+      "A. Restarting the system regularly.",
+      "B. Using hospital-approved software.",
+      "C. Downloading unauthorized software from the internet.",
+      "D. Logging out after each use."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 80,
+    "question": "What is the best practice to protect hospital data when using a shared computer?",
+    "answer": "D. Log out and avoid downloading unknown files.",
+    "options": [
+      "A. Save passwords in the browser.",
+      "B. Keep multiple tabs open.",
+      "C. Disable the antivirus temporarily.",
+      "D. Log out and avoid downloading unknown files."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 81,
+    "question": "A nurse opens a link in a suspicious email, and the system crashes. What type of virus might this be?",
+    "answer": "A. Trojan Horse",
+    "options": [
+      "A. Trojan Horse",
+      "B. Rootkit",
+      "C. BIOS virus",
+      "D. Spamware"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 82,
+    "question": "Why is it important to schedule regular antivirus scans on hospital systems?",
+    "answer": "C. To automatically detect and remove potential threats.",
+    "options": [
+      "A. To increase computer brightness.",
+      "B. To install printer drivers.",
+      "C. To automatically detect and remove potential threats.",
+      "D. To update software licenses."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 83,
+    "question": "How can a virus in one department’s computer spread to others in the hospital?",
+    "answer": "B. Through the shared hospital network.",
+    "options": [
+      "A. Through electricity cables.",
+      "B. Through the shared hospital network.",
+      "C. Via printer ink.",
+      "D. From hospital Wi-Fi passwords."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 84,
+    "question": "Which of the following is a sign that a hospital computer might be infected with a virus?",
+    "answer": "D. Frequent crashes and unknown programs running.",
+    "options": [
+      "A. Normal boot-up time.",
+      "B. Low screen brightness.",
+      "C. Quiet fan noise.",
+      "D. Frequent crashes and unknown programs running."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 85,
+    "question": "Before transferring patient reports via USB, what precaution should be taken?",
+    "answer": "C. Scan the USB with antivirus software.",
+    "options": [
+      "A. Format the USB.",
+      "B. Copy files directly.",
+      "C. Scan the USB with antivirus software.",
+      "D. Disable firewall settings."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 86,
+    "question": "Which antivirus feature helps detect harmful activities even before virus definitions are updated?",
+    "answer": "A. Real-time protection",
+    "options": [
+      "A. Real-time protection",
+      "B. Disk defragmenter",
+      "C. Clipboard manager",
+      "D. Font installer"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 87,
+    "question": "Why should medical staff avoid using personal USBs in hospital systems?",
+    "answer": "D. They might introduce viruses into critical medical databases.",
+    "options": [
+      "A. They take too much space.",
+      "B. They reduce internet speed.",
+      "C. They use battery unnecessarily.",
+      "D. They might introduce viruses into critical medical databases."
+    ]
+  },   
+
+
 //  End 
 //   🎯🎯Anatomy 
   {
@@ -2393,6 +2875,247 @@ const questionBank =
             "D. Movement"
         ]
     },
+    {
+    "course": "ant",
+    "numb": 46,
+    "question": "Which part of the aorta gives rise to the right and left coronary arteries?",
+    "answer": "C. Ascending aorta",
+    "options": [
+        "A. Arch of aorta",
+        "B. Descending thoracic aorta",
+        "C. Ascending aorta",
+        "D. Abdominal aorta"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 47,
+    "question": "The arch of the aorta is located behind which structure?",
+    "answer": "A. Lower half of the manubrium sterni",
+    "options": [
+        "A. Lower half of the manubrium sterni",
+        "B. Diaphragm",
+        "C. 4th lumbar vertebra",
+        "D. 12th rib"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 48,
+    "question": "The brachiocephalic artery divides into:",
+    "answer": "B. Right common carotid and right subclavian arteries",
+    "options": [
+        "A. Left common carotid and left subclavian arteries",
+        "B. Right common carotid and right subclavian arteries",
+        "C. Right coronary and left coronary arteries",
+        "D. Esophageal and pericardial arteries"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 49,
+    "question": "How many posterior intercostal arteries arise from the descending thoracic aorta on each side?",
+    "answer": "B. 9",
+    "options": [
+        "A. 7",
+        "B. 9",
+        "C. 11",
+        "D. 12"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 50,
+    "question": "The subcostal artery is located below which rib?",
+    "answer": "C. 12th",
+    "options": [
+        "A. 10th",
+        "B. 11th",
+        "C. 12th",
+        "D. 1st lumbar vertebra"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 51,
+    "question": "Which artery supplies blood to the esophagus?",
+    "answer": "B. Esophageal artery",
+    "options": [
+        "A. Superior phrenic artery",
+        "B. Esophageal artery",
+        "C. Left bronchial artery",
+        "D. Mediastinal artery"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 52,
+    "question": "The right bronchial artery usually arises from:",
+    "answer": "B. 3rd posterior intercostal artery",
+    "options": [
+        "A. Left bronchial artery",
+        "B. 3rd posterior intercostal artery",
+        "C. Celiac trunk",
+        "D. Common hepatic artery"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 53,
+    "question": "Which of the following is NOT a branch of the descending thoracic aorta?",
+    "answer": "B. Left gastric artery",
+    "options": [
+        "A. Posterior intercostal arteries",
+        "B. Left gastric artery",
+        "C. Pericardial branches",
+        "D. Superior phrenic arteries"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 54,
+    "question": "The descending abdominal aorta terminates at the level of which vertebra?",
+    "answer": "C. L4",
+    "options": [
+        "A. T12",
+        "B. L1",
+        "C. L4",
+        "D. S1"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 55,
+    "question": "Which of the following is a branch of the celiac trunk?",
+    "answer": "A. Splenic artery",
+    "options": [
+        "A. Splenic artery",
+        "B. Subcostal artery",
+        "C. Mediastinal artery",
+        "D. Superior phrenic artery"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 56,
+    "question": "The common hepatic artery supplies blood to all EXCEPT:",
+    "answer": "B. Spleen",
+    "options": [
+        "A. Liver",
+        "B. Spleen",
+        "C. Pancreas",
+        "D. Gallbladder"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 57,
+    "question": "The left gastric artery supplies blood to:",
+    "answer": "B. Stomach and lower esophagus",
+    "options": [
+        "A. Liver and gallbladder",
+        "B. Stomach and lower esophagus",
+        "C. Spleen and pancreas",
+        "D. Duodenum and small intestine"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 58,
+    "question": "Which artery supplies the diaphragm?",
+    "answer": "B. Superior phrenic artery",
+    "options": [
+        "A. Esophageal artery",
+        "B. Superior phrenic artery",
+        "C. Mediastinal artery",
+        "D. Subcostal artery"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 59,
+    "question": "The descending aorta is divided into how many main parts?",
+    "answer": "C. 3",
+    "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 60,
+    "question": "Which of the following is a branch of the descending abdominal aorta?",
+    "answer": "C. Celiac trunk",
+    "options": [
+        "A. Right coronary artery",
+        "B. Left common carotid artery",
+        "C. Celiac trunk",
+        "D. Brachiocephalic artery"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 61,
+    "question": "The splenic artery supplies blood to:",
+    "answer": "B. Spleen",
+    "options": [
+        "A. Liver",
+        "B. Spleen",
+        "C. Stomach",
+        "D. Diaphragm"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 62,
+    "question": "The arch of the aorta is described as:",
+    "answer": "B. Inverted \"U\" shaped",
+    "options": [
+        "A. Inverted \"V\" shaped",
+        "B. Inverted \"U\" shaped",
+        "C. Straight tube",
+        "D. Spiral shaped"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 63,
+    "question": "Which of the following structures is supplied by the mediastinal artery?",
+    "answer": "C. Posterior mediastinum",
+    "options": [
+        "A. Lungs",
+        "B. Esophagus",
+        "C. Posterior mediastinum",
+        "D. Pericardium"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 64,
+    "question": "The descending thoracic aorta lies in which anatomical region?",
+    "answer": "B. Posterior mediastinum",
+    "options": [
+        "A. Anterior mediastinum",
+        "B. Posterior mediastinum",
+        "C. Superior mediastinum",
+        "D. Inferior mediastinum"
+    ]
+},
+{
+    "course": "ant",
+    "numb": 65,
+    "question": "The left common carotid artery is a branch of:",
+    "answer": "C. Arch of aorta",
+    "options": [
+        "A. Brachiocephalic artery",
+        "B. Ascending aorta",
+        "C. Arch of aorta",
+        "D. Descending thoracic aorta"
+    ]
+},
+
    
 // End 
 // 📂📂📕📕📕MicroBiology 
@@ -2652,6 +3375,1018 @@ const questionBank =
       "D. Indexed Page"
     ]
   },
+
+//   📁📁📁📕📕 English 
+{
+    "course": "Eng",
+    "numb": 1,
+    "question": "Which of the following is a noun?",
+    "answer": "B. Dog",
+    "options": [
+      "A. Run",
+      "B. Dog",
+      "C. Quickly",
+      "D. Blue"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 2,
+    "question": "Identify the verb in the sentence: 'She sings beautifully.'",
+    "answer": "A. sings",
+    "options": [
+      "A. sings",
+      "B. She",
+      "C. beautifully",
+      "D. None"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 3,
+    "question": "What part of speech is the word 'very' in 'He is very tall'?",
+    "answer": "C. Adverb",
+    "options": [
+      "A. Adjective",
+      "B. Noun",
+      "C. Adverb",
+      "D. Verb"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 4,
+    "question": "Choose the adjective in the sentence: 'The blue car is fast.'",
+    "answer": "B. blue",
+    "options": [
+      "A. car",
+      "B. blue",
+      "C. fast",
+      "D. is"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 5,
+    "question": "Identify the preposition in the sentence: 'The book is on the table.'",
+    "answer": "D. on",
+    "options": [
+      "A. book",
+      "B. is",
+      "C. table",
+      "D. on"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 6,
+    "question": "Which of these words is a pronoun?",
+    "answer": "C. They",
+    "options": [
+      "A. Apple",
+      "B. Run",
+      "C. They",
+      "D. Quickly"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 7,
+    "question": "Which is an example of a conjunction?",
+    "answer": "A. And",
+    "options": [
+      "A. And",
+      "B. Run",
+      "C. Quickly",
+      "D. Dog"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 8,
+    "question": "Select the correct article in the sentence: 'I saw ___ elephant at the zoo.'",
+    "answer": "B. an",
+    "options": [
+      "A. a",
+      "B. an",
+      "C. the",
+      "D. no article"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 9,
+    "question": "Which sentence uses an interjection?",
+    "answer": "D. Wow! That was amazing.",
+    "options": [
+      "A. He runs fast.",
+      "B. The dog barks loudly.",
+      "C. I like ice cream.",
+      "D. Wow! That was amazing."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 10,
+    "question": "Identify the adverb in: 'She quickly finished her homework.'",
+    "answer": "B. quickly",
+    "options": [
+      "A. She",
+      "B. quickly",
+      "C. finished",
+      "D. homework"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 11,
+    "question": "Choose the correct plural noun: 'One child, two ____.'",
+    "answer": "A. children",
+    "options": [
+      "A. children",
+      "B. childs",
+      "C. childes",
+      "D. child"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 12,
+    "question": "Which word is a proper noun?",
+    "answer": "D. London",
+    "options": [
+      "A. city",
+      "B. country",
+      "C. school",
+      "D. London"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 13,
+    "question": "Identify the correct possessive pronoun: 'This book is ___. '",
+    "answer": "B. mine",
+    "options": [
+      "A. me",
+      "B. mine",
+      "C. I",
+      "D. my"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 14,
+    "question": "Select the proper adjective in: 'She wore a silk dress.'",
+    "answer": "C. silk",
+    "options": [
+      "A. she",
+      "B. wore",
+      "C. silk",
+      "D. dress"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 15,
+    "question": "Which word is a coordinating conjunction?",
+    "answer": "A. but",
+    "options": [
+      "A. but",
+      "B. because",
+      "C. although",
+      "D. unless"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 16,
+    "question": "Identify the demonstrative pronoun: 'This is my book.'",
+    "answer": "B. This",
+    "options": [
+      "A. is",
+      "B. This",
+      "C. my",
+      "D. book"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 17,
+    "question": "What is the part of speech of the underlined word? 'She **runs** fast.'",
+    "answer": "A. Verb",
+    "options": [
+      "A. Verb",
+      "B. Adverb",
+      "C. Noun",
+      "D. Adjective"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 18,
+    "question": "Select the correct pronoun to fill in: '___ am a student.'",
+    "answer": "C. I",
+    "options": [
+      "A. Me",
+      "B. We",
+      "C. I",
+      "D. Us"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 19,
+    "question": "Choose the adjective: 'The sun is bright.'",
+    "answer": "D. bright",
+    "options": [
+      "A. sun",
+      "B. is",
+      "C. the",
+      "D. bright"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 20,
+    "question": "Identify the interjection in: 'Oh! I forgot my keys.'",
+    "answer": "A. Oh!",
+    "options": [
+      "A. Oh!",
+      "B. forgot",
+      "C. my",
+      "D. keys"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 21,
+    "question": "Which of the following words is an adverb of frequency?",
+    "answer": "B. always",
+    "options": [
+      "A. quickly",
+      "B. always",
+      "C. yesterday",
+      "D. now"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 22,
+    "question": "Choose the correct preposition: 'The cat is hiding ___ the sofa.'",
+    "answer": "C. under",
+    "options": [
+      "A. on",
+      "B. in",
+      "C. under",
+      "D. over"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 23,
+    "question": "Select the correct comparative adjective: 'My car is ___ than yours.'",
+    "answer": "D. faster",
+    "options": [
+      "A. fast",
+      "B. fastest",
+      "C. more fast",
+      "D. faster"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 24,
+    "question": "Which word is an example of an abstract noun?",
+    "answer": "C. Happiness",
+    "options": [
+      "A. Table",
+      "B. Dog",
+      "C. Happiness",
+      "D. Car"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 25,
+    "question": "Identify the verb tense: 'They are playing football.'",
+    "answer": "B. Present continuous",
+    "options": [
+      "A. Present simple",
+      "B. Present continuous",
+      "C. Past simple",
+      "D. Future simple"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 26,
+    "question": "Choose the correct sentence with a modal verb.",
+    "answer": "A. She can swim very well.",
+    "options": [
+      "A. She can swim very well.",
+      "B. She swimming very well.",
+      "C. She swim very well.",
+      "D. She swam very well."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 27,
+    "question": "Which of the following words is an adjective?",
+    "answer": "B. Happy",
+    "options": [
+      "A. Run",
+      "B. Happy",
+      "C. Slowly",
+      "D. Quickly"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 28,
+    "question": "Identify the correct form of the pronoun: 'This is ___ book.'",
+    "answer": "C. my",
+    "options": [
+      "A. mine",
+      "B. me",
+      "C. my",
+      "D. I"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 29,
+    "question": "Select the correct sentence: ",
+    "answer": "D. She doesn’t like apples.",
+    "options": [
+      "A. She don’t like apples.",
+      "B. She isn’t like apples.",
+      "C. She no like apples.",
+      "D. She doesn’t like apples."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 30,
+    "question": "What part of speech is the word 'and' in the sentence: 'I like tea and coffee.'?",
+    "answer": "B. Conjunction",
+    "options": [
+      "A. Preposition",
+      "B. Conjunction",
+      "C. Pronoun",
+      "D. Adverb"
+    ]
+  },
+  
+  // --- TENSES (31-60) ---
+  
+  {
+    "course": "Eng",
+    "numb": 31,
+    "question": "What is the tense of the sentence: 'She walked to the market yesterday.'?",
+    "answer": "B. Past simple",
+    "options": [
+      "A. Present simple",
+      "B. Past simple",
+      "C. Future simple",
+      "D. Present continuous"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 32,
+    "question": "Choose the correct future tense sentence.",
+    "answer": "C. They will come tomorrow.",
+    "options": [
+      "A. They come tomorrow.",
+      "B. They came tomorrow.",
+      "C. They will come tomorrow.",
+      "D. They coming tomorrow."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 33,
+    "question": "Identify the tense: 'I have finished my homework.'",
+    "answer": "D. Present perfect",
+    "options": [
+      "A. Present simple",
+      "B. Past simple",
+      "C. Future perfect",
+      "D. Present perfect"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 34,
+    "question": "What tense is used in: 'She is reading a book now.'?",
+    "answer": "A. Present continuous",
+    "options": [
+      "A. Present continuous",
+      "B. Past continuous",
+      "C. Present perfect",
+      "D. Future continuous"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 35,
+    "question": "Choose the sentence in past continuous tense.",
+    "answer": "B. They were playing football at 5 pm.",
+    "options": [
+      "A. They played football at 5 pm.",
+      "B. They were playing football at 5 pm.",
+      "C. They will play football at 5 pm.",
+      "D. They play football at 5 pm."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 36,
+    "question": "Identify the tense: 'He had left before I arrived.'",
+    "answer": "C. Past perfect",
+    "options": [
+      "A. Past simple",
+      "B. Present perfect",
+      "C. Past perfect",
+      "D. Future perfect"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 37,
+    "question": "Which sentence is in future continuous tense?",
+    "answer": "D. She will be studying at 7 pm.",
+    "options": [
+      "A. She studies at 7 pm.",
+      "B. She studied at 7 pm.",
+      "C. She is studying at 7 pm.",
+      "D. She will be studying at 7 pm."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 38,
+    "question": "Choose the correct present perfect continuous tense sentence.",
+    "answer": "A. They have been working all day.",
+    "options": [
+      "A. They have been working all day.",
+      "B. They are working all day.",
+      "C. They worked all day.",
+      "D. They will work all day."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 39,
+    "question": "What is the tense of 'I will have finished the work by 5 pm'?",
+    "answer": "C. Future perfect",
+    "options": [
+      "A. Future simple",
+      "B. Present perfect",
+      "C. Future perfect",
+      "D. Past perfect"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 40,
+    "question": "Identify the tense: 'He is going to travel next week.'",
+    "answer": "B. Future with going to",
+    "options": [
+      "A. Present continuous",
+      "B. Future with going to",
+      "C. Future simple",
+      "D. Present simple"
+    ]
+  },
+  
+  // (Continue with 41-60 similarly...)
+
+  {
+    "course": "Eng",
+    "numb": 41,
+    "question": "The sentence 'I eat breakfast every day.' is in which tense?",
+    "answer": "A. Present simple",
+    "options": [
+      "A. Present simple",
+      "B. Past simple",
+      "C. Future simple",
+      "D. Present continuous"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 42,
+    "question": "Choose the correct past perfect continuous sentence.",
+    "answer": "C. They had been waiting for an hour when she arrived.",
+    "options": [
+      "A. They waited for an hour when she arrived.",
+      "B. They have been waiting for an hour when she arrived.",
+      "C. They had been waiting for an hour when she arrived.",
+      "D. They are waiting for an hour when she arrived."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 43,
+    "question": "Identify the tense: 'She has been teaching since 2010.'",
+    "answer": "B. Present perfect continuous",
+    "options": [
+      "A. Present perfect",
+      "B. Present perfect continuous",
+      "C. Past perfect",
+      "D. Future perfect"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 44,
+    "question": "Which sentence is in past simple tense?",
+    "answer": "D. He finished his work yesterday.",
+    "options": [
+      "A. He is finishing his work.",
+      "B. He will finish his work.",
+      "C. He has finished his work.",
+      "D. He finished his work yesterday."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 45,
+    "question": "What is the tense of 'They will have been living here for five years by 2023.'?",
+    "answer": "C. Future perfect continuous",
+    "options": [
+      "A. Future simple",
+      "B. Present perfect",
+      "C. Future perfect continuous",
+      "D. Past perfect continuous"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 46,
+    "question": "Choose the correct sentence in future simple tense.",
+    "answer": "B. I will call you later.",
+    "options": [
+      "A. I call you later.",
+      "B. I will call you later.",
+      "C. I called you later.",
+      "D. I am calling you later."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 47,
+    "question": "Identify the tense: 'He was watching TV when I arrived.'",
+    "answer": "A. Past continuous",
+    "options": [
+      "A. Past continuous",
+      "B. Past simple",
+      "C. Present continuous",
+      "D. Future continuous"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 48,
+    "question": "What tense is used in 'I had finished the project before the deadline.'?",
+    "answer": "C. Past perfect",
+    "options": [
+      "A. Present perfect",
+      "B. Past simple",
+      "C. Past perfect",
+      "D. Future perfect"
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 49,
+    "question": "Choose the sentence in present simple tense.",
+    "answer": "D. She writes emails every day.",
+    "options": [
+      "A. She wrote emails every day.",
+      "B. She will write emails every day.",
+      "C. She is writing emails every day.",
+      "D. She writes emails every day."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 50,
+    "question": "Which sentence is in present perfect tense?",
+    "answer": "B. They have visited Paris twice.",
+    "options": [
+      "A. They visited Paris twice.",
+      "B. They have visited Paris twice.",
+      "C. They will visit Paris twice.",
+      "D. They are visiting Paris twice."
+    ]
+  },
+
+  // --- DIRECT & INDIRECT SPEECH (61-90) ---
+
+  {
+    "course": "Eng",
+    "numb": 51,
+    "question": "Convert to indirect speech: He said, 'I am tired.'",
+    "answer": "C. He said that he was tired.",
+    "options": [
+      "A. He said that I am tired.",
+      "B. He said he is tired.",
+      "C. He said that he was tired.",
+      "D. He said that he tired."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 52,
+    "question": "Change to indirect speech: She said, 'I will come tomorrow.'",
+    "answer": "D. She said that she would come the next day.",
+    "options": [
+      "A. She said she will come tomorrow.",
+      "B. She said that she will come tomorrow.",
+      "C. She said that she would come tomorrow.",
+      "D. She said that she would come the next day."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 53,
+    "question": "Identify the correct indirect speech: He said, 'I have finished my work.'",
+    "answer": "B. He said that he had finished his work.",
+    "options": [
+      "A. He said he has finished his work.",
+      "B. He said that he had finished his work.",
+      "C. He said he finished his work.",
+      "D. He said he finish his work."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 54,
+    "question": "Convert: She said, 'I can swim well.'",
+    "answer": "C. She said that she could swim well.",
+    "options": [
+      "A. She said she can swim well.",
+      "B. She said she could swim well.",
+      "C. She said that she could swim well.",
+      "D. She said she swim well."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 55,
+    "question": "Change to indirect speech: He said, 'I was watching TV.'",
+    "answer": "A. He said that he was watching TV.",
+    "options": [
+      "A. He said that he was watching TV.",
+      "B. He said he is watching TV.",
+      "C. He said that he watched TV.",
+      "D. He said he watch TV."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 56,
+    "question": "Indirect form of: She said, 'I have been to London.'",
+    "answer": "D. She said that she had been to London.",
+    "options": [
+      "A. She said she has been to London.",
+      "B. She said she was in London.",
+      "C. She said she is in London.",
+      "D. She said that she had been to London."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 57,
+    "question": "Change to indirect speech: He said, 'I will help you.'",
+    "answer": "B. He said that he would help me.",
+    "options": [
+      "A. He said he will help you.",
+      "B. He said that he would help me.",
+      "C. He said he would help you.",
+      "D. He said he will help me."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 58,
+    "question": "Convert: She said, 'I am learning English.'",
+    "answer": "A. She said that she was learning English.",
+    "options": [
+      "A. She said that she was learning English.",
+      "B. She said she is learning English.",
+      "C. She said that she is learning English.",
+      "D. She said she was learning English."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 59,
+    "question": "Identify the correct indirect speech: He said, 'I have been working hard.'",
+    "answer": "B. He said that he had been working hard.",
+    "options": [
+      "A. He said he has been working hard.",
+      "B. He said that he had been working hard.",
+      "C. He said he was working hard.",
+      "D. He said he worked hard."
+    ]
+  },
+  {
+    "course": "Eng",
+    "numb": 60,
+    "question": "Change to indirect speech: She said, 'I will arrive soon.'",
+    "answer": "D. She said that she would arrive soon.",
+    "options": [
+      "A. She said she will arrive soon.",
+      "B. She said that she will arrive soon.",
+      "C. She said that she would arrive soon.",
+      "D. She said that she would arrive soon."
+    ]
+  },
+  {
+  "course": "Eng",
+  "numb": 61,
+  "question": "Choose the correct form: 'She ___ to school every day.'",
+  "answer": "B. goes",
+  "options": ["A. go", "B. goes", "C. going", "D. gone"]
+},
+{
+  "course": "Eng",
+  "numb": 62,
+  "question": "Identify the tense: 'I am reading a book.'",
+  "answer": "C. Present continuous",
+  "options": ["A. Present simple", "B. Past simple", "C. Present continuous", "D. Future simple"]
+},
+{
+  "course": "Eng",
+  "numb": 63,
+  "question": "Choose the correct past tense: 'They ___ football yesterday.'",
+  "answer": "A. played",
+  "options": ["A. played", "B. play", "C. playing", "D. plays"]
+},
+{
+  "course": "Eng",
+  "numb": 64,
+  "question": "What is the tense of 'She has finished her homework'?",
+  "answer": "D. Present perfect",
+  "options": ["A. Present simple", "B. Past simple", "C. Future perfect", "D. Present perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 65,
+  "question": "Identify the tense: 'He will be arriving soon.'",
+  "answer": "B. Future continuous",
+  "options": ["A. Present continuous", "B. Future continuous", "C. Future simple", "D. Present perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 66,
+  "question": "Choose the correct sentence: 'They ___ to the market yesterday.'",
+  "answer": "C. went",
+  "options": ["A. gone", "B. go", "C. went", "D. going"]
+},
+{
+  "course": "Eng",
+  "numb": 67,
+  "question": "Identify the tense: 'I have been working all day.'",
+  "answer": "A. Present perfect continuous",
+  "options": ["A. Present perfect continuous", "B. Present perfect", "C. Past perfect", "D. Future perfect continuous"]
+},
+{
+  "course": "Eng",
+  "numb": 68,
+  "question": "Choose the correct future tense: 'She ___ come tomorrow.'",
+  "answer": "B. will",
+  "options": ["A. comes", "B. will", "C. came", "D. coming"]
+},
+{
+  "course": "Eng",
+  "numb": 69,
+  "question": "Identify the tense: 'They had left before we arrived.'",
+  "answer": "C. Past perfect",
+  "options": ["A. Past simple", "B. Present perfect", "C. Past perfect", "D. Future perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 70,
+  "question": "Choose the correct sentence: 'He is ___ a new car.'",
+  "answer": "A. buying",
+  "options": ["A. buying", "B. buy", "C. bought", "D. buys"]
+},
+{
+  "course": "Eng",
+  "numb": 71,
+  "question": "What tense is used in: 'I was reading when she called.'?",
+  "answer": "B. Past continuous",
+  "options": ["A. Present continuous", "B. Past continuous", "C. Past simple", "D. Present perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 72,
+  "question": "Identify the tense: 'We will have finished by noon.'",
+  "answer": "D. Future perfect",
+  "options": ["A. Future simple", "B. Present perfect", "C. Past perfect", "D. Future perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 73,
+  "question": "Choose the correct sentence in present simple tense.",
+  "answer": "C. She walks to school every day.",
+  "options": ["A. She walked to school every day.", "B. She is walking to school every day.", "C. She walks to school every day.", "D. She will walk to school every day."]
+},
+{
+  "course": "Eng",
+  "numb": 74,
+  "question": "Identify the tense: 'They are watching TV now.'",
+  "answer": "A. Present continuous",
+  "options": ["A. Present continuous", "B. Past continuous", "C. Present perfect", "D. Future continuous"]
+},
+{
+  "course": "Eng",
+  "numb": 75,
+  "question": "Choose the sentence in past simple tense.",
+  "answer": "D. He visited Paris last year.",
+  "options": ["A. He visits Paris last year.", "B. He is visiting Paris last year.", "C. He will visit Paris last year.", "D. He visited Paris last year."]
+},
+{
+  "course": "Eng",
+  "numb": 76,
+  "question": "Identify the tense: 'I will be staying here next week.'",
+  "answer": "B. Future continuous",
+  "options": ["A. Present continuous", "B. Future continuous", "C. Future simple", "D. Present perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 77,
+  "question": "Choose the correct sentence: 'She has been ___ for two hours.'",
+  "answer": "D. waiting",
+  "options": ["A. waits", "B. waited", "C. wait", "D. waiting"]
+},
+{
+  "course": "Eng",
+  "numb": 78,
+  "question": "Identify the tense: 'We had been playing when it started to rain.'",
+  "answer": "C. Past perfect continuous",
+  "options": ["A. Past continuous", "B. Present perfect continuous", "C. Past perfect continuous", "D. Future perfect continuous"]
+},
+{
+  "course": "Eng",
+  "numb": 79,
+  "question": "Choose the correct future perfect continuous tense sentence.",
+  "answer": "A. By next month, she will have been working here for five years.",
+  "options": ["A. By next month, she will have been working here for five years.", "B. She will work here for five years.", "C. She is working here for five years.", "D. She worked here for five years."]
+},
+{
+  "course": "Eng",
+  "numb": 80,
+  "question": "Identify the tense: 'He has visited London twice.'",
+  "answer": "D. Present perfect",
+  "options": ["A. Past simple", "B. Future simple", "C. Present continuous", "D. Present perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 81,
+  "question": "Convert to indirect speech: He said, 'I am tired.'",
+  "answer": "C. He said that he was tired.",
+  "options": ["A. He said that I am tired.", "B. He said he is tired.", "C. He said that he was tired.", "D. He said that he tired."]
+},
+{
+  "course": "Eng",
+  "numb": 82,
+  "question": "Change to indirect speech: She said, 'I will come tomorrow.'",
+  "answer": "D. She said that she would come the next day.",
+  "options": ["A. She said she will come tomorrow.", "B. She said that she will come tomorrow.", "C. She said that she would come tomorrow.", "D. She said that she would come the next day."]
+},
+{
+  "course": "Eng",
+  "numb": 83,
+  "question": "Identify the correct indirect speech: He said, 'I have finished my work.'",
+  "answer": "B. He said that he had finished his work.",
+  "options": ["A. He said he has finished his work.", "B. He said that he had finished his work.", "C. He said he finished his work.", "D. He said he finish his work."]
+},
+{
+  "course": "Eng",
+  "numb": 84,
+  "question": "Convert: She said, 'I can swim well.'",
+  "answer": "C. She said that she could swim well.",
+  "options": ["A. She said she can swim well.", "B. She said she could swim well.", "C. She said that she could swim well.", "D. She said she swim well."]
+},
+{
+  "course": "Eng",
+  "numb": 85,
+  "question": "Change to indirect speech: He said, 'I was watching TV.'",
+  "answer": "A. He said that he was watching TV.",
+  "options": ["A. He said that he was watching TV.", "B. He said he is watching TV.", "C. He said that he watched TV.", "D. He said he watch TV."]
+},
+{
+  "course": "Eng",
+  "numb": 86,
+  "question": "Indirect form of: She said, 'I have been to London.'",
+  "answer": "D. She said that she had been to London.",
+  "options": ["A. She said she has been to London.", "B. She said she was in London.", "C. She said she is in London.", "D. She said that she had been to London."]
+},
+{
+  "course": "Eng",
+  "numb": 87,
+  "question": "Change to indirect speech: He said, 'I will help you.'",
+  "answer": "B. He said that he would help me.",
+  "options": ["A. He said he will help you.", "B. He said that he would help me.", "C. He said he would help you.", "D. He said he will help me."]
+},
+{
+  "course": "Eng",
+  "numb": 88,
+  "question": "Convert: She said, 'I am learning English.'",
+  "answer": "A. She said that she was learning English.",
+  "options": ["A. She said that she was learning English.", "B. She said she is learning English.", "C. She said that she is learning English.", "D. She said she was learning English."]
+},
+{
+  "course": "Eng",
+  "numb": 89,
+  "question": "Identify the correct indirect speech: He said, 'I have been working hard.'",
+  "answer": "B. He said that he had been working hard.",
+  "options": ["A. He said he has been working hard.", "B. He said that he had been working hard.", "C. He said he was working hard.", "D. He said he worked hard."]
+},
+{
+  "course": "Eng",
+  "numb": 90,
+  "question": "Change to indirect speech: She said, 'I will arrive soon.'",
+  "answer": "D. She said that she would arrive soon.",
+  "options": ["A. She said she will arrive soon.", "B. She said that she will arrive soon.", "C. She said that she would arrive soon.", "D. She said that she would arrive soon."]
+},
+{
+  "course": "Eng",
+  "numb": 91,
+  "question": "Choose the correct tense: 'They will come tomorrow.'",
+  "answer": "C. They will come tomorrow.",
+  "options": ["A. They come tomorrow.", "B. They came tomorrow.", "C. They will come tomorrow.", "D. They coming tomorrow."]
+},
+{
+  "course": "Eng",
+  "numb": 92,
+  "question": "Identify the tense: 'I have finished my homework.'",
+  "answer": "D. Present perfect",
+  "options": ["A. Present simple", "B. Past simple", "C. Future perfect", "D. Present perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 93,
+  "question": "What tense is used in: 'She is reading a book now.'?",
+  "answer": "A. Present continuous",
+  "options": ["A. Present continuous", "B. Past continuous", "C. Present perfect", "D. Future continuous"]
+},
+{
+  "course": "Eng",
+  "numb": 94,
+  "question": "Choose the sentence in past continuous tense.",
+  "answer": "B. They were playing football at 5 pm.",
+  "options": ["A. They played football at 5 pm.", "B. They were playing football at 5 pm.", "C. They will play football at 5 pm.", "D. They play football at 5 pm."]
+},
+{
+  "course": "Eng",
+  "numb": 95,
+  "question": "Identify the tense: 'He had left before I arrived.'",
+  "answer": "C. Past perfect",
+  "options": ["A. Past simple", "B. Present perfect", "C. Past perfect", "D. Future perfect"]
+},
+{
+  "course": "Eng",
+  "numb": 96,
+  "question": "Which sentence is in future continuous tense?",
+  "answer": "D. She will be studying at 7 pm.",
+  "options": ["A. She studies at 7 pm.", "B. She studied at 7 pm.", "C. She is studying at 7 pm.", "D. She will be studying at 7 pm."]
+},
+{
+  "course": "Eng",
+  "numb": 97,
+  "question": "Choose the correct sentence: 'I ___ to the party last night.'",
+  "answer": "B. went",
+  "options": ["A. go", "B. went", "C. going", "D. gone"]
+},
+{
+  "course": "Eng",
+  "numb": 98,
+  "question": "Identify the tense: 'We have been waiting for an hour.'",
+  "answer": "A. Present perfect continuous",
+  "options": ["A. Present perfect continuous", "B. Present perfect", "C. Past perfect", "D. Future perfect continuous"]
+},
+{
+  "course": "Eng",
+  "numb": 99,
+  "question": "Change to indirect speech: He said, 'I am hungry.'",
+  "answer": "B. He said that he was hungry.",
+  "options": ["A. He said he is hungry.", "B. He said that he was hungry.", "C. He said he hungry.", "D. He said he was hungry."]
+},
+{
+  "course": "Eng",
+  "numb": 100,
+  "question": "Choose the correct sentence: 'She ___ a new dress.'",
+  "answer": "C. bought",
+  "options": ["A. buy", "B. buying",]
+  },
+
 
 
 
