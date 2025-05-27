@@ -65,7 +65,7 @@ const questionBank =
             course: "ict",
             numb: 6,
             question: "Which type of computer is best for mathematical calculations like ECG waveforms?",
-            answer: "B. Analog",
+            answer: "A. Digital",
             options: [
                 "A. Digital",
                 "B. Analog",
@@ -1352,7 +1352,7 @@ const questionBank =
             course: "ck",
             numb: 6,
             question: "Which type of computer is best for mathematical calculations like ECG waveforms?",
-            answer: "B. Analog",
+            answer: "A. Digital",
             options: [
                 "A. Digital",
                 "B. Analog",
