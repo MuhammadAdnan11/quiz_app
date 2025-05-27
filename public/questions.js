@@ -5230,10 +5230,1810 @@ const questionBank =
 "C. Thiamine (Vitamin B1)",
 "D. Pyridoxine (Vitamin B6)"
 ]
+},
+
+// BSN FON 👨‍🎓📕📕
+
+{
+"course": "BSN-FON",
+"numb": 1,
+"question": "Which nurse is considered the founder of modern nursing?",
+"answer": "A. Florence Nightingale",
+"options": [
+"A. Florence Nightingale",
+"B. Clara Barton",
+"C. Mary Breckinridge",
+"D. Margaret Sanger"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 2,
+"question": "What major contribution did Florence Nightingale make during the Crimean War?",
+"answer": "B. Improved sanitation and reduced mortality rates",
+"options": [
+"A. Introduced antibiotics",
+"B. Improved sanitation and reduced mortality rates",
+"C. Developed vaccines",
+"D. Performed surgeries"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 3,
+"question": "Which international nursing leader founded the International Council of Nurses (ICN)?",
+"answer": "C. Ethel Bedford Fenwick",
+"options": [
+"A. Clara Barton",
+"B. Mary Eliza Mahoney",
+"C. Ethel Bedford Fenwick",
+"D. Virginia Henderson"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 4,
+"question": "Who established the American Red Cross?",
+"answer": "A. Clara Barton",
+"options": [
+"A. Clara Barton",
+"B. Mary Seacole",
+"C. Lillian Wald",
+"D. Margaret Sanger"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 5,
+"question": "What was Mary Seacole known for in nursing history?",
+"answer": "D. Providing care to soldiers during the Crimean War using herbal remedies",
+"options": [
+"A. Founding the first nursing school",
+"B. Starting midwifery services",
+"C. Establishing nursing registration",
+"D. Providing care to soldiers during the Crimean War using herbal remedies"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 6,
+"question": "Margaret Sanger is known for her contribution to:",
+"answer": "C. Birth control and family planning services",
+"options": [
+"A. Sanitation improvements",
+"B. Military nursing",
+"C. Birth control and family planning services",
+"D. Disaster response nursing"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 7,
+"question": "Lillian Wald is famous for developing which important nursing service?",
+"answer": "A. Public health nursing",
+"options": [
+"A. Public health nursing",
+"B. Military nursing",
+"C. Hospital administration",
+"D. Critical care nursing"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 8,
+"question": "The International Council of Nurses (ICN) primarily aims to:",
+"answer": "B. Advance nursing worldwide and improve global health",
+"options": [
+"A. Standardize hospital procedures",
+"B. Advance nursing worldwide and improve global health",
+"C. Train military nurses only",
+"D. Fund local clinics"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 9,
+"question": "Which national nursing body represents nurses in Pakistan?",
+"answer": "C. Pakistan Nursing Council (PNC)",
+"options": [
+"A. Pakistan Red Crescent Society",
+"B. Pakistan Health Ministry",
+"C. Pakistan Nursing Council (PNC)",
+"D. Pakistan Medical Association"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 10,
+"question": "How did early nursing leaders shape the profession?",
+"answer": "D. By establishing educational standards and advocating for patient care improvements",
+"options": [
+"A. By focusing only on military service",
+"B. By working only in private practice",
+"C. By avoiding collaboration with governments",
+"D. By establishing educational standards and advocating for patient care improvements"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 11,
+"question": "Which feature distinguishes a profession from an occupation?",
+"answer": "C. Requires specialized education and training",
+"options": [
+"A. Offers a salary",
+"B. Provides employment",
+"C. Requires specialized education and training",
+"D. Involves manual labor"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 12,
+"question": "What is one key characteristic of a professional nurse compared to an occupational worker?",
+"answer": "B. Adheres to a code of ethics",
+"options": [
+"A. Works fixed hours",
+"B. Adheres to a code of ethics",
+"C. Follows employer's rules only",
+"D. Receives hourly wages"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 13,
+"question": "Which of the following reflects a professional trait?",
+"answer": "A. Commitment to lifelong learning",
+"options": [
+"A. Commitment to lifelong learning",
+"B. Working just for income",
+"C. Minimal decision-making",
+"D. Relying only on employer guidance"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 14,
+"question": "How is accountability different in a profession compared to an occupation?",
+"answer": "C. Professionals are accountable to clients, society, and their profession",
+"options": [
+"A. Only accountable to employer",
+"B. Only accountable for personal tasks",
+"C. Professionals are accountable to clients, society, and their profession",
+"D. Not accountable if tasks are delegated"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 15,
+"question": "Which of these reflects autonomy in nursing as a profession?",
+"answer": "D. Making independent clinical decisions within the scope of practice",
+"options": [
+"A. Following supervisor instructions only",
+"B. Avoiding patient involvement",
+"C. Delegating all decisions to physicians",
+"D. Making independent clinical decisions within the scope of practice"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 16,
+"question": "Why is public service considered a core element of a profession?",
+"answer": "A. It emphasizes serving society’s needs beyond personal gain",
+"options": [
+"A. It emphasizes serving society’s needs beyond personal gain",
+"B. It guarantees job security",
+"C. It ensures promotion",
+"D. It reduces workload"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 17,
+"question": "What role does self-regulation play in nursing as a profession?",
+"answer": "C. Ensures quality care through professional standards and licensing",
+"options": [
+"A. Allows nurses to avoid supervision",
+"B. Eliminates the need for legal regulation",
+"C. Ensures quality care through professional standards and licensing",
+"D. Limits continuing education requirements"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 18,
+"question": "Which is an example of a professional commitment in nursing?",
+"answer": "B. Participating in evidence-based practice",
+"options": [
+"A. Avoiding additional training",
+"B. Participating in evidence-based practice",
+"C. Relying only on experience",
+"D. Refusing feedback"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 19,
+"question": "What is the societal expectation from a profession like nursing?",
+"answer": "D. To uphold ethical standards and provide competent care",
+"options": [
+"A. To deliver services for maximum profit",
+"B. To follow employer’s personal instructions",
+"C. To avoid taking responsibility for decisions",
+"D. To uphold ethical standards and provide competent care"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 20,
+"question": "Why is specialized knowledge essential to a profession?",
+"answer": "A. It differentiates professionals from general workers through expertise",
+"options": [
+"A. It differentiates professionals from general workers through expertise",
+"B. It increases job availability",
+"C. It limits job flexibility",
+"D. It removes the need for teamwork"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 21,
+"question": "Which definition of nursing emphasizes assisting individuals in activities contributing to health or recovery?",
+"answer": "A. Virginia Henderson's definition",
+"options": [
+"A. Virginia Henderson's definition",
+"B. Florence Nightingale's definition",
+"C. Dorothea Orem's definition",
+"D. Hildegard Peplau's definition"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 22,
+"question": "According to Florence Nightingale, nursing is primarily focused on:",
+"answer": "B. Putting the patient in the best condition for nature to act upon",
+"options": [
+"A. Managing hospital resources",
+"B. Putting the patient in the best condition for nature to act upon",
+"C. Assisting physicians with technical tasks",
+"D. Ensuring financial efficiency"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 23,
+"question": "Which nursing theorist focused on self-care deficits?",
+"answer": "C. Dorothea Orem",
+"options": [
+"A. Virginia Henderson",
+"B. Hildegard Peplau",
+"C. Dorothea Orem",
+"D. Jean Watson"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 24,
+"question": "Jean Watson’s theory emphasizes which core aspect?",
+"answer": "D. Human caring and transpersonal relationships",
+"options": [
+"A. Disease prevention",
+"B. Medication administration",
+"C. Task-oriented care",
+"D. Human caring and transpersonal relationships"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 25,
+"question": "Hildegard Peplau is best known for her work in:",
+"answer": "B. Interpersonal relations in nursing",
+"options": [
+"A. Environmental health",
+"B. Interpersonal relations in nursing",
+"C. Nutrition management",
+"D. Surgical nursing"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 26,
+"question": "Which nursing theorist developed the 'Science of Unitary Human Beings'?",
+"answer": "A. Martha Rogers",
+"options": [
+"A. Martha Rogers",
+"B. Imogene King",
+"C. Callista Roy",
+"D. Sister Callista"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 27,
+"question": "According to Imogene King, nursing involves:",
+"answer": "C. Goal attainment through nurse-client interaction",
+"options": [
+"A. Task completion",
+"B. Biomedical management",
+"C. Goal attainment through nurse-client interaction",
+"D. Environmental sanitation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 28,
+"question": "Callista Roy’s adaptation model focuses on:",
+"answer": "D. Helping patients adapt to environmental changes",
+"options": [
+"A. Medication adherence",
+"B. Surgical recovery",
+"C. Technical skill performance",
+"D. Helping patients adapt to environmental changes"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 29,
+"question": "How do nursing models differ from theories?",
+"answer": "B. Models provide frameworks; theories explain specific relationships",
+"options": [
+"A. Models are more detailed than theories",
+"B. Models provide frameworks; theories explain specific relationships",
+"C. Models replace theories entirely",
+"D. Theories are used only in research, not practice"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 30,
+"question": "Which basic nursing theory concept focuses on person, environment, health, and nursing?",
+"answer": "C. Metaparadigm of nursing",
+"options": [
+"A. Biopsychosocial model",
+"B. Nursing process",
+"C. Metaparadigm of nursing",
+"D. Adaptation cycle"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 31,
+"question": "Which health model views health as the absence of disease?",
+"answer": "A. Biomedical model",
+"options": [
+"A. Biomedical model",
+"B. Holistic model",
+"C. Biopsychosocial model",
+"D. Wellness model"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 32,
+"question": "The holistic health model emphasizes:",
+"answer": "B. Integrating mind, body, and spirit",
+"options": [
+"A. Treating only physical symptoms",
+"B. Integrating mind, body, and spirit",
+"C. Focusing solely on disease pathology",
+"D. Ignoring cultural influences"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 33,
+"question": "Which model focuses on the dynamic interaction between biological, psychological, and social factors?",
+"answer": "C. Biopsychosocial model",
+"options": [
+"A. Biomedical model",
+"B. Holistic model",
+"C. Biopsychosocial model",
+"D. Environmental model"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 34,
+"question": "What does the health belief model explain?",
+"answer": "A. Why people adopt or avoid health behaviors",
+"options": [
+"A. Why people adopt or avoid health behaviors",
+"B. The progression of disease stages",
+"C. Physician-patient communication styles",
+"D. Nursing procedural steps"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 35,
+"question": "Health practices refer to:",
+"answer": "D. Actions individuals take to maintain or improve health",
+"options": [
+"A. Hospital-only treatments",
+"B. Physician decisions",
+"C. Insurance policies",
+"D. Actions individuals take to maintain or improve health"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 36,
+"question": "Which factor can influence an individual's health status?",
+"answer": "B. Socioeconomic status",
+"options": [
+"A. Weather only",
+"B. Socioeconomic status",
+"C. Hospital architecture",
+"D. Medical equipment brands"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 37,
+"question": "According to Maslow’s hierarchy, which need is most basic?",
+"answer": "A. Physiological needs",
+"options": [
+"A. Physiological needs",
+"B. Safety needs",
+"C. Love and belonging",
+"D. Self-actualization"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 38,
+"question": "Which level of Maslow’s hierarchy involves achieving personal potential?",
+"answer": "D. Self-actualization",
+"options": [
+"A. Physiological",
+"B. Safety",
+"C. Esteem",
+"D. Self-actualization"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 39,
+"question": "When prioritizing patient problems, the nurse should address:",
+"answer": "A. Life-threatening issues first",
+"options": [
+"A. Life-threatening issues first",
+"B. Social needs first",
+"C. Long-term goals first",
+"D. Financial concerns first"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 40,
+"question": "Which step in the nursing process involves analyzing collected data?",
+"answer": "B. Diagnosis",
+"options": [
+"A. Assessment",
+"B. Diagnosis",
+"C. Planning",
+"D. Evaluation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 41,
+"question": "Which step in the nursing process involves setting measurable patient goals?",
+"answer": "C. Planning",
+"options": [
+"A. Assessment",
+"B. Diagnosis",
+"C. Planning",
+"D. Evaluation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 42,
+"question": "During the implementation phase, the nurse focuses on:",
+"answer": "B. Carrying out planned interventions",
+"options": [
+"A. Identifying health problems",
+"B. Carrying out planned interventions",
+"C. Setting goals",
+"D. Evaluating outcomes"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 43,
+"question": "Which nursing process step determines if patient goals were achieved?",
+"answer": "D. Evaluation",
+"options": [
+"A. Assessment",
+"B. Diagnosis",
+"C. Planning",
+"D. Evaluation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 44,
+"question": "Which nursing action addresses a client’s hygiene needs?",
+"answer": "A. Assisting with bathing",
+"options": [
+"A. Assisting with bathing",
+"B. Administering IV medication",
+"C. Monitoring vital signs",
+"D. Changing wound dressings"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 45,
+"question": "Safe patient mobility includes:",
+"answer": "C. Using assistive devices properly",
+"options": [
+"A. Avoiding patient movement",
+"B. Letting patients move unassisted",
+"C. Using assistive devices properly",
+"D. Ignoring pain complaints"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 46,
+"question": "Physiological care involves maintaining:",
+"answer": "B. Basic bodily functions",
+"options": [
+"A. Social relationships",
+"B. Basic bodily functions",
+"C. Financial planning",
+"D. Community education"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 47,
+"question": "Psychosocial care addresses which patient needs?",
+"answer": "D. Emotional and mental well-being",
+"options": [
+"A. Physical injuries",
+"B. Medication adherence",
+"C. Nutritional intake",
+"D. Emotional and mental well-being"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 48,
+"question": "Therapeutic communication is characterized by:",
+"answer": "A. Active listening and empathy",
+"options": [
+"A. Active listening and empathy",
+"B. Giving direct orders",
+"C. Talking more than the patient",
+"D. Avoiding sensitive topics"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 49,
+"question": "Which is an example of involving the client in healthcare decisions?",
+"answer": "B. Discussing treatment options and preferences",
+"options": [
+"A. Ignoring patient input",
+"B. Discussing treatment options and preferences",
+"C. Making all decisions independently",
+"D. Only informing family members"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 50,
+"question": "When assessing cultural factors, the nurse should consider:",
+"answer": "D. Beliefs, values, and practices influencing care",
+"options": [
+"A. Only dietary restrictions",
+"B. Only language barriers",
+"C. Only religious rituals",
+"D. Beliefs, values, and practices influencing care"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 51,
+"question": "Spiritual assessment includes asking about:",
+"answer": "A. Sources of hope and meaning",
+"options": [
+"A. Sources of hope and meaning",
+"B. Only religious affiliation",
+"C. Financial status",
+"D. Medication preferences"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 52,
+"question": "Biopsychosocial assessment considers:",
+"answer": "C. Biological, psychological, and social aspects of health",
+"options": [
+"A. Only physical health",
+"B. Only mental health",
+"C. Biological, psychological, and social aspects of health",
+"D. Only family dynamics"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 53,
+"question": "The scope of nursing practice in Pakistan is defined by:",
+"answer": "B. Pakistan Nursing Council regulations",
+"options": [
+"A. Hospital policies only",
+"B. Pakistan Nursing Council regulations",
+"C. Physician preferences",
+"D. International nursing standards only"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 54,
+"question": "Professional nursing practice includes:",
+"answer": "D. Providing safe, ethical, and evidence-based care",
+"options": [
+"A. Performing only technical tasks",
+"B. Following physician orders without question",
+"C. Prioritizing paperwork over patients",
+"D. Providing safe, ethical, and evidence-based care"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 55,
+"question": "Which healthcare team member focuses on physical therapy?",
+"answer": "C. Physiotherapist",
+"options": [
+"A. Nurse",
+"B. Pharmacist",
+"C. Physiotherapist",
+"D. Dietitian"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 56,
+"question": "The laboratory department in a hospital is responsible for:",
+"answer": "A. Conducting diagnostic tests on patient samples",
+"options": [
+"A. Conducting diagnostic tests on patient samples",
+"B. Preparing patient meals",
+"C. Cleaning patient rooms",
+"D. Managing financial records"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 57,
+"question": "What is the typical physical setup of a ward?",
+"answer": "B. Rows of patient beds with central nursing station",
+"options": [
+"A. Private offices only",
+"B. Rows of patient beds with central nursing station",
+"C. Only surgical suites",
+"D. Separate rooms for each department"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 58,
+"question": "Safe psychomotor skills in nursing include:",
+"answer": "D. Performing procedures using correct technique",
+"options": [
+"A. Guessing steps when unsure",
+"B. Skipping hand hygiene",
+"C. Ignoring infection control protocols",
+"D. Performing procedures using correct technique"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 59,
+"question": "Coordinating patient care involves:",
+"answer": "C. Collaborating with healthcare team members",
+"options": [
+"A. Working independently only",
+"B. Ignoring physician instructions",
+"C. Collaborating with healthcare team members",
+"D. Delegating all tasks to assistants"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 60,
+"question": "Which form is commonly used for documenting patient care?",
+"answer": "B. Nursing notes",
+"options": [
+"A. Menu order form",
+"B. Nursing notes",
+"C. Maintenance log",
+"D. Staff payroll sheet"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 61,
+"question": "The admission process in a hospital includes:",
+"answer": "D. Completing forms and orienting the patient",
+"options": [
+"A. Scheduling surgeries only",
+"B. Assigning financial plans",
+"C. Only ordering lab tests",
+"D. Completing forms and orienting the patient"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 62,
+"question": "When orienting a patient to the hospital, the nurse should:",
+"answer": "A. Explain room layout and introduce staff",
+"options": [
+"A. Explain room layout and introduce staff",
+"B. Skip introductions to save time",
+"C. Provide only written instructions",
+"D. Focus solely on medical procedures"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 63,
+"question": "Legal documents during admission often include:",
+"answer": "C. Consent forms",
+"options": [
+"A. Shopping lists",
+"B. Meal plans",
+"C. Consent forms",
+"D. Holiday schedules"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 64,
+"question": "Patients may react to hospitalization with:",
+"answer": "D. Anxiety, fear, or withdrawal",
+"options": [
+"A. Only excitement",
+"B. Only gratitude",
+"C. Indifference only",
+"D. Anxiety, fear, or withdrawal"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 65,
+"question": "Occupied bed making is used when:",
+"answer": "B. The patient cannot leave the bed",
+"options": [
+"A. The bed is empty",
+"B. The patient cannot leave the bed",
+"C. The room is unoccupied",
+"D. No linens are available"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 66,
+"question": "Providing personal hygiene care includes:",
+"answer": "A. Assisting with oral care and bathing",
+"options": [
+"A. Assisting with oral care and bathing",
+"B. Only offering medication",
+"C. Ignoring hygiene needs",
+"D. Limiting care to meal delivery"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 67,
+"question": "Which of the following is a key responsibility when assisting a patient with ambulation?",
+"answer": "C. Using a gait belt for support",
+"options": [
+"A. Pulling the patient by the arm",
+"B. Letting the patient walk unsupported",
+"C. Using a gait belt for support",
+"D. Avoiding verbal instructions"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 68,
+"question": "What should the nurse check before assisting a patient with oral hygiene?",
+"answer": "B. Patient’s ability to swallow",
+"options": [
+"A. Patient’s temperature",
+"B. Patient’s ability to swallow",
+"C. Patient’s family history",
+"D. Patient’s blood pressure"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 69,
+"question": "Which legal document gives permission for surgery?",
+"answer": "A. Informed consent form",
+"options": [
+"A. Informed consent form",
+"B. Medication chart",
+"C. Nursing care plan",
+"D. Admission checklist"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 70,
+"question": "Which team member specializes in preparing therapeutic diets?",
+"answer": "D. Dietitian",
+"options": [
+"A. Physiotherapist",
+"B. Occupational therapist",
+"C. Pharmacist",
+"D. Dietitian"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 71,
+"question": "What is the purpose of using side rails on a hospital bed?",
+"answer": "B. Prevent patient falls",
+"options": [
+"A. Provide decoration",
+"B. Prevent patient falls",
+"C. Block nurse access",
+"D. Store patient belongings"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 72,
+"question": "Which is a fundamental principle of safe patient transfer?",
+"answer": "C. Using proper body mechanics",
+"options": [
+"A. Twisting the spine",
+"B. Lifting with the back",
+"C. Using proper body mechanics",
+"D. Bending at the waist"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 73,
+"question": "When documenting patient care, accuracy is important because:",
+"answer": "D. It ensures clear communication among healthcare providers",
+"options": [
+"A. It reduces paperwork",
+"B. It allows shortcuts",
+"C. It satisfies patient curiosity",
+"D. It ensures clear communication among healthcare providers"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 74,
+"question": "Which action is appropriate when making an unoccupied bed?",
+"answer": "A. Ensure the linens are wrinkle-free",
+"options": [
+"A. Ensure the linens are wrinkle-free",
+"B. Leave the sheets untucked",
+"C. Skip the pillow arrangement",
+"D. Avoid changing the bottom sheet"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 75,
+"question": "A patient newly admitted feels anxious. The nurse’s best action is to:",
+"answer": "B. Provide reassurance and explain procedures",
+"options": [
+"A. Ignore the patient’s feelings",
+"B. Provide reassurance and explain procedures",
+"C. Rush through the admission process",
+"D. Delegate all interaction to assistants"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 76,
+"question": "The nurse assesses the patient’s religious beliefs primarily to:",
+"answer": "C. Provide culturally sensitive care",
+"options": [
+"A. Decide medical treatment",
+"B. Change the patient’s views",
+"C. Provide culturally sensitive care",
+"D. Avoid discussing spiritual matters"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 77,
+"question": "A key characteristic of effective therapeutic communication is:",
+"answer": "D. Being nonjudgmental and supportive",
+"options": [
+"A. Giving quick advice",
+"B. Ignoring patient feelings",
+"C. Talking over the patient",
+"D. Being nonjudgmental and supportive"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 78,
+"question": "Which model focuses on the balance of mind, body, and spirit?",
+"answer": "B. Holistic health model",
+"options": [
+"A. Biomedical model",
+"B. Holistic health model",
+"C. Ecological model",
+"D. Clinical model"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 79,
+"question": "In Maslow’s hierarchy, which need comes after physiological needs?",
+"answer": "C. Safety and security",
+"options": [
+"A. Self-actualization",
+"B. Esteem",
+"C. Safety and security",
+"D. Love and belonging"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 80,
+"question": "According to Florence Nightingale, what is key to promoting healing?",
+"answer": "A. Maintaining a clean environment",
+"options": [
+"A. Maintaining a clean environment",
+"B. Providing strong medications",
+"C. Isolating the patient",
+"D. Reducing social interactions"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 81,
+"question": "Which theorist developed the self-care deficit theory?",
+"answer": "D. Dorothea Orem",
+"options": [
+"A. Florence Nightingale",
+"B. Hildegard Peplau",
+"C. Virginia Henderson",
+"D. Dorothea Orem"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 82,
+"question": "The nurse evaluates a patient’s progress based on:",
+"answer": "B. Achievement of set goals",
+"options": [
+"A. Time spent on care",
+"B. Achievement of set goals",
+"C. Number of interventions done",
+"D. Nurse’s personal judgment"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 83,
+"question": "Which factor most affects a patient’s health beliefs?",
+"answer": "C. Cultural background",
+"options": [
+"A. Weather patterns",
+"B. Hospital design",
+"C. Cultural background",
+"D. Nurse’s opinions"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 84,
+"question": "Which communication technique is most effective in gathering patient information?",
+"answer": "A. Open-ended questions",
+"options": [
+"A. Open-ended questions",
+"B. Yes/no questions only",
+"C. Rapid-fire questioning",
+"D. Ignoring responses"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 85,
+"question": "Who regulates nursing education standards in Pakistan?",
+"answer": "B. Pakistan Nursing Council (PNC)",
+"options": [
+"A. World Health Organization",
+"B. Pakistan Nursing Council (PNC)",
+"C. Ministry of Finance",
+"D. Local hospital boards"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 86,
+"question": "What should the nurse do before documenting patient care?",
+"answer": "C. Verify accuracy of information",
+"options": [
+"A. Guess missing details",
+"B. Skip minor observations",
+"C. Verify accuracy of information",
+"D. Let someone else complete it"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 87,
+"question": "The nurse includes which factor when developing culturally competent care?",
+"answer": "A. Patient’s language and traditions",
+"options": [
+"A. Patient’s language and traditions",
+"B. Only patient’s medical history",
+"C. Nurse’s own preferences",
+"D. Ignoring cultural practices"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 88,
+"question": "Effective delegation involves:",
+"answer": "D. Assigning tasks based on staff competence",
+"options": [
+"A. Giving away all responsibilities",
+"B. Ignoring staff abilities",
+"C. Doing everything alone",
+"D. Assigning tasks based on staff competence"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 89,
+"question": "Which team member administers medications?",
+"answer": "B. Registered nurse",
+"options": [
+"A. Physiotherapist",
+"B. Registered nurse",
+"C. Dietitian",
+"D. Ward clerk"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 90,
+"question": "Which is an example of a nursing intervention?",
+"answer": "C. Repositioning a patient to prevent pressure ulcers",
+"options": [
+"A. Diagnosing diseases",
+"B. Prescribing medications",
+"C. Repositioning a patient to prevent pressure ulcers",
+"D. Performing surgery"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 91,
+"question": "Which action best promotes patient safety during a transfer from bed to wheelchair?",
+"answer": "A. Locking the wheels of the wheelchair",
+"options": [
+"A. Locking the wheels of the wheelchair",
+"B. Pulling the patient by their arms",
+"C. Tilting the wheelchair slightly",
+"D. Asking the patient to jump into the chair"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 92,
+"question": "A nurse notices a patient is developing a pressure sore. What is the best immediate action?",
+"answer": "C. Reposition the patient and assess the area",
+"options": [
+"A. Apply antibiotic ointment without assessment",
+"B. Ignore and continue routine care",
+"C. Reposition the patient and assess the area",
+"D. Cover it with a blanket"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 93,
+"question": "Which nursing theorist emphasized interpersonal relationships?",
+"answer": "B. Hildegard Peplau",
+"options": [
+"A. Virginia Henderson",
+"B. Hildegard Peplau",
+"C. Florence Nightingale",
+"D. Dorothea Orem"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 94,
+"question": "Which documentation form typically contains patient allergies, medications, and diagnoses?",
+"answer": "D. Medical record",
+"options": [
+"A. Admission checklist",
+"B. Discharge summary",
+"C. Consent form",
+"D. Medical record"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 95,
+"question": "What is the primary goal during a patient admission?",
+"answer": "C. Ensure the patient feels welcome and safe",
+"options": [
+"A. Finish paperwork quickly",
+"B. Assign the patient a number",
+"C. Ensure the patient feels welcome and safe",
+"D. Avoid discussing the care plan"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 96,
+"question": "Which action shows cultural sensitivity during patient care?",
+"answer": "B. Asking about dietary or religious needs",
+"options": [
+"A. Assuming all patients want the same care",
+"B. Asking about dietary or religious needs",
+"C. Ignoring cultural differences",
+"D. Applying only Western medical practices"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 97,
+"question": "In the nursing process, which step involves setting measurable goals?",
+"answer": "C. Planning",
+"options": [
+"A. Assessment",
+"B. Diagnosis",
+"C. Planning",
+"D. Evaluation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 98,
+"question": "Why is a handoff report important during shift change?",
+"answer": "A. It ensures continuity of care",
+"options": [
+"A. It ensures continuity of care",
+"B. It shortens the nurse’s shift",
+"C. It reduces patient responsibility",
+"D. It is only done for documentation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 99,
+"question": "What is the nurse’s first priority when a patient suddenly becomes unresponsive?",
+"answer": "C. Check the patient’s airway and breathing",
+"options": [
+"A. Notify the family",
+"B. Record the incident",
+"C. Check the patient’s airway and breathing",
+"D. Call housekeeping"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 100,
+"question": "Which is an example of a psychosocial need?",
+"answer": "B. Sense of belonging and love",
+"options": [
+"A. Adequate oxygen supply",
+"B. Sense of belonging and love",
+"C. Adequate nutrition",
+"D. Body temperature regulation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 101,
+"question": "When making an occupied bed, the nurse should:",
+"answer": "A. Maintain patient privacy and safety",
+"options": [
+"A. Maintain patient privacy and safety",
+"B. Ask the patient to get up",
+"C. Skip changing the linens",
+"D. Focus only on speed"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 102,
+"question": "Which statement reflects evidence-based practice?",
+"answer": "D. Using interventions proven by research and clinical expertise",
+"options": [
+"A. Using personal beliefs only",
+"B. Following traditions without question",
+"C. Ignoring patient preferences",
+"D. Using interventions proven by research and clinical expertise"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 103,
+"question": "In a health belief model, a ‘cue to action’ is:",
+"answer": "B. A trigger that prompts health behavior change",
+"options": [
+"A. A genetic factor",
+"B. A trigger that prompts health behavior change",
+"C. A socioeconomic status",
+"D. A diagnosis code"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 104,
+"question": "The role of a nurse advocate involves:",
+"answer": "C. Supporting and representing the patient’s interests",
+"options": [
+"A. Making decisions without input",
+"B. Avoiding patient interactions",
+"C. Supporting and representing the patient’s interests",
+"D. Reporting only to physicians"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 105,
+"question": "The process of identifying and prioritizing patient problems is called:",
+"answer": "B. Nursing diagnosis",
+"options": [
+"A. Medical diagnosis",
+"B. Nursing diagnosis",
+"C. Evaluation",
+"D. Implementation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 106,
+"question": "What is the nurse’s responsibility during informed consent?",
+"answer": "A. Ensure the patient understands the procedure",
+"options": [
+"A. Ensure the patient understands the procedure",
+"B. Sign the form for the patient",
+"C. Force the patient to agree",
+"D. Skip the explanation"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 107,
+"question": "The Pakistan Nursing Council’s primary role is to:",
+"answer": "C. Regulate nursing education and practice standards",
+"options": [
+"A. Provide hospital funding",
+"B. Hire hospital staff",
+"C. Regulate nursing education and practice standards",
+"D. Deliver patient care directly"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 108,
+"question": "Which department handles laboratory tests in a hospital?",
+"answer": "D. Pathology department",
+"options": [
+"A. Radiology department",
+"B. Physiotherapy department",
+"C. Dietary department",
+"D. Pathology department"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 109,
+"question": "The nurse’s best action when a patient expresses cultural concerns is to:",
+"answer": "B. Listen and incorporate them into care",
+"options": [
+"A. Ignore the concerns",
+"B. Listen and incorporate them into care",
+"C. Replace them with standard routines",
+"D. Avoid further discussion"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 110,
+"question": "Why is hand hygiene considered the most important infection control measure?",
+"answer": "C. It reduces the spread of microorganisms",
+"options": [
+"A. It saves time on cleaning",
+"B. It replaces the need for gloves",
+"C. It reduces the spread of microorganisms",
+"D. It is optional for staff"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 111,
+"question": "What is the correct sequence of the nursing process?",
+"answer": "B. Assessment, Diagnosis, Planning, Implementation, Evaluation",
+"options": [
+"A. Diagnosis, Assessment, Planning, Implementation, Evaluation",
+"B. Assessment, Diagnosis, Planning, Implementation, Evaluation",
+"C. Planning, Diagnosis, Assessment, Implementation, Evaluation",
+"D. Evaluation, Implementation, Planning, Diagnosis, Assessment"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 112,
+"question": "Which factor is most critical when assessing a patient’s spiritual needs?",
+"answer": "D. Respecting individual beliefs and preferences",
+"options": [
+"A. Providing religious materials",
+"B. Recommending a specific faith",
+"C. Asking about church attendance",
+"D. Respecting individual beliefs and preferences"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 113,
+"question": "Which communication technique encourages patient expression?",
+"answer": "A. Open-ended questions",
+"options": [
+"A. Open-ended questions",
+"B. Giving advice",
+"C. Changing the subject",
+"D. Closed yes/no questions"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 114,
+"question": "What does Maslow’s hierarchy of needs prioritize first?",
+"answer": "C. Physiological needs",
+"options": [
+"A. Esteem needs",
+"B. Love and belonging",
+"C. Physiological needs",
+"D. Self-actualization"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 115,
+"question": "Which is an example of a nursing intervention?",
+"answer": "D. Turning the patient every two hours",
+"options": [
+"A. Diagnosing pneumonia",
+"B. Prescribing antibiotics",
+"C. Ordering lab tests",
+"D. Turning the patient every two hours"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 116,
+"question": "What is a key principle in therapeutic communication?",
+"answer": "B. Active listening",
+"options": [
+"A. Giving unsolicited advice",
+"B. Active listening",
+"C. Speaking more than the patient",
+"D. Ignoring emotional cues"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 117,
+"question": "Which best describes critical thinking in nursing?",
+"answer": "A. Using reasoned judgment to guide care decisions",
+"options": [
+"A. Using reasoned judgment to guide care decisions",
+"B. Following routines without reflection",
+"C. Relying only on physician instructions",
+"D. Avoiding patient input"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 118,
+"question": "What is the nurse’s role when using evidence-based practice?",
+"answer": "C. Integrate research, clinical expertise, and patient preferences",
+"options": [
+"A. Follow traditions strictly",
+"B. Ignore new research",
+"C. Integrate research, clinical expertise, and patient preferences",
+"D. Rely solely on textbooks"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 119,
+"question": "Which department manages patient X-rays?",
+"answer": "B. Radiology",
+"options": [
+"A. Laboratory",
+"B. Radiology",
+"C. Physiotherapy",
+"D. Pharmacy"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 120,
+"question": "Which legal document is signed before surgery?",
+"answer": "A. Informed consent form",
+"options": [
+"A. Informed consent form",
+"B. Progress notes",
+"C. Nursing care plan",
+"D. Discharge summary"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 121,
+"question": "Which of the following reflects a health promotion activity?",
+"answer": "C. Providing immunizations",
+"options": [
+"A. Administering antibiotics",
+"B. Performing surgery",
+"C. Providing immunizations",
+"D. Managing an acute illness"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 122,
+"question": "Why is documentation important in nursing?",
+"answer": "B. It provides a legal record of care",
+"options": [
+"A. It reduces nurse workload",
+"B. It provides a legal record of care",
+"C. It replaces communication with the team",
+"D. It only benefits management"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 123,
+"question": "Which hygiene practice prevents infection spread in hospitals?",
+"answer": "D. Handwashing before and after patient contact",
+"options": [
+"A. Wearing jewelry",
+"B. Skipping gloves",
+"C. Using hand lotion only",
+"D. Handwashing before and after patient contact"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 124,
+"question": "Which factor can influence a person’s health beliefs?",
+"answer": "A. Cultural background",
+"options": [
+"A. Cultural background",
+"B. Room temperature",
+"C. Bed height",
+"D. Hospital lighting"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 125,
+"question": "When assisting with feeding, the nurse should:",
+"answer": "B. Sit at eye level and make the patient comfortable",
+"options": [
+"A. Rush to finish quickly",
+"B. Sit at eye level and make the patient comfortable",
+"C. Feed while standing over the patient",
+"D. Ignore patient preferences"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 126,
+"question": "What should a nurse do if a patient refuses treatment?",
+"answer": "D. Respect the patient’s decision and document it",
+"options": [
+"A. Force the treatment",
+"B. Ignore the refusal",
+"C. Threaten the patient",
+"D. Respect the patient’s decision and document it"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 127,
+"question": "Which model explains how individuals perceive and act on health threats?",
+"answer": "A. Health belief model",
+"options": [
+"A. Health belief model",
+"B. Adaptation model",
+"C. Self-care model",
+"D. Interpersonal model"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 128,
+"question": "The primary function of the nursing care plan is to:",
+"answer": "C. Provide individualized, organized patient care",
+"options": [
+"A. List medications only",
+"B. Serve as hospital policy",
+"C. Provide individualized, organized patient care",
+"D. Replace physician orders"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 129,
+"question": "What is the first step in preventing patient falls?",
+"answer": "A. Assessing the patient’s fall risk",
+"options": [
+"A. Assessing the patient’s fall risk",
+"B. Installing bed alarms without assessment",
+"C. Keeping all patients in bed",
+"D. Asking family members to watch"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 130,
+"question": "Which of the following is a bio-psychosocial factor affecting health?",
+"answer": "C. Stress",
+"options": [
+"A. Bed type",
+"B. Lighting color",
+"C. Stress",
+"D. Room location"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 131,
+"question": "What does patient-centered care focus on?",
+"answer": "B. Involving patients in their care decisions",
+"options": [
+"A. Following hospital routines only",
+"B. Involving patients in their care decisions",
+"C. Ignoring patient preferences",
+"D. Focusing only on tasks"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 132,
+"question": "Which is an example of secondary prevention?",
+"answer": "C. Screening for hypertension",
+"options": [
+"A. Vaccination",
+"B. Rehabilitation after stroke",
+"C. Screening for hypertension",
+"D. Health education"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 133,
+"question": "The nurse applies body mechanics by:",
+"answer": "D. Bending knees, not the back, when lifting",
+"options": [
+"A. Twisting the body when lifting",
+"B. Holding objects away from the body",
+"C. Keeping legs straight when lifting",
+"D. Bending knees, not the back, when lifting"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 134,
+"question": "The most effective way to reduce hospital-acquired infections is:",
+"answer": "A. Proper hand hygiene",
+"options": [
+"A. Proper hand hygiene",
+"B. Using antibiotics for all patients",
+"C. Wearing masks at all times",
+"D. Isolating every patient"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 135,
+"question": "Which leadership style involves the team in decision-making?",
+"answer": "B. Democratic",
+"options": [
+"A. Autocratic",
+"B. Democratic",
+"C. Laissez-faire",
+"D. Authoritarian"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 136,
+"question": "Which is the best approach when orienting a patient to the ward?",
+"answer": "C. Explain routines, environment, and introduce staff",
+"options": [
+"A. Skip introductions and leave quickly",
+"B. Only provide written information",
+"C. Explain routines, environment, and introduce staff",
+"D. Focus only on bed assignment"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 137,
+"question": "What is the nurse’s first action if they witness an unsafe practice?",
+"answer": "D. Intervene immediately to ensure safety",
+"options": [
+"A. Ignore it",
+"B. Document only",
+"C. Report later",
+"D. Intervene immediately to ensure safety"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 138,
+"question": "Which outcome reflects successful therapeutic communication?",
+"answer": "B. Patient shares feelings and concerns openly",
+"options": [
+"A. Nurse controls the conversation",
+"B. Patient shares feelings and concerns openly",
+"C. Nurse avoids emotional topics",
+"D. Nurse provides solutions without listening"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 139,
+"question": "Which is an example of primary prevention?",
+"answer": "A. Health education on smoking cessation",
+"options": [
+"A. Health education on smoking cessation",
+"B. Blood pressure screening",
+"C. Physical therapy after stroke",
+"D. Diabetes management"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 140,
+"question": "What is an appropriate nursing action during patient discharge?",
+"answer": "C. Provide clear instructions and answer questions",
+"options": [
+"A. Discharge quickly without explanation",
+"B. Hand over only written materials",
+"C. Provide clear instructions and answer questions",
+"D. Leave it to the physician only"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 141,
+"question": "Which activity is part of safe medication administration?",
+"answer": "D. Checking the five rights: patient, drug, dose, time, route",
+"options": [
+"A. Asking a colleague to verify every dose",
+"B. Skipping documentation for minor drugs",
+"C. Ignoring patient allergies",
+"D. Checking the five rights: patient, drug, dose, time, route"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 142,
+"question": "Which is the nurse’s role in the interdisciplinary health team?",
+"answer": "B. Collaborate and communicate patient needs",
+"options": [
+"A. Work independently without consulting others",
+"B. Collaborate and communicate patient needs",
+"C. Focus only on nursing tasks",
+"D. Avoid patient advocacy"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 143,
+"question": "Why is emotional support important for hospitalized patients?",
+"answer": "A. It reduces anxiety and promotes recovery",
+"options": [
+"A. It reduces anxiety and promotes recovery",
+"B. It lengthens hospital stays",
+"C. It replaces physical care",
+"D. It is optional for nurses"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 144,
+"question": "What is the first step when a nurse notices abnormal vital signs?",
+"answer": "C. Reassess the patient and confirm findings",
+"options": [
+"A. Ignore the readings",
+"B. Report without reassessment",
+"C. Reassess the patient and confirm findings",
+"D. Wait until the next scheduled check"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 145,
+"question": "Which concept is part of holistic nursing care?",
+"answer": "D. Addressing physical, emotional, social, and spiritual needs",
+"options": [
+"A. Focusing only on physical health",
+"B. Ignoring cultural beliefs",
+"C. Treating all patients the same",
+"D. Addressing physical, emotional, social, and spiritual needs"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 146,
+"question": "What is the nurse’s ethical responsibility when making decisions?",
+"answer": "A. Ensure patient autonomy and beneficence",
+"options": [
+"A. Ensure patient autonomy and beneficence",
+"B. Follow physician orders blindly",
+"C. Prioritize convenience over care",
+"D. Ignore ethical principles"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 147,
+"question": "Why is patient education important?",
+"answer": "B. It empowers patients to participate in their care",
+"options": [
+"A. It reduces nurse responsibilities",
+"B. It empowers patients to participate in their care",
+"C. It replaces medical treatments",
+"D. It is optional in nursing"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 148,
+"question": "Which is a characteristic of professional nursing practice?",
+"answer": "C. Accountability for actions and decisions",
+"options": [
+"A. Following orders without thinking",
+"B. Ignoring patient feedback",
+"C. Accountability for actions and decisions",
+"D. Focusing only on technical tasks"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 149,
+"question": "What is an example of tertiary prevention?",
+"answer": "D. Rehabilitation after myocardial infarction",
+"options": [
+"A. Health education programs",
+"B. Cancer screenings",
+"C. Vaccinations",
+"D. Rehabilitation after myocardial infarction"
+]
+},
+{
+"course": "BSN-FON",
+"numb": 150,
+"question": "Which is a key component of culturally competent care?",
+"answer": "A. Respecting the patient’s cultural beliefs and preferences",
+"options": [
+"A. Respecting the patient’s cultural beliefs and preferences",
+"B. Using only one standard care approach",
+"C. Ignoring language differences",
+"D. Providing identical care to all"
+]
 }
-
-
-
 
 
 
