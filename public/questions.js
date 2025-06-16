@@ -2330,7 +2330,115 @@ const questionBank =
       "C. They use battery unnecessarily.",
       "D. They might introduce viruses into critical medical databases."
     ]
-  },   
+  },{
+    "course": "ck",
+    numb: 88,
+    question: "Which shortcut starts the slideshow from the beginning?",
+    answer: "A. F5",
+    options: [
+        "A. F5",
+        "B. Ctrl + F5",
+        "C. Shift + F5",
+        "D. Alt + F5"
+    ]
+},
+{
+    "course": "ck",
+    numb: 89,
+    question: "Which shortcut starts the slideshow from the current slide?",
+    answer: "C. Shift + F5",
+    options: [
+        "A. F5",
+        "B. Ctrl + Enter",
+        "C. Shift + F5",
+        "D. Alt + Shift + F5"
+    ]
+},
+{
+    "course": "ck",
+    numb: 90,
+    question: "What does Ctrl + M do in PowerPoint?",
+    answer: "B. Adds a new slide",
+    options: [
+        "A. Opens Slide Master",
+        "B. Adds a new slide",
+        "C. Mutes the presentation",
+        "D. Opens the Insert menu"
+    ]
+},
+{
+    "course": "ck",
+    numb: 91,
+    question: "Which shortcut opens the Print dialog box?",
+    answer: "A. Ctrl + P",
+    options: [
+        "A. Ctrl + P",
+        "B. Alt + P",
+        "C. Ctrl + Shift + P",
+        "D. F12"
+    ]
+},
+{
+    "course": "ck",
+    numb: 92,
+    question: "Which shortcut saves the PowerPoint file?",
+    answer: "C. Ctrl + S",
+    options: [
+        "A. Ctrl + Shift + S",
+        "B. Ctrl + Enter",
+        "C. Ctrl + S",
+        "D. Alt + S"
+    ]
+},
+{
+    "course": "ck",
+    numb: 93,
+    question: "Which shortcut allows you to duplicate a selected slide?",
+    answer: "A. Ctrl + D",
+    options: [
+        "A. Ctrl + D",
+        "B. Ctrl + M",
+        "C. Alt + D",
+        "D. Shift + D"
+    ]
+},
+{
+    "course": "ck",
+    numb: 94,
+    question: "How can you open the Slide Show tab using a keyboard shortcut?",
+    answer: "A. Alt + S",
+    options: [
+        "A. Alt + S",
+        "B. Alt + D",
+        "C. Ctrl + S",
+        "D. Alt + H"
+    ]
+},
+{
+   "course": "ck",
+    numb: 95,
+    question: "What does Ctrl + K do in PowerPoint?",
+    answer: "B. Insert a hyperlink",
+    options: [
+        "A. Insert a comment",
+        "B. Insert a hyperlink",
+        "C. Insert a keyframe",
+        "D. Insert a slide"
+    ]
+},
+{
+    "course": "ck",
+    numb: 96,
+    question: "Which shortcut is used to group selected objects?",
+    answer: "A. Ctrl + G",
+    options: [
+        "A. Ctrl + G",
+        "B. Alt + G",
+        "C. Shift + G",
+        "D. Ctrl + Shift + G"
+    ]
+},
+   
 
 
 //  End 
