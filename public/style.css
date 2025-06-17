@@ -140,6 +140,9 @@ body.dark {
   background: #0056b3;
 }
 
+.fa-brands, .a-brands {
+  color:red;
+}
 /* Quiz Section */
 .quiz-section {
   
