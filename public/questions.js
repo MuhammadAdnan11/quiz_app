@@ -7141,7 +7141,720 @@ const questionBank =
 "C. Ignoring language differences",
 "D. Providing identical care to all"
 ]
-}
+},
+
+// Anatomy Subject MCQS 1st Semester 
+  {
+    "course": "Anatomy",
+    "numb": 1,
+    "question": "What anatomical term refers to 'toward the midline of the body'?",
+    "answer": "A. Medial",
+    "options": ["A. Medial", "B. Lateral", "C. Superior", "D. Inferior"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 2,
+    "question": "Which term describes a body lying flat on its back?",
+    "answer": "B. Supine",
+    "options": ["A. Prone", "B. Supine", "C. Lateral", "D. Flexed"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 3,
+    "question": "The anatomical position is characterized by all of the following EXCEPT:",
+    "answer": "D. Palms facing backward",
+    "options": ["A. Body upright", "B. Arms at side", "C. Feet flat", "D. Palms facing backward"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 4,
+    "question": "Which organelle is known as the 'powerhouse' of the cell?",
+    "answer": "C. Mitochondria",
+    "options": ["A. Nucleus", "B. Ribosome", "C. Mitochondria", "D. Golgi apparatus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 5,
+    "question": "Which cell structure contains DNA and controls the cell's activities?",
+    "answer": "A. Nucleus",
+    "options": ["A. Nucleus", "B. Cytoplasm", "C. Endoplasmic reticulum", "D. Ribosome"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 6,
+    "question": "Which structure carries genetic information in the form of genes?",
+    "answer": "C. Chromosomes",
+    "options": ["A. RNA", "B. Ribosomes", "C. Chromosomes", "D. Lysosomes"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 7,
+    "question": "What is the primary function of DNA?",
+    "answer": "B. To store genetic information",
+    "options": ["A. To digest food", "B. To store genetic information", "C. To produce energy", "D. To excrete waste"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 8,
+    "question": "Which type of cell division results in identical daughter cells?",
+    "answer": "A. Mitosis",
+    "options": ["A. Mitosis", "B. Meiosis", "C. Cytokinesis", "D. Budding"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 9,
+    "question": "How many chromosomes are present in a normal human cell?",
+    "answer": "C. 46",
+    "options": ["A. 23", "B. 44", "C. 46", "D. 92"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 10,
+    "question": "Meiosis produces how many daughter cells?",
+    "answer": "D. Four",
+    "options": ["A. One", "B. Two", "C. Three", "D. Four"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 11,
+    "question": "What tissue type covers body surfaces and lines cavities?",
+    "answer": "A. Epithelial tissue",
+    "options": ["A. Epithelial tissue", "B. Connective tissue", "C. Muscle tissue", "D. Nervous tissue"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 12,
+    "question": "Which tissue connects and supports body parts?",
+    "answer": "B. Connective tissue",
+    "options": ["A. Nervous tissue", "B. Connective tissue", "C. Epithelial tissue", "D. Cartilage"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 13,
+    "question": "Which tissue type is responsible for body movement?",
+    "answer": "C. Muscle tissue",
+    "options": ["A. Nervous tissue", "B. Connective tissue", "C. Muscle tissue", "D. Epithelial tissue"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 14,
+    "question": "Which tissue coordinates and controls body activities?",
+    "answer": "D. Nervous tissue",
+    "options": ["A. Connective tissue", "B. Epithelial tissue", "C. Muscle tissue", "D. Nervous tissue"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 15,
+    "question": "Which of the following is a component of blood tissue?",
+    "answer": "C. Red blood cells",
+    "options": ["A. Cartilage", "B. Neurons", "C. Red blood cells", "D. Adipocytes"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 16,
+    "question": "What is the main function of red blood cells?",
+    "answer": "A. Transport oxygen",
+    "options": ["A. Transport oxygen", "B. Fight infections", "C. Clot blood", "D. Store nutrients"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 17,
+    "question": "Which of the following bones is part of the axial skeleton?",
+    "answer": "D. Skull",
+    "options": ["A. Femur", "B. Radius", "C. Clavicle", "D. Skull"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 18,
+    "question": "How many bones are there in the adult human body?",
+    "answer": "B. 206",
+    "options": ["A. 201", "B. 206", "C. 210", "D. 208"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 19,
+    "question": "Which bone is commonly known as the collarbone?",
+    "answer": "A. Clavicle",
+    "options": ["A. Clavicle", "B. Scapula", "C. Sternum", "D. Rib"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 20,
+    "question": "What type of joint is the shoulder joint?",
+    "answer": "C. Ball and socket",
+    "options": ["A. Hinge", "B. Pivot", "C. Ball and socket", "D. Saddle"]
+  },
+
+  {
+    "course": "Anatomy",
+    "numb": 21,
+    "question": "Which of the following is a hinge joint?",
+    "answer": "B. Elbow",
+    "options": ["A. Shoulder", "B. Elbow", "C. Hip", "D. Wrist"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 22,
+    "question": "Which muscle is located in the front of the thigh?",
+    "answer": "C. Quadriceps",
+    "options": ["A. Hamstring", "B. Gastrocnemius", "C. Quadriceps", "D. Gluteus maximus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 23,
+    "question": "The deltoid muscle is responsible for which movement?",
+    "answer": "A. Arm abduction",
+    "options": ["A. Arm abduction", "B. Knee extension", "C. Neck rotation", "D. Wrist flexion"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 24,
+    "question": "The main function of the gastrointestinal system is to:",
+    "answer": "B. Digest and absorb nutrients",
+    "options": ["A. Pump blood", "B. Digest and absorb nutrients", "C. Transport oxygen", "D. Control movement"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 25,
+    "question": "Which organ stores bile?",
+    "answer": "D. Gall bladder",
+    "options": ["A. Liver", "B. Pancreas", "C. Stomach", "D. Gall bladder"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 26,
+    "question": "Which part of the GI tract absorbs the most nutrients?",
+    "answer": "A. Small intestine",
+    "options": ["A. Small intestine", "B. Large intestine", "C. Stomach", "D. Esophagus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 27,
+    "question": "The pancreas produces which of the following?",
+    "answer": "C. Insulin",
+    "options": ["A. Bile", "B. Gastrin", "C. Insulin", "D. Pepsin"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 28,
+    "question": "Which respiratory structure is also known as the windpipe?",
+    "answer": "C. Trachea",
+    "options": ["A. Larynx", "B. Bronchi", "C. Trachea", "D. Alveoli"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 29,
+    "question": "Where does gas exchange occur in the lungs?",
+    "answer": "D. Alveoli",
+    "options": ["A. Bronchi", "B. Bronchioles", "C. Trachea", "D. Alveoli"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 30,
+    "question": "What separates the thoracic cavity from the abdominal cavity?",
+    "answer": "B. Diaphragm",
+    "options": ["A. Lungs", "B. Diaphragm", "C. Ribs", "D. Pleura"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 31,
+    "question": "Which chamber of the heart receives deoxygenated blood from the body?",
+    "answer": "A. Right atrium",
+    "options": ["A. Right atrium", "B. Right ventricle", "C. Left atrium", "D. Left ventricle"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 32,
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "answer": "D. Pulmonary vein",
+    "options": ["A. Aorta", "B. Pulmonary artery", "C. Superior vena cava", "D. Pulmonary vein"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 33,
+    "question": "Which artery is the largest in the body?",
+    "answer": "A. Aorta",
+    "options": ["A. Aorta", "B. Femoral artery", "C. Pulmonary artery", "D. Carotid artery"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 34,
+    "question": "Which part of the brain is responsible for conscious thought and reasoning?",
+    "answer": "B. Cerebrum",
+    "options": ["A. Cerebellum", "B. Cerebrum", "C. Medulla oblongata", "D. Midbrain"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 35,
+    "question": "Which part of the nervous system includes the brain and spinal cord?",
+    "answer": "A. Central nervous system",
+    "options": ["A. Central nervous system", "B. Autonomic nervous system", "C. Somatic system", "D. Peripheral nervous system"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 36,
+    "question": "Which nerve controls facial expressions?",
+    "answer": "D. Facial nerve",
+    "options": ["A. Vagus", "B. Trigeminal", "C. Accessory", "D. Facial nerve"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 37,
+    "question": "The ulnar nerve runs through which part of the body?",
+    "answer": "C. Arm",
+    "options": ["A. Leg", "B. Chest", "C. Arm", "D. Abdomen"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 38,
+    "question": "The nephron is found in which organ?",
+    "answer": "A. Kidney",
+    "options": ["A. Kidney", "B. Liver", "C. Spleen", "D. Bladder"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 39,
+    "question": "Which tube connects the kidney to the bladder?",
+    "answer": "B. Ureter",
+    "options": ["A. Urethra", "B. Ureter", "C. Vas deferens", "D. Fallopian tube"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 40,
+    "question": "The prostate gland is part of which system?",
+    "answer": "D. Male reproductive system",
+    "options": ["A. Endocrine", "B. Digestive", "C. Respiratory", "D. Male reproductive system"]
+  },
+  
+  {
+    "course": "Anatomy",
+    "numb": 41,
+    "question": "Which organ produces sperm?",
+    "answer": "C. Testes",
+    "options": ["A. Prostate", "B. Vas deferens", "C. Testes", "D. Penis"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 42,
+    "question": "What is the function of the uterus?",
+    "answer": "D. Support fetal development",
+    "options": ["A. Sperm production", "B. Ovum production", "C. Hormone secretion", "D. Support fetal development"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 43,
+    "question": "Which gland is known as the 'master gland'?",
+    "answer": "A. Pituitary gland",
+    "options": ["A. Pituitary gland", "B. Thyroid gland", "C. Adrenal gland", "D. Pineal gland"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 44,
+    "question": "Which gland regulates calcium levels?",
+    "answer": "C. Parathyroid gland",
+    "options": ["A. Pituitary", "B. Thyroid", "C. Parathyroid gland", "D. Pancreas"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 45,
+    "question": "Which gland sits on top of the kidneys?",
+    "answer": "D. Adrenal gland",
+    "options": ["A. Thyroid", "B. Pituitary", "C. Parathyroid", "D. Adrenal gland"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 46,
+    "question": "Which layer of the skin is the outermost protective layer?",
+    "answer": "A. Epidermis",
+    "options": ["A. Epidermis", "B. Dermis", "C. Hypodermis", "D. Sebaceous"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 47,
+    "question": "Which skin gland secretes oil?",
+    "answer": "C. Sebaceous gland",
+    "options": ["A. Sweat gland", "B. Endocrine gland", "C. Sebaceous gland", "D. Adrenal gland"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 48,
+    "question": "What is the main function of nails?",
+    "answer": "B. Protect fingertips",
+    "options": ["A. Absorb moisture", "B. Protect fingertips", "C. Store minerals", "D. Help digestion"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 49,
+    "question": "The sclera is part of which sensory organ?",
+    "answer": "A. Eye",
+    "options": ["A. Eye", "B. Ear", "C. Nose", "D. Tongue"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 50,
+    "question": "Which part of the ear contains the cochlea?",
+    "answer": "D. Inner ear",
+    "options": ["A. Outer ear", "B. Middle ear", "C. Ear canal", "D. Inner ear"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 51,
+    "question": "What part of the eye controls light entry?",
+    "answer": "C. Iris",
+    "options": ["A. Retina", "B. Cornea", "C. Iris", "D. Lens"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 52,
+    "question": "Which part of the nose warms and moistens air?",
+    "answer": "B. Nasal cavity",
+    "options": ["A. External nares", "B. Nasal cavity", "C. Sinuses", "D. Olfactory bulb"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 53,
+    "question": "Which part of the tongue detects sweet taste?",
+    "answer": "A. Tip of the tongue",
+    "options": ["A. Tip of the tongue", "B. Sides", "C. Back", "D. Center"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 54,
+    "question": "The salivary glands secrete what enzyme to begin starch digestion?",
+    "answer": "D. Amylase",
+    "options": ["A. Pepsin", "B. Lipase", "C. Trypsin", "D. Amylase"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 55,
+    "question": "Which part of the brain regulates heart rate and breathing?",
+    "answer": "C. Medulla oblongata",
+    "options": ["A. Cerebrum", "B. Cerebellum", "C. Medulla oblongata", "D. Thalamus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 56,
+    "question": "Which layer of the skin contains sweat glands?",
+    "answer": "B. Dermis",
+    "options": ["A. Epidermis", "B. Dermis", "C. Subcutaneous", "D. Hypodermis"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 57,
+    "question": "Which hormone is produced by the adrenal medulla?",
+    "answer": "A. Adrenaline",
+    "options": ["A. Adrenaline", "B. Cortisol", "C. Insulin", "D. Thyroxine"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 58,
+    "question": "Which cranial nerve is responsible for vision?",
+    "answer": "B. Optic nerve",
+    "options": ["A. Olfactory nerve", "B. Optic nerve", "C. Facial nerve", "D. Vagus nerve"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 59,
+    "question": "What structure connects muscle to bone?",
+    "answer": "C. Tendon",
+    "options": ["A. Ligament", "B. Cartilage", "C. Tendon", "D. Fascia"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 60,
+    "question": "Which part of the vertebral column has 7 bones?",
+    "answer": "A. Cervical",
+    "options": ["A. Cervical", "B. Thoracic", "C. Lumbar", "D. Sacral"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 61,
+    "question": "Which bone forms the forehead?",
+    "answer": "A. Frontal bone",
+    "options": ["A. Frontal bone", "B. Parietal bone", "C. Temporal bone", "D. Occipital bone"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 62,
+    "question": "Which bone is known as the collarbone?",
+    "answer": "C. Clavicle",
+    "options": ["A. Scapula", "B. Sternum", "C. Clavicle", "D. Humerus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 63,
+    "question": "Which bone is located in the upper arm?",
+    "answer": "D. Humerus",
+    "options": ["A. Radius", "B. Ulna", "C. Scapula", "D. Humerus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 64,
+    "question": "The femur is part of which limb?",
+    "answer": "B. Lower limb",
+    "options": ["A. Upper limb", "B. Lower limb", "C. Thorax", "D. Pelvis"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 65,
+    "question": "Which is the longest bone in the human body?",
+    "answer": "A. Femur",
+    "options": ["A. Femur", "B. Tibia", "C. Humerus", "D. Radius"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 66,
+    "question": "Which joint is formed by the humerus, radius, and ulna?",
+    "answer": "C. Elbow joint",
+    "options": ["A. Wrist joint", "B. Shoulder joint", "C. Elbow joint", "D. Knee joint"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 67,
+    "question": "Which type of muscle is involuntary and found in organs?",
+    "answer": "B. Smooth muscle",
+    "options": ["A. Skeletal muscle", "B. Smooth muscle", "C. Cardiac muscle", "D. Voluntary muscle"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 68,
+    "question": "Which structure in the cell contains genetic material?",
+    "answer": "A. Nucleus",
+    "options": ["A. Nucleus", "B. Ribosome", "C. Mitochondria", "D. Lysosome"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 69,
+    "question": "What is the function of ribosomes?",
+    "answer": "D. Protein synthesis",
+    "options": ["A. Energy production", "B. DNA replication", "C. Waste removal", "D. Protein synthesis"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 70,
+    "question": "Which phase of mitosis involves chromosome alignment at the equator?",
+    "answer": "C. Metaphase",
+    "options": ["A. Prophase", "B. Anaphase", "C. Metaphase", "D. Telophase"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 71,
+    "question": "Which type of tissue lines body surfaces and cavities?",
+    "answer": "A. Epithelial tissue",
+    "options": ["A. Epithelial tissue", "B. Connective tissue", "C. Muscle tissue", "D. Nervous tissue"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 72,
+    "question": "Which connective tissue connects bone to bone?",
+    "answer": "C. Ligament",
+    "options": ["A. Tendon", "B. Fascia", "C. Ligament", "D. Cartilage"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 73,
+    "question": "Which tissue is responsible for movement?",
+    "answer": "B. Muscle tissue",
+    "options": ["A. Connective tissue", "B. Muscle tissue", "C. Nervous tissue", "D. Epithelial tissue"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 74,
+    "question": "What is the functional unit of the nervous system?",
+    "answer": "D. Neuron",
+    "options": ["A. Axon", "B. Brain", "C. Nerve", "D. Neuron"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 75,
+    "question": "Which type of blood cell carries oxygen?",
+    "answer": "A. Red blood cells",
+    "options": ["A. Red blood cells", "B. White blood cells", "C. Platelets", "D. Plasma"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 76,
+    "question": "The thoracic cage includes how many ribs?",
+    "answer": "C. 12 pairs",
+    "options": ["A. 10 pairs", "B. 11 pairs", "C. 12 pairs", "D. 14 pairs"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 77,
+    "question": "Which organ is located in the LUQ (left upper quadrant)?",
+    "answer": "B. Spleen",
+    "options": ["A. Liver", "B. Spleen", "C. Appendix", "D. Gallbladder"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 78,
+    "question": "Which structure connects the pharynx to the stomach?",
+    "answer": "C. Esophagus",
+    "options": ["A. Trachea", "B. Larynx", "C. Esophagus", "D. Epiglottis"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 79,
+    "question": "The appendix is attached to which part of the intestine?",
+    "answer": "D. Cecum",
+    "options": ["A. Ileum", "B. Colon", "C. Rectum", "D. Cecum"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 80,
+    "question": "Which of the following produces digestive enzymes and insulin?",
+    "answer": "C. Pancreas",
+    "options": ["A. Liver", "B. Gallbladder", "C. Pancreas", "D. Spleen"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 81,
+    "question": "Which organ is primarily responsible for gas exchange?",
+    "answer": "B. Lungs",
+    "options": ["A. Heart", "B. Lungs", "C. Liver", "D. Trachea"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 82,
+    "question": "Which structure covers the lungs and lines the chest cavity?",
+    "answer": "D. Pleura",
+    "options": ["A. Pericardium", "B. Peritoneum", "C. Diaphragm", "D. Pleura"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 83,
+    "question": "Which organ is known as the voice box?",
+    "answer": "A. Larynx",
+    "options": ["A. Larynx", "B. Pharynx", "C. Trachea", "D. Bronchus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 84,
+    "question": "Where does the exchange of oxygen and carbon dioxide occur in the lungs?",
+    "answer": "C. Alveoli",
+    "options": ["A. Bronchi", "B. Bronchioles", "C. Alveoli", "D. Pleura"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 85,
+    "question": "What is the main function of the heart?",
+    "answer": "A. Pump blood",
+    "options": ["A. Pump blood", "B. Produce hormones", "C. Filter toxins", "D. Digest food"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 86,
+    "question": "Which chamber of the heart receives oxygenated blood from the lungs?",
+    "answer": "D. Left atrium",
+    "options": ["A. Right atrium", "B. Right ventricle", "C. Left ventricle", "D. Left atrium"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 87,
+    "question": "Which artery supplies blood to the brain?",
+    "answer": "C. Carotid artery",
+    "options": ["A. Brachial artery", "B. Femoral artery", "C. Carotid artery", "D. Radial artery"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 88,
+    "question": "Which vessel returns blood from the lower body to the heart?",
+    "answer": "B. Inferior vena cava",
+    "options": ["A. Superior vena cava", "B. Inferior vena cava", "C. Pulmonary vein", "D. Aorta"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 89,
+    "question": "Which part of the brain coordinates movement and balance?",
+    "answer": "A. Cerebellum",
+    "options": ["A. Cerebellum", "B. Cerebrum", "C. Medulla", "D. Thalamus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 90,
+    "question": "What is the main function of the spinal cord?",
+    "answer": "C. Transmit nerve signals",
+    "options": ["A. Pump blood", "B. Digest food", "C. Transmit nerve signals", "D. Produce hormones"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 91,
+    "question": "Which nerve controls facial expressions?",
+    "answer": "B. Facial nerve",
+    "options": ["A. Trigeminal nerve", "B. Facial nerve", "C. Vagus nerve", "D. Olfactory nerve"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 92,
+    "question": "Which nerve is the longest in the body?",
+    "answer": "C. Sciatic nerve",
+    "options": ["A. Median nerve", "B. Radial nerve", "C. Sciatic nerve", "D. Femoral nerve"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 93,
+    "question": "Which part of the nephron filters blood?",
+    "answer": "D. Glomerulus",
+    "options": ["A. Loop of Henle", "B. Collecting duct", "C. Bowman's capsule", "D. Glomerulus"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 94,
+    "question": "Which organ stores urine?",
+    "answer": "C. Urinary bladder",
+    "options": ["A. Kidney", "B. Ureter", "C. Urinary bladder", "D. Urethra"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 95,
+    "question": "Which gland surrounds the male urethra?",
+    "answer": "B. Prostate gland",
+    "options": ["A. Seminal vesicle", "B. Prostate gland", "C. Cowper's gland", "D. Testes"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 96,
+    "question": "Which hormone regulates the menstrual cycle?",
+    "answer": "A. Estrogen",
+    "options": ["A. Estrogen", "B. Testosterone", "C. Insulin", "D. Adrenaline"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 97,
+    "question": "Which gland is located at the base of the brain?",
+    "answer": "D. Pituitary gland",
+    "options": ["A. Thyroid", "B. Pineal", "C. Parathyroid", "D. Pituitary gland"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 98,
+    "question": "Which hormone is produced by the thyroid gland?",
+    "answer": "B. Thyroxine",
+    "options": ["A. Calcitonin", "B. Thyroxine", "C. Cortisol", "D. Glucagon"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 99,
+    "question": "Where are adrenal glands located?",
+    "answer": "C. On top of kidneys",
+    "options": ["A. Below lungs", "B. Behind stomach", "C. On top of kidneys", "D. Inside pancreas"]
+  },
+  {
+    "course": "Anatomy",
+    "numb": 100,
+    "question": "Which layer of skin contains melanocytes?",
+    "answer": "A. Epidermis",
+    "options": ["A. Epidermis", "B. Dermis", "C. Subcutaneous tissue", "D. Hypodermis"]
+  },
+
+
+
+
+
+
+
+
+
 
 
 
