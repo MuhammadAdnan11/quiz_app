@@ -2438,6 +2438,176 @@ const questionBank =
         "D. Ctrl + Shift + G"
     ]
 },
+  {
+    "course": "ck",
+    "numb": 97,
+    "question": "Which generation of computers introduced the use of microprocessors?",
+    "answer": "C. Fourth generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Fourth generation",
+      "D. Fifth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 98,
+    "question": "What is the main technology used in second generation computers?",
+    "answer": "B. Transistors",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Transistors",
+      "C. Microprocessors",
+      "D. Artificial Intelligence"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 99,
+    "question": "ENIAC is an example of which generation of computer?",
+    "answer": "A. First generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Third generation",
+      "D. Fourth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 100,
+    "question": "Which generation is based on Artificial Intelligence?",
+    "answer": "D. Fifth generation",
+    "options": [
+      "A. Second generation",
+      "B. Third generation",
+      "C. Fourth generation",
+      "D. Fifth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 101,
+    "question": "Which generation first used Integrated Circuits?",
+    "answer": "C. Third generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Third generation",
+      "D. Fourth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 102,
+    "question": "Which computer is considered the first general-purpose electronic computer?",
+    "answer": "B. ENIAC",
+    "options": [
+      "A. UNIVAC",
+      "B. ENIAC",
+      "C. IBM 1401",
+      "D. Apple I"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 103,
+    "question": "In which generation did computers start using high-level languages like COBOL and FORTRAN?",
+    "answer": "B. Second generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Third generation",
+      "D. Fourth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 104,
+    "question": "Which of the following is NOT a feature of fourth generation computers?",
+    "answer": "A. Use of vacuum tubes",
+    "options": [
+      "A. Use of vacuum tubes",
+      "B. Use of microprocessors",
+      "C. Introduction of GUI",
+      "D. Personal computer usage"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 105,
+    "question": "Which generation of computers used magnetic drum as memory device?",
+    "answer": "A. First generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Third generation",
+      "D. Fourth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 106,
+    "question": "Fifth generation computers aim to process information using:",
+    "answer": "C. AI and Natural Language Processing",
+    "options": [
+      "A. Punch cards",
+      "B. Assembly language",
+      "C. AI and Natural Language Processing",
+      "D. COBOL"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 107,
+    "question": "Which generation introduced the concept of distributed computing?",
+    "answer": "D. Fifth generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Fourth generation",
+      "D. Fifth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 108,
+    "question": "IBM 360 series is a hallmark of which generation?",
+    "answer": "C. Third generation",
+    "options": [
+      "A. First generation",
+      "B. Second generation",
+      "C. Third generation",
+      "D. Fourth generation"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 109,
+    "question": "What major benefit did ICs bring to third generation computers?",
+    "answer": "C. Reduced size and improved reliability",
+    "options": [
+      "A. Increased heat production",
+      "B. Use of vacuum tubes",
+      "C. Reduced size and improved reliability",
+      "D. None of the above"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 110,
+    "question": "Which of the following is a fifth generation computing goal?",
+    "answer": "A. Develop systems that can think",
+    "options": [
+      "A. Develop systems that can think",
+      "B. Reduce transistor usage",
+      "C. Improve punch card access",
+      "D. Create analog computing models"
+    ]
+  },
+
+
    
 
 
