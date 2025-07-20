@@ -7848,6 +7848,854 @@ const questionBank =
   },
 
 
+  // BioChemistry MCQS of 1st Semester 
+  
+  {
+    "course": "BioChem",
+    "numb": 1,
+    "question": "What is biochemistry primarily the study of?",
+    "answer": "A. Chemical processes in living organisms",
+    "options": ["A. Chemical processes in living organisms", "B. Human anatomy", "C. Environmental science", "D. Genetics"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 2,
+    "question": "Why is biochemistry important in medical science?",
+    "answer": "C. It helps diagnose and treat diseases",
+    "options": ["A. It analyzes bones", "B. It teaches surgery", "C. It helps diagnose and treat diseases", "D. It studies the stars"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 3,
+    "question": "What does pH measure?",
+    "answer": "D. Hydrogen ion concentration",
+    "options": ["A. Temperature", "B. Water content", "C. Salinity", "D. Hydrogen ion concentration"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 4,
+    "question": "A buffer solution is used to:",
+    "answer": "B. Resist changes in pH",
+    "options": ["A. Accelerate reactions", "B. Resist changes in pH", "C. Neutralize acids", "D. Dissolve proteins"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 5,
+    "question": "Which substance is a common acid-base indicator?",
+    "answer": "C. Phenolphthalein",
+    "options": ["A. Water", "B. Sodium chloride", "C. Phenolphthalein", "D. Oxygen"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 6,
+    "question": "Which of the following is a carbohydrate?",
+    "answer": "A. Glucose",
+    "options": ["A. Glucose", "B. Alanine", "C. Cholesterol", "D. Hemoglobin"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 7,
+    "question": "Carbohydrates are primarily used in the body for:",
+    "answer": "A. Energy",
+    "options": ["A. Energy", "B. Muscle repair", "C. Hormone production", "D. Bone formation"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 8,
+    "question": "What is the caloric value of carbohydrates?",
+    "answer": "B. 4 kcal/g",
+    "options": ["A. 2 kcal/g", "B. 4 kcal/g", "C. 7 kcal/g", "D. 9 kcal/g"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 9,
+    "question": "Which of the following is a clinical disorder related to carbohydrate metabolism?",
+    "answer": "D. Diabetes Mellitus",
+    "options": ["A. Scurvy", "B. Rickets", "C. Anemia", "D. Diabetes Mellitus"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 10,
+    "question": "Which of the following is a disaccharide?",
+    "answer": "C. Sucrose",
+    "options": ["A. Glucose", "B. Fructose", "C. Sucrose", "D. Cellulose"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 11,
+    "question": "Proteins are made up of:",
+    "answer": "B. Amino acids",
+    "options": ["A. Sugars", "B. Amino acids", "C. Fatty acids", "D. Nucleotides"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 12,
+    "question": "Which of the following is an essential amino acid?",
+    "answer": "C. Lysine",
+    "options": ["A. Glycine", "B. Alanine", "C. Lysine", "D. Tyrosine"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 13,
+    "question": "What is the caloric value of proteins?",
+    "answer": "B. 4 kcal/g",
+    "options": ["A. 2 kcal/g", "B. 4 kcal/g", "C. 9 kcal/g", "D. 7 kcal/g"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 14,
+    "question": "Which condition is associated with protein deficiency?",
+    "answer": "A. Kwashiorkor",
+    "options": ["A. Kwashiorkor", "B. Rickets", "C. Goiter", "D. Diabetes"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 15,
+    "question": "Lipids are classified into which of the following?",
+    "answer": "D. Simple, compound, and derived",
+    "options": ["A. Basic and complex", "B. Fats and oils", "C. Monounsaturated and polyunsaturated", "D. Simple, compound, and derived"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 16,
+    "question": "Which fatty acid is essential for humans?",
+    "answer": "C. Linoleic acid",
+    "options": ["A. Stearic acid", "B. Palmitic acid", "C. Linoleic acid", "D. Oleic acid"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 17,
+    "question": "Lipids serve as a storage form of:",
+    "answer": "A. Energy",
+    "options": ["A. Energy", "B. Enzymes", "C. Hormones", "D. Proteins"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 18,
+    "question": "What is the caloric value of fats?",
+    "answer": "D. 9 kcal/g",
+    "options": ["A. 2 kcal/g", "B. 4 kcal/g", "C. 7 kcal/g", "D. 9 kcal/g"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 19,
+    "question": "Excess fat in the body can lead to:",
+    "answer": "C. Obesity",
+    "options": ["A. Rickets", "B. Anemia", "C. Obesity", "D. Goiter"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 20,
+    "question": "Enzymes are biologically:",
+    "answer": "B. Catalysts",
+    "options": ["A. Acids", "B. Catalysts", "C. Sugars", "D. Hormones"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 21,
+    "question": "Which enzyme breaks down starch?",
+    "answer": "A. Amylase",
+    "options": ["A. Amylase", "B. Lipase", "C. Protease", "D. Maltase"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 22,
+    "question": "Enzymes are made up of:",
+    "answer": "C. Proteins",
+    "options": ["A. Lipids", "B. Carbohydrates", "C. Proteins", "D. Nucleic acids"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 23,
+    "question": "Which enzyme is used in the treatment of leukemia?",
+    "answer": "D. Asparaginase",
+    "options": ["A. Amylase", "B. Urease", "C. Pepsin", "D. Asparaginase"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 24,
+    "question": "Which class of enzymes adds water to substrates?",
+    "answer": "B. Hydrolases",
+    "options": ["A. Ligases", "B. Hydrolases", "C. Oxidoreductases", "D. Isomerases"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 25,
+    "question": "Which vitamin is water soluble?",
+    "answer": "A. Vitamin C",
+    "options": ["A. Vitamin C", "B. Vitamin A", "C. Vitamin D", "D. Vitamin E"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 26,
+    "question": "Which vitamin helps with blood clotting?",
+    "answer": "C. Vitamin K",
+    "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin K", "D. Vitamin B1"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 27,
+    "question": "Deficiency of vitamin D causes:",
+    "answer": "B. Rickets",
+    "options": ["A. Scurvy", "B. Rickets", "C. Beriberi", "D. Anemia"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 28,
+    "question": "Vitamin B12 is essential for:",
+    "answer": "D. Red blood cell formation",
+    "options": ["A. Vision", "B. Wound healing", "C. Bone strength", "D. Red blood cell formation"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 29,
+    "question": "Which vitamin deficiency causes scurvy?",
+    "answer": "A. Vitamin C",
+    "options": ["A. Vitamin C", "B. Vitamin B12", "C. Vitamin A", "D. Vitamin D"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 30,
+    "question": "Which of the following is a fat-soluble vitamin?",
+    "answer": "B. Vitamin A",
+    "options": ["A. Vitamin C", "B. Vitamin A", "C. Vitamin B1", "D. Vitamin B6"]
+  },
+
+  {
+    "course": "BioChem",
+    "numb": 31,
+    "question": "Which of the following is a macronutrient?",
+    "answer": "C. Protein",
+    "options": ["A. Iron", "B. Zinc", "C. Protein", "D. Iodine"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 32,
+    "question": "Micronutrients include which of the following?",
+    "answer": "D. Vitamins and minerals",
+    "options": ["A. Carbohydrates", "B. Proteins", "C. Fats", "D. Vitamins and minerals"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 33,
+    "question": "Which food item is highest in calcium?",
+    "answer": "A. Milk",
+    "options": ["A. Milk", "B. Rice", "C. Bread", "D. Banana"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 34,
+    "question": "Which food group is a primary energy source?",
+    "answer": "B. Carbohydrates",
+    "options": ["A. Fats", "B. Carbohydrates", "C. Vitamins", "D. Minerals"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 35,
+    "question": "What is the clinical significance of milk?",
+    "answer": "D. Rich source of calcium and protein",
+    "options": ["A. Rich in fiber", "B. Rich in vitamin C", "C. Rich in iron", "D. Rich source of calcium and protein"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 36,
+    "question": "What is metabolism?",
+    "answer": "C. Sum of all chemical reactions in the body",
+    "options": ["A. Only digestion", "B. Energy production", "C. Sum of all chemical reactions in the body", "D. Waste excretion"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 37,
+    "question": "What does BMR stand for?",
+    "answer": "A. Basal Metabolic Rate",
+    "options": ["A. Basal Metabolic Rate", "B. Basic Metabolism Ratio", "C. Body Mass Ratio", "D. Blood Metabolic Response"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 38,
+    "question": "Which factor affects BMR?",
+    "answer": "D. All of the above",
+    "options": ["A. Age", "B. Gender", "C. Body temperature", "D. All of the above"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 39,
+    "question": "In hypothyroidism, BMR is:",
+    "answer": "C. Decreased",
+    "options": ["A. Normal", "B. Increased", "C. Decreased", "D. Absent"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 40,
+    "question": "BMR is measured under which condition?",
+    "answer": "A. Physical and mental rest",
+    "options": ["A. Physical and mental rest", "B. Post-exercise", "C. After eating", "D. While asleep"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 41,
+    "question": "How many major fluid compartments are in the body?",
+    "answer": "B. Two",
+    "options": ["A. One", "B. Two", "C. Three", "D. Four"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 42,
+    "question": "Which fluid is found outside the cells?",
+    "answer": "C. Extracellular fluid",
+    "options": ["A. Intracellular fluid", "B. Plasma", "C. Extracellular fluid", "D. Cytoplasm"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 43,
+    "question": "Interstitial fluid is part of:",
+    "answer": "B. Extracellular fluid",
+    "options": ["A. Intracellular fluid", "B. Extracellular fluid", "C. Transcellular fluid", "D. Cytosol"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 44,
+    "question": "What is osmosis?",
+    "answer": "A. Movement of water across a semi-permeable membrane",
+    "options": ["A. Movement of water across a semi-permeable membrane", "B. Movement of salts", "C. Filtration of blood", "D. Active transport"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 45,
+    "question": "Sodium is mainly found in:",
+    "answer": "C. Extracellular fluid",
+    "options": ["A. Intracellular fluid", "B. Plasma", "C. Extracellular fluid", "D. Cytoplasm"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 46,
+    "question": "Potassium is mainly found in:",
+    "answer": "A. Intracellular fluid",
+    "options": ["A. Intracellular fluid", "B. Blood plasma", "C. Urine", "D. Interstitial fluid"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 47,
+    "question": "Calcium is important for:",
+    "answer": "D. All of the above",
+    "options": ["A. Muscle contraction", "B. Bone health", "C. Blood clotting", "D. All of the above"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 48,
+    "question": "What is osmotic pressure?",
+    "answer": "C. Pressure required to stop osmosis",
+    "options": ["A. Blood pressure", "B. Filtration pressure", "C. Pressure required to stop osmosis", "D. Pressure in lungs"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 49,
+    "question": "Which mineral is essential for nerve impulse transmission?",
+    "answer": "B. Potassium",
+    "options": ["A. Calcium", "B. Potassium", "C. Magnesium", "D. Chloride"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 50,
+    "question": "Diffusion is defined as:",
+    "answer": "A. Movement of particles from high to low concentration",
+    "options": ["A. Movement of particles from high to low concentration", "B. Movement of water", "C. Active transport", "D. Filtration"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 51,
+    "question": "What is acid-base balance?",
+    "answer": "A. Maintenance of pH in the body",
+    "options": ["A. Maintenance of pH in the body", "B. Increase in sodium", "C. Glucose regulation", "D. Water balance"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 52,
+    "question": "Which system regulates pH immediately?",
+    "answer": "B. Chemical buffer system",
+    "options": ["A. Respiratory system", "B. Chemical buffer system", "C. Renal system", "D. Endocrine system"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 53,
+    "question": "How does the respiratory system help in acid-base balance?",
+    "answer": "C. By regulating CO₂",
+    "options": ["A. By absorbing HCl", "B. By excreting urine", "C. By regulating CO₂", "D. By absorbing oxygen"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 54,
+    "question": "What is the role of kidneys in pH regulation?",
+    "answer": "B. Excretion of hydrogen ions",
+    "options": ["A. CO₂ production", "B. Excretion of hydrogen ions", "C. Bicarbonate synthesis", "D. Filtration of salts"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 55,
+    "question": "Which of the following is an acid-base disorder?",
+    "answer": "D. Metabolic acidosis",
+    "options": ["A. Hypernatremia", "B. Hyperkalemia", "C. Hypertension", "D. Metabolic acidosis"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 56,
+    "question": "Which buffer is most important in blood?",
+    "answer": "A. Bicarbonate buffer",
+    "options": ["A. Bicarbonate buffer", "B. Phosphate buffer", "C. Protein buffer", "D. Sodium buffer"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 57,
+    "question": "Acidosis is a condition where blood pH is:",
+    "answer": "C. Below 7.35",
+    "options": ["A. Above 7.45", "B. Exactly 7.4", "C. Below 7.35", "D. Neutral"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 58,
+    "question": "Alkalosis is when blood becomes:",
+    "answer": "A. Too basic",
+    "options": ["A. Too basic", "B. Too acidic", "C. Neutral", "D. Salty"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 59,
+    "question": "Which organ system compensates for long-term pH changes?",
+    "answer": "C. Renal system",
+    "options": ["A. Respiratory system", "B. Digestive system", "C. Renal system", "D. Cardiovascular system"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 60,
+    "question": "Which of the following is a respiratory acid-base disorder?",
+    "answer": "D. Respiratory alkalosis",
+    "options": ["A. Metabolic acidosis", "B. Metabolic alkalosis", "C. Renal acidosis", "D. Respiratory alkalosis"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 61,
+    "question": "Which of the following helps maintain acid-base balance in the short term?",
+    "answer": "B. Respiratory regulation",
+    "options": ["A. Renal filtration", "B. Respiratory regulation", "C. Liver detoxification", "D. Vitamin D activation"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 62,
+    "question": "The most abundant cation in extracellular fluid is:",
+    "answer": "C. Sodium",
+    "options": ["A. Potassium", "B. Calcium", "C. Sodium", "D. Magnesium"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 63,
+    "question": "The most abundant intracellular cation is:",
+    "answer": "A. Potassium",
+    "options": ["A. Potassium", "B. Sodium", "C. Chloride", "D. Bicarbonate"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 64,
+    "question": "Which of the following indicates a buffer system?",
+    "answer": "D. Weak acid and its conjugate base",
+    "options": ["A. Strong acid", "B. Strong base", "C. Water", "D. Weak acid and its conjugate base"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 65,
+    "question": "A patient with vomiting is likely to develop:",
+    "answer": "B. Metabolic alkalosis",
+    "options": ["A. Metabolic acidosis", "B. Metabolic alkalosis", "C. Respiratory acidosis", "D. Respiratory alkalosis"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 66,
+    "question": "A buffer solution resists changes in:",
+    "answer": "A. pH",
+    "options": ["A. pH", "B. Temperature", "C. Volume", "D. Osmotic pressure"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 67,
+    "question": "What is the normal pH of blood?",
+    "answer": "C. 7.35–7.45",
+    "options": ["A. 6.8–7.0", "B. 7.0–7.2", "C. 7.35–7.45", "D. 7.5–8.0"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 68,
+    "question": "Which of the following is a cause of respiratory alkalosis?",
+    "answer": "B. Hyperventilation",
+    "options": ["A. Renal failure", "B. Hyperventilation", "C. Diarrhea", "D. Diabetes"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 69,
+    "question": "Which of these organs is primarily responsible for long-term pH regulation?",
+    "answer": "C. Kidneys",
+    "options": ["A. Lungs", "B. Heart", "C. Kidneys", "D. Liver"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 70,
+    "question": "The Henderson-Hasselbalch equation is used to calculate:",
+    "answer": "D. pH of a buffer solution",
+    "options": ["A. Enzyme activity", "B. Caloric value", "C. Osmotic pressure", "D. pH of a buffer solution"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 71,
+    "question": "Which of the following body fluids has the highest protein content?",
+    "answer": "B. Plasma",
+    "options": ["A. Interstitial fluid", "B. Plasma", "C. Synovial fluid", "D. Cerebrospinal fluid"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 72,
+    "question": "Which process moves solutes against the concentration gradient?",
+    "answer": "C. Active transport",
+    "options": ["A. Osmosis", "B. Diffusion", "C. Active transport", "D. Filtration"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 73,
+    "question": "Which vitamin is synthesized in the skin by sunlight?",
+    "answer": "A. Vitamin D",
+    "options": ["A. Vitamin D", "B. Vitamin A", "C. Vitamin C", "D. Vitamin K"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 74,
+    "question": "Which vitamin is involved in calcium absorption?",
+    "answer": "A. Vitamin D",
+    "options": ["A. Vitamin D", "B. Vitamin C", "C. Vitamin B12", "D. Vitamin K"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 75,
+    "question": "A lack of vitamin C leads to which condition?",
+    "answer": "D. Scurvy",
+    "options": ["A. Rickets", "B. Beriberi", "C. Night blindness", "D. Scurvy"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 76,
+    "question": "What is the main function of water-soluble vitamins?",
+    "answer": "B. Coenzymes in metabolism",
+    "options": ["A. Structural support", "B. Coenzymes in metabolism", "C. Hormone regulation", "D. Fat digestion"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 77,
+    "question": "Which vitamin deficiency causes rickets?",
+    "answer": "C. Vitamin D",
+    "options": ["A. Vitamin A", "B. Vitamin B12", "C. Vitamin D", "D. Vitamin K"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 78,
+    "question": "Which of the following is a function of Vitamin K?",
+    "answer": "D. Blood clotting",
+    "options": ["A. Vision", "B. Bone growth", "C. Immune response", "D. Blood clotting"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 79,
+    "question": "Which vitamin is essential for the synthesis of collagen?",
+    "answer": "B. Vitamin C",
+    "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin D", "D. Vitamin E"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 80,
+    "question": "Vitamin B1 deficiency leads to:",
+    "answer": "C. Beriberi",
+    "options": ["A. Rickets", "B. Pellagra", "C. Beriberi", "D. Scurvy"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 81,
+    "question": "Which vitamin is stored in the liver in large amounts?",
+    "answer": "A. Vitamin A",
+    "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin B1", "D. Vitamin B2"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 82,
+    "question": "Vitamin B12 is mainly found in:",
+    "answer": "D. Animal products",
+    "options": ["A. Fruits", "B. Vegetables", "C. Grains", "D. Animal products"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 83,
+    "question": "Deficiency of Niacin causes:",
+    "answer": "C. Pellagra",
+    "options": ["A. Beriberi", "B. Rickets", "C. Pellagra", "D. Night blindness"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 84,
+    "question": "Vitamin B6 is important for:",
+    "answer": "B. Amino acid metabolism",
+    "options": ["A. Vision", "B. Amino acid metabolism", "C. Bone formation", "D. Blood clotting"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 85,
+    "question": "Which vitamin helps prevent neural tube defects in pregnancy?",
+    "answer": "A. Folic acid",
+    "options": ["A. Folic acid", "B. Vitamin B1", "C. Vitamin C", "D. Vitamin E"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 86,
+    "question": "Excessive intake of which vitamin may cause toxicity?",
+    "answer": "D. Vitamin A",
+    "options": ["A. Vitamin C", "B. Vitamin B2", "C. Vitamin B12", "D. Vitamin A"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 87,
+    "question": "Vitamin E acts as:",
+    "answer": "C. An antioxidant",
+    "options": ["A. A coenzyme", "B. A hormone", "C. An antioxidant", "D. A clotting factor"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 88,
+    "question": "Which fat-soluble vitamin is essential for vision?",
+    "answer": "A. Vitamin A",
+    "options": ["A. Vitamin A", "B. Vitamin D", "C. Vitamin E", "D. Vitamin K"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 89,
+    "question": "Vitamin C is destroyed by:",
+    "answer": "B. Heat",
+    "options": ["A. Cold", "B. Heat", "C. Light", "D. Water"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 90,
+    "question": "Which vitamin is involved in red blood cell formation?",
+    "answer": "D. Vitamin B12",
+    "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin D", "D. Vitamin B12"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 91,
+    "question": "Which nutrient provides the highest caloric value per gram?",
+    "answer": "D. Fat",
+    "options": ["A. Protein", "B. Carbohydrate", "C. Vitamin", "D. Fat"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 92,
+    "question": "What is the primary function of carbohydrates in the body?",
+    "answer": "A. Provide energy",
+    "options": ["A. Provide energy", "B. Build muscle", "C. Store vitamins", "D. Maintain pH"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 93,
+    "question": "Essential fatty acids must be obtained from:",
+    "answer": "C. Diet",
+    "options": ["A. Liver synthesis", "B. Kidney filtration", "C. Diet", "D. Enzymes"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 94,
+    "question": "A complete protein contains:",
+    "answer": "B. All essential amino acids",
+    "options": ["A. Carbohydrates", "B. All essential amino acids", "C. Lipids", "D. Water"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 95,
+    "question": "Which mineral is essential for muscle contraction?",
+    "answer": "D. Calcium",
+    "options": ["A. Sodium", "B. Potassium", "C. Magnesium", "D. Calcium"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 96,
+    "question": "Basal Metabolic Rate (BMR) is measured under which condition?",
+    "answer": "A. At rest in a fasting state",
+    "options": ["A. At rest in a fasting state", "B. After exercise", "C. During digestion", "D. While sleeping"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 97,
+    "question": "Which factor decreases BMR?",
+    "answer": "C. Starvation",
+    "options": ["A. Fever", "B. Hyperthyroidism", "C. Starvation", "D. Pregnancy"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 98,
+    "question": "The major site of metabolic activity is the:",
+    "answer": "D. Liver",
+    "options": ["A. Skin", "B. Heart", "C. Kidney", "D. Liver"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 99,
+    "question": "What is the definition of metabolism?",
+    "answer": "A. All chemical processes in the body",
+    "options": ["A. All chemical processes in the body", "B. Blood formation", "C. Respiration only", "D. Digestion only"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 100,
+    "question": "Which hormone increases metabolic rate?",
+    "answer": "B. Thyroxine",
+    "options": ["A. Insulin", "B. Thyroxine", "C. Cortisol", "D. Glucagon"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 101,
+    "question": "Sodium is mainly found in which fluid compartment?",
+    "answer": "C. Extracellular fluid",
+    "options": ["A. Intracellular fluid", "B. Plasma", "C. Extracellular fluid", "D. Lymph"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 102,
+    "question": "Potassium plays an essential role in:",
+    "answer": "D. Nerve conduction and muscle contraction",
+    "options": ["A. Blood clotting", "B. Hormone secretion", "C. Bone formation", "D. Nerve conduction and muscle contraction"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 103,
+    "question": "Calcium is important for all except:",
+    "answer": "C. DNA replication",
+    "options": ["A. Blood clotting", "B. Muscle contraction", "C. DNA replication", "D. Bone health"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 104,
+    "question": "Which compartment has the largest percentage of body water?",
+    "answer": "B. Intracellular fluid",
+    "options": ["A. Plasma", "B. Intracellular fluid", "C. Extracellular fluid", "D. Interstitial fluid"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 105,
+    "question": "Osmosis is defined as the movement of:",
+    "answer": "A. Water across a semi-permeable membrane",
+    "options": ["A. Water across a semi-permeable membrane", "B. Ions across a membrane", "C. Glucose by active transport", "D. Enzymes into cells"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 106,
+    "question": "What is the normal osmotic pressure of plasma?",
+    "answer": "C. 285–295 mOsm/kg",
+    "options": ["A. 100–120 mOsm/kg", "B. 200–210 mOsm/kg", "C. 285–295 mOsm/kg", "D. 400–450 mOsm/kg"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 107,
+    "question": "Interstitial fluid is found:",
+    "answer": "D. Between cells",
+    "options": ["A. Inside cells", "B. In plasma", "C. In lymph vessels", "D. Between cells"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 108,
+    "question": "Which of the following is NOT part of the extracellular fluid?",
+    "answer": "A. Intracellular fluid",
+    "options": ["A. Intracellular fluid", "B. Plasma", "C. Interstitial fluid", "D. Lymph"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 109,
+    "question": "Transcellular fluid includes:",
+    "answer": "C. Cerebrospinal fluid",
+    "options": ["A. Blood", "B. Interstitial fluid", "C. Cerebrospinal fluid", "D. Intracellular fluid"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 110,
+    "question": "Diffusion is best described as:",
+    "answer": "B. Passive movement of molecules from high to low concentration",
+    "options": ["A. Active transport", "B. Passive movement of molecules from high to low concentration", "C. Bulk flow", "D. Osmotic shift"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 111,
+    "question": "Which of the following conditions causes metabolic acidosis?",
+    "answer": "C. Diabetic ketoacidosis",
+    "options": ["A. Vomiting", "B. Hyperventilation", "C. Diabetic ketoacidosis", "D. Anxiety"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 112,
+    "question": "What does pH stand for?",
+    "answer": "B. Potential of Hydrogen",
+    "options": ["A. Power of hydroxide", "B. Potential of Hydrogen", "C. Peroxide hydrogen", "D. Passive hydrogen"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 113,
+    "question": "Respiratory acidosis is caused by:",
+    "answer": "A. Hypoventilation",
+    "options": ["A. Hypoventilation", "B. Hyperventilation", "C. Renal failure", "D. Diarrhea"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 114,
+    "question": "Chemical buffers act:",
+    "answer": "C. Immediately",
+    "options": ["A. Slowly", "B. After 24 hours", "C. Immediately", "D. After hormone stimulation"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 115,
+    "question": "The renal system compensates for pH changes by altering:",
+    "answer": "D. Bicarbonate excretion",
+    "options": ["A. Water absorption", "B. Glucose reabsorption", "C. Protein secretion", "D. Bicarbonate excretion"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 116,
+    "question": "Which organ regulates acid-base balance over the long term?",
+    "answer": "B. Kidneys",
+    "options": ["A. Lungs", "B. Kidneys", "C. Heart", "D. Liver"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 117,
+    "question": "The chemical buffer system includes all EXCEPT:",
+    "answer": "D. Enzyme buffer system",
+    "options": ["A. Bicarbonate buffer", "B. Protein buffer", "C. Phosphate buffer", "D. Enzyme buffer system"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 118,
+    "question": "Renal regulation of pH involves:",
+    "answer": "C. Excretion of hydrogen ions",
+    "options": ["A. Release of CO₂", "B. Producing ammonia", "C. Excretion of hydrogen ions", "D. Releasing bile acids"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 119,
+    "question": "Acidosis refers to a blood pH:",
+    "answer": "A. Below 7.35",
+    "options": ["A. Below 7.35", "B. Above 7.45", "C. Equal to 7.4", "D. Over 8"]
+  },
+  {
+    "course": "BioChem",
+    "numb": 120,
+    "question": "Which of the following is NOT a regulator of acid-base balance?",
+    "answer": "D. Skin",
+    "options": ["A. Lungs", "B. Kidneys", "C. Buffers", "D. Skin"]
+  },
+
+
+
+
+
 
 
 
