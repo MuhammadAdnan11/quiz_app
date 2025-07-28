@@ -8863,6 +8863,1094 @@ const questionBank =
   },
 
 
+// 4th Semester Subjects MCQS 
+
+[
+  {
+    "course": "Anesthesia",
+    "numb": 1,
+    "question": "Which of the following is NOT a common objective of pre-operative medications?",
+    "answer": "D. Stimulate immune system",
+    "options": ["A. Reduce anxiety", "B. Decrease secretions", "C. Provide analgesia", "D. Stimulate immune system"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 2,
+    "question": "Pre-operative medications help in:",
+    "answer": "B. Anxiolysis",
+    "options": ["A. Inducing deep anesthesia", "B. Anxiolysis", "C. Surgical sterilization", "D. Elevating BP"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 3,
+    "question": "Which one is a common reason for giving anticholinergics preoperatively?",
+    "answer": "C. Decrease secretions",
+    "options": ["A. Control blood sugar", "B. Improve kidney function", "C. Decrease secretions", "D. Treat infection"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 4,
+    "question": "Preoperative sedation helps in:",
+    "answer": "A. Reducing patient anxiety",
+    "options": ["A. Reducing patient anxiety", "B. Reducing cardiac output", "C. Preventing asthma", "D. Enhancing digestion"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 5,
+    "question": "Which of these is NOT a goal of preoperative medications?",
+    "answer": "D. Increasing respiratory secretions",
+    "options": ["A. Sedation", "B. Pain control", "C. Antiemesis", "D. Increasing respiratory secretions"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 6,
+    "question": "Benzodiazepines act by enhancing the activity of which neurotransmitter?",
+    "answer": "A. GABA",
+    "options": ["A. GABA", "B. Serotonin", "C. Dopamine", "D. Acetylcholine"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 7,
+    "question": "Opioids produce analgesia by binding to which receptors?",
+    "answer": "B. Mu receptors",
+    "options": ["A. Alpha receptors", "B. Mu receptors", "C. Dopamine receptors", "D. Beta receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 8,
+    "question": "Phenothiazines exert their effect primarily by blocking:",
+    "answer": "C. Dopamine receptors",
+    "options": ["A. GABA receptors", "B. Mu receptors", "C. Dopamine receptors", "D. NMDA receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 9,
+    "question": "Which of the following drugs has anticholinergic action?",
+    "answer": "D. Atropine",
+    "options": ["A. Morphine", "B. Diazepam", "C. Dopamine", "D. Atropine"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 10,
+    "question": "Beta-blockers act mainly by blocking which type of receptors?",
+    "answer": "B. Beta-adrenergic receptors",
+    "options": ["A. Alpha receptors", "B. Beta-adrenergic receptors", "C. GABA receptors", "D. NMDA receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 11,
+    "question": "Which of the following is classified as a benzodiazepine?",
+    "answer": "A. Midazolam",
+    "options": ["A. Midazolam", "B. Propofol", "C. Fentanyl", "D. Ephedrine"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 12,
+    "question": "What is the primary use of benzodiazepines in pre-operative settings?",
+    "answer": "B. Anxiolysis and sedation",
+    "options": ["A. Muscle strengthening", "B. Anxiolysis and sedation", "C. Blood pressure elevation", "D. Antiemesis"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 13,
+    "question": "Benzodiazepines act on which receptor to produce their effect?",
+    "answer": "D. GABA-A receptor",
+    "options": ["A. Alpha receptor", "B. Beta receptor", "C. NMDA receptor", "D. GABA-A receptor"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 14,
+    "question": "Which of the following is NOT a common effect of benzodiazepines?",
+    "answer": "C. Increased salivation",
+    "options": ["A. Sedation", "B. Muscle relaxation", "C. Increased salivation", "D. Anxiolysis"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 15,
+    "question": "Benzodiazepines can cause all of the following EXCEPT:",
+    "answer": "A. Hypertension",
+    "options": ["A. Hypertension", "B. Amnesia", "C. Sedation", "D. Respiratory depression (in high doses)"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 16,
+    "question": "Diazepam belongs to which drug class?",
+    "answer": "B. Benzodiazepines",
+    "options": ["A. Opioids", "B. Benzodiazepines", "C. Anticholinergics", "D. Beta-blockers"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 17,
+    "question": "Which of the following is a common preoperative use of Diazepam?",
+    "answer": "C. Anxiolytic and sedative",
+    "options": ["A. Antiemetic", "B. Bronchodilator", "C. Anxiolytic and sedative", "D. Analgesic"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 18,
+    "question": "Diazepam has which of the following pharmacologic effects?",
+    "answer": "A. Muscle relaxation",
+    "options": ["A. Muscle relaxation", "B. Bronchoconstriction", "C. Tachycardia", "D. Vomiting"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 19,
+    "question": "The half-life of Diazepam is considered:",
+    "answer": "C. Long",
+    "options": ["A. Short", "B. Intermediate", "C. Long", "D. Variable"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 20,
+    "question": "Diazepam acts by potentiating the effects of which neurotransmitter?",
+    "answer": "D. GABA",
+    "options": ["A. Dopamine", "B. Serotonin", "C. Acetylcholine", "D. GABA"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 21,
+    "question": "Midazolam is primarily used in anesthesia for:",
+    "answer": "C. Sedation and anxiolysis",
+    "options": ["A. Pain relief", "B. Bronchodilation", "C. Sedation and anxiolysis", "D. Muscle strengthening"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 22,
+    "question": "Midazolam belongs to which class of drugs?",
+    "answer": "A. Benzodiazepines",
+    "options": ["A. Benzodiazepines", "B. Opioids", "C. Antihistamines", "D. Steroids"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 23,
+    "question": "Which is an advantage of Midazolam over Diazepam in anesthesia?",
+    "answer": "D. Rapid onset and short duration",
+    "options": ["A. Higher potency", "B. Causes less sedation", "C. Longer duration", "D. Rapid onset and short duration"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 24,
+    "question": "Midazolam exerts its effects by acting on:",
+    "answer": "B. GABA-A receptors",
+    "options": ["A. Alpha receptors", "B. GABA-A receptors", "C. NMDA receptors", "D. Dopamine receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 25,
+    "question": "Which of the following is NOT a common effect of Midazolam?",
+    "answer": "A. Analgesia",
+    "options": ["A. Analgesia", "B. Sedation", "C. Amnesia", "D. Anxiolysis"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 26,
+    "question": "Lexatonil is the trade name for which drug?",
+    "answer": "C. Bromazepam",
+    "options": ["A. Diazepam", "B. Midazolam", "C. Bromazepam", "D. Lorazepam"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 27,
+    "question": "Lexatonil is classified under which drug group?",
+    "answer": "A. Benzodiazepines",
+    "options": ["A. Benzodiazepines", "B. Opioids", "C. Antipsychotics", "D. Antihistamines"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 28,
+    "question": "The main preoperative use of Lexatonil is:",
+    "answer": "D. Sedation and anxiety relief",
+    "options": ["A. Muscle spasm relief", "B. Pain control", "C. Antiemesis", "D. Sedation and anxiety relief"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 29,
+    "question": "Lexatonil acts on which receptor system?",
+    "answer": "B. GABA receptors",
+    "options": ["A. Alpha receptors", "B. GABA receptors", "C. NMDA receptors", "D. Dopamine receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 30,
+    "question": "Which of the following is NOT an effect of Lexatonil?",
+    "answer": "C. Analgesia",
+    "options": ["A. Anxiolysis", "B. Sedation", "C. Analgesia", "D. Muscle relaxation"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 31,
+    "question": "Which of the following is a commonly used opioid in anesthesia?",
+    "answer": "B. Fentanyl",
+    "options": ["A. Diazepam", "B. Fentanyl", "C. Atropine", "D. Ephedrine"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 32,
+    "question": "Opioids primarily produce their effect by acting on:",
+    "answer": "C. Mu receptors",
+    "options": ["A. Beta receptors", "B. Dopamine receptors", "C. Mu receptors", "D. GABA receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 33,
+    "question": "Which of the following is NOT a typical side effect of opioids?",
+    "answer": "D. Hypertension",
+    "options": ["A. Respiratory depression", "B. Nausea", "C. Constipation", "D. Hypertension"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 34,
+    "question": "What is the primary reason for using opioids preoperatively?",
+    "answer": "A. Analgesia",
+    "options": ["A. Analgesia", "B. Antiemetic effect", "C. Bronchodilation", "D. Hypertension control"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 35,
+    "question": "Which of the following opioids has a rapid onset and short duration of action?",
+    "answer": "B. Remifentanil",
+    "options": ["A. Morphine", "B. Remifentanil", "C. Methadone", "D. Codeine"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 36,
+    "question": "Phenothiazines are primarily used preoperatively for their:",
+    "answer": "B. Antiemetic and sedative effects",
+    "options": ["A. Analgesic effect", "B. Antiemetic and sedative effects", "C. Muscle relaxation", "D. Bronchodilation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 37,
+    "question": "Which of the following drugs belongs to the phenothiazine group?",
+    "answer": "C. Chlorpromazine",
+    "options": ["A. Diazepam", "B. Midazolam", "C. Chlorpromazine", "D. Haloperidol"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 38,
+    "question": "Phenothiazines act mainly by blocking which neurotransmitter receptor?",
+    "answer": "A. Dopamine receptors",
+    "options": ["A. Dopamine receptors", "B. GABA receptors", "C. Serotonin receptors", "D. Cholinergic receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 39,
+    "question": "A major side effect of phenothiazines is:",
+    "answer": "C. Hypotension",
+    "options": ["A. Hypertension", "B. Tachycardia", "C. Hypotension", "D. Bronchospasm"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 40,
+    "question": "Which of the following is NOT a typical effect of phenothiazines?",
+    "answer": "D. Analgesia",
+    "options": ["A. Sedation", "B. Antiemesis", "C. Hypotension", "D. Analgesia"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 41,
+    "question": "What is the primary purpose of using anticholinergics preoperatively?",
+    "answer": "B. To reduce respiratory secretions",
+    "options": ["A. To lower blood sugar", "B. To reduce respiratory secretions", "C. To increase pain threshold", "D. To stimulate appetite"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 42,
+    "question": "Anticholinergics block the effects of which neurotransmitter?",
+    "answer": "C. Acetylcholine",
+    "options": ["A. Dopamine", "B. GABA", "C. Acetylcholine", "D. Serotonin"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 43,
+    "question": "Which of the following is a common side effect of anticholinergic drugs?",
+    "answer": "A. Dry mouth",
+    "options": ["A. Dry mouth", "B. Bradycardia", "C. Increased salivation", "D. Diarrhea"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 44,
+    "question": "Which of the following is an anticholinergic drug?",
+    "answer": "D. Glycopyrrolate",
+    "options": ["A. Fentanyl", "B. Lorazepam", "C. Epinephrine", "D. Glycopyrrolate"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 45,
+    "question": "Anticholinergics are especially useful in anesthesia to:",
+    "answer": "C. Prevent bradycardia during surgery",
+    "options": ["A. Increase gastric motility", "B. Enhance memory", "C. Prevent bradycardia during surgery", "D. Treat infection"]
+  },
+  
+  {
+    "course": "Anesthesia",
+    "numb": 46,
+    "question": "What is the main reason Atropine is used preoperatively?",
+    "answer": "A. To reduce secretions",
+    "options": ["A. To reduce secretions", "B. To cause sedation", "C. To increase blood pressure", "D. To relieve pain"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 47,
+    "question": "Which of the following is true about Glycopyrrolate (Pyrolate)?",
+    "answer": "C. It does not cross the blood-brain barrier",
+    "options": ["A. It causes sedation", "B. It increases secretions", "C. It does not cross the blood-brain barrier", "D. It is an opioid"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 48,
+    "question": "Atropine is classified as which of the following?",
+    "answer": "B. Anticholinergic",
+    "options": ["A. Benzodiazepine", "B. Anticholinergic", "C. Beta-blocker", "D. Inotrope"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 49,
+    "question": "What is a common side effect of Atropine?",
+    "answer": "D. Tachycardia",
+    "options": ["A. Bradycardia", "B. Drowsiness", "C. Hypotension", "D. Tachycardia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 50,
+    "question": "Which of the following is a key difference between Atropine and Glycopyrrolate?",
+    "answer": "A. Glycopyrrolate does not cross the blood-brain barrier",
+    "options": ["A. Glycopyrrolate does not cross the blood-brain barrier", "B. Atropine has no effect on heart rate", "C. Atropine reduces gastric acidity", "D. Glycopyrrolate causes hallucinations"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 51,
+    "question": "What is the primary effect of beta-blockers in anesthesia?",
+    "answer": "B. Reduce heart rate and myocardial oxygen demand",
+    "options": ["A. Increase blood glucose", "B. Reduce heart rate and myocardial oxygen demand", "C. Increase cardiac output", "D. Stimulate respiration"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 52,
+    "question": "Which of the following is a commonly used beta-blocker in anesthesia?",
+    "answer": "C. Esmolol",
+    "options": ["A. Atropine", "B. Glycopyrrolate", "C. Esmolol", "D. Fentanyl"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 53,
+    "question": "Beta-blockers primarily block which receptors?",
+    "answer": "A. Beta-adrenergic receptors",
+    "options": ["A. Beta-adrenergic receptors", "B. Alpha receptors", "C. GABA receptors", "D. Dopamine receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 54,
+    "question": "Which of the following is a contraindication for beta-blocker use?",
+    "answer": "D. Severe bradycardia",
+    "options": ["A. Hypertension", "B. Ischemic heart disease", "C. Anxiety", "D. Severe bradycardia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 55,
+    "question": "Beta-blockers help prevent which of the following during surgery?",
+    "answer": "C. Hypertensive episodes and tachycardia",
+    "options": ["A. Hypothermia", "B. Hypoglycemia", "C. Hypertensive episodes and tachycardia", "D. Bronchoconstriction"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 56,
+    "question": "What is the primary action of inotropic drugs?",
+    "answer": "A. Increase the force of cardiac contraction",
+    "options": ["A. Increase the force of cardiac contraction", "B. Reduce respiratory rate", "C. Decrease blood volume", "D. Relax skeletal muscles"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 57,
+    "question": "Which of the following is a positive inotrope?",
+    "answer": "C. Dopamine",
+    "options": ["A. Propranolol", "B. Furosemide", "C. Dopamine", "D. Lorazepam"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 58,
+    "question": "Inotropes are commonly used in which clinical condition?",
+    "answer": "D. Cardiogenic shock",
+    "options": ["A. Asthma", "B. Renal failure", "C. Hyperthyroidism", "D. Cardiogenic shock"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 59,
+    "question": "Which of the following is NOT an effect of inotropic agents?",
+    "answer": "B. Bronchodilation",
+    "options": ["A. Improved cardiac output", "B. Bronchodilation", "C. Increased myocardial oxygen demand", "D. Vasoconstriction (in some)"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 60,
+    "question": "Positive inotropes are especially useful in patients with:",
+    "answer": "C. Heart failure",
+    "options": ["A. Anxiety disorders", "B. Pulmonary embolism", "C. Heart failure", "D. Liver cirrhosis"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 61,
+    "question": "Dopamine is classified as which type of drug?",
+    "answer": "A. Inotropic agent",
+    "options": ["A. Inotropic agent", "B. Anticholinergic", "C. Benzodiazepine", "D. Beta-blocker"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 62,
+    "question": "At low doses, dopamine primarily acts on which type of receptors?",
+    "answer": "C. Dopaminergic receptors",
+    "options": ["A. Beta-2 receptors", "B. Alpha-1 receptors", "C. Dopaminergic receptors", "D. GABA receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 63,
+    "question": "What is the main effect of dopamine at intermediate doses?",
+    "answer": "D. Increases cardiac contractility and heart rate",
+    "options": ["A. Decreases heart rate", "B. Promotes sedation", "C. Inhibits respiration", "D. Increases cardiac contractility and heart rate"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 64,
+    "question": "Which of the following is an indication for dopamine use?",
+    "answer": "B. Shock with low cardiac output",
+    "options": ["A. Asthma attack", "B. Shock with low cardiac output", "C. Seizure control", "D. Pain management"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 65,
+    "question": "A potential side effect of high-dose dopamine is:",
+    "answer": "A. Vasoconstriction and tachycardia",
+    "options": ["A. Vasoconstriction and tachycardia", "B. Sedation", "C. Bradycardia", "D. Muscle paralysis"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 66,
+    "question": "Dobutamine is primarily used to:",
+    "answer": "A. Increase cardiac contractility",
+    "options": ["A. Increase cardiac contractility", "B. Reduce fever", "C. Decrease anxiety", "D. Relieve pain"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 67,
+    "question": "Which receptors are mainly stimulated by Dobutamine?",
+    "answer": "C. Beta-1 adrenergic receptors",
+    "options": ["A. Alpha-2", "B. Dopamine", "C. Beta-1 adrenergic receptors", "D. GABA"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 68,
+    "question": "Dobutamine is most useful in which clinical scenario?",
+    "answer": "B. Acute heart failure with low cardiac output",
+    "options": ["A. Hypertension", "B. Acute heart failure with low cardiac output", "C. Asthma", "D. Renal failure"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 69,
+    "question": "Which of the following is a potential side effect of Dobutamine?",
+    "answer": "D. Arrhythmias",
+    "options": ["A. Constipation", "B. Hypoglycemia", "C. Drowsiness", "D. Arrhythmias"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 70,
+    "question": "Dobutamine has minimal effect on which of the following?",
+    "answer": "A. Peripheral vascular resistance",
+    "options": ["A. Peripheral vascular resistance", "B. Heart rate", "C. Cardiac contractility", "D. Blood flow to organs"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 71,
+    "question": "What is the primary action of Adrenaline (epinephrine)?",
+    "answer": "B. Stimulates both alpha and beta adrenergic receptors",
+    "options": ["A. Blocks dopamine receptors", "B. Stimulates both alpha and beta adrenergic receptors", "C. Only stimulates beta-1 receptors", "D. Inhibits cardiac activity"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 72,
+    "question": "Adrenaline is the first-line drug for which emergency condition?",
+    "answer": "A. Anaphylaxis",
+    "options": ["A. Anaphylaxis", "B. Hypertension", "C. Seizures", "D. Hypoglycemia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 73,
+    "question": "Which of the following effects is caused by Adrenaline?",
+    "answer": "C. Bronchodilation",
+    "options": ["A. Hypotension", "B. Bradycardia", "C. Bronchodilation", "D. Sedation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 74,
+    "question": "In cardiac arrest, what is the typical route for Adrenaline administration?",
+    "answer": "D. Intravenous or intraosseous",
+    "options": ["A. Oral", "B. Subcutaneous", "C. Intramuscular only", "D. Intravenous or intraosseous"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 75,
+    "question": "Adrenaline should be used with caution in patients with:",
+    "answer": "B. Ischemic heart disease",
+    "options": ["A. Asthma", "B. Ischemic heart disease", "C. Anaphylaxis", "D. Hypotension"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 76,
+    "question": "Ephedrine is commonly used in anesthesia to treat:",
+    "answer": "C. Intraoperative hypotension",
+    "options": ["A. Hypertension", "B. Seizures", "C. Intraoperative hypotension", "D. Nausea and vomiting"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 77,
+    "question": "What is the primary mechanism of action of Ephedrine?",
+    "answer": "A. Indirect stimulation of adrenergic receptors by releasing norepinephrine",
+    "options": ["A. Indirect stimulation of adrenergic receptors by releasing norepinephrine", "B. Direct stimulation of dopamine receptors", "C. Beta-blockade", "D. Antagonism of GABA receptors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 78,
+    "question": "Ephedrine increases blood pressure mainly by:",
+    "answer": "D. Increasing cardiac output and peripheral resistance",
+    "options": ["A. Decreasing preload", "B. Sedating the patient", "C. Dilating coronary vessels", "D. Increasing cardiac output and peripheral resistance"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 79,
+    "question": "Which of the following is a common side effect of Ephedrine?",
+    "answer": "B. Tachycardia",
+    "options": ["A. Bradycardia", "B. Tachycardia", "C. Respiratory depression", "D. Muscle paralysis"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 80,
+    "question": "Compared to phenylephrine, ephedrine has which advantage?",
+    "answer": "C. Maintains heart rate and cardiac output better",
+    "options": ["A. Stronger vasoconstriction", "B. Shorter duration", "C. Maintains heart rate and cardiac output better", "D. Less central nervous system stimulation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 81,
+    "question": "The primary function of an anesthesia machine is to:",
+    "answer": "C. Deliver a precise mixture of gases to the patient",
+    "options": ["A. Monitor vital signs", "B. Control bleeding", "C. Deliver a precise mixture of gases to the patient", "D. Measure drug levels"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 82,
+    "question": "Which component of the anesthesia machine prevents backflow of gases?",
+    "answer": "B. Unidirectional valves",
+    "options": ["A. Vaporizer", "B. Unidirectional valves", "C. Flowmeter", "D. Absorber canister"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 83,
+    "question": "What gas is most commonly used with anesthesia machines?",
+    "answer": "A. Oxygen",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon dioxide", "D. Helium"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 84,
+    "question": "Vaporizers in an anesthesia machine are used to:",
+    "answer": "D. Convert liquid anesthetics into vapors",
+    "options": ["A. Monitor pressure", "B. Filter air", "C. Warm the gas", "D. Convert liquid anesthetics into vapors"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 85,
+    "question": "Which part of the anesthesia machine adjusts the flow of gases?",
+    "answer": "C. Flowmeter",
+    "options": ["A. Vaporizer", "B. Reservoir bag", "C. Flowmeter", "D. CO₂ absorber"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 86,
+    "question": "Why is regular maintenance of anesthesia machines important?",
+    "answer": "B. To ensure patient safety and equipment function",
+    "options": ["A. To reduce gas cost", "B. To ensure patient safety and equipment function", "C. To clean vaporizers only", "D. To change gas cylinders"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 87,
+    "question": "What is the recommended frequency of anesthesia machine calibration?",
+    "answer": "A. Before each use",
+    "options": ["A. Before each use", "B. Monthly", "C. Weekly", "D. Yearly"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 88,
+    "question": "Which disinfectant is commonly used for cleaning anesthesia machines?",
+    "answer": "D. Alcohol-based disinfectant",
+    "options": ["A. Ammonia", "B. Formalin", "C. Vinegar", "D. Alcohol-based disinfectant"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 89,
+    "question": "Operating manuals for anesthesia machines should be:",
+    "answer": "C. Easily accessible near the machine",
+    "options": ["A. Discarded", "B. Kept in administration office", "C. Easily accessible near the machine", "D. Not required"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 90,
+    "question": "How should reusable components be cleaned?",
+    "answer": "B. According to manufacturer guidelines",
+    "options": ["A. Using bleach only", "B. According to manufacturer guidelines", "C. Soaked overnight", "D. Washed with hot water only"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 91,
+    "question": "Which circuit is best for spontaneous ventilation?",
+    "answer": "C. Mapleson A",
+    "options": ["A. Mapleson B", "B. Mapleson D", "C. Mapleson A", "D. Bain circuit"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 92,
+    "question": "What is the main function of anesthesia circuits?",
+    "answer": "A. Deliver anesthetic gases and remove CO₂",
+    "options": ["A. Deliver anesthetic gases and remove CO₂", "B. Monitor ECG", "C. Supply IV fluids", "D. Measure oxygen saturation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 93,
+    "question": "Which part of a circle system removes carbon dioxide?",
+    "answer": "B. Soda lime canister",
+    "options": ["A. Reservoir bag", "B. Soda lime canister", "C. Oxygen analyzer", "D. Expiratory valve"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 94,
+    "question": "Bain circuit is a modification of which Mapleson system?",
+    "answer": "D. Mapleson D",
+    "options": ["A. Mapleson A", "B. Mapleson B", "C. Mapleson C", "D. Mapleson D"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 95,
+    "question": "Which of the following is NOT a component of the anesthesia breathing circuit?",
+    "answer": "D. Pulse oximeter",
+    "options": ["A. Reservoir bag", "B. Corrugated tubing", "C. Unidirectional valves", "D. Pulse oximeter"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 96,
+    "question": "What is the function of a ventilator in anesthesia?",
+    "answer": "A. To mechanically assist or control breathing",
+    "options": ["A. To mechanically assist or control breathing", "B. To warm gases", "C. To measure oxygen", "D. To regulate blood pressure"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 97,
+    "question": "Which of the following modes allows both patient and machine to initiate breaths?",
+    "answer": "B. SIMV (Synchronized Intermittent Mandatory Ventilation)",
+    "options": ["A. CMV", "B. SIMV", "C. CPAP", "D. PSV"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 98,
+    "question": "Modern ventilators are most often powered by:",
+    "answer": "C. Electricity and compressed gas",
+    "options": ["A. Manual bellows", "B. Steam", "C. Electricity and compressed gas", "D. Solar power"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 99,
+    "question": "Which alarm is critical on a ventilator?",
+    "answer": "D. High airway pressure alarm",
+    "options": ["A. Volume display", "B. Oxygen analyzer", "C. Heater alarm", "D. High airway pressure alarm"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 100,
+    "question": "A ventilator should always be checked for functionality:",
+    "answer": "A. Before every case",
+    "options": ["A. Before every case", "B. Once weekly", "C. After cleaning", "D. Monthly"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 101,
+    "question": "Which color code represents an oxygen cylinder?",
+    "answer": "A. Green or white",
+    "options": ["A. Green or white", "B. Blue", "C. Black", "D. Gray"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 102,
+    "question": "The pin index system is used to:",
+    "answer": "C. Prevent connection of wrong gas cylinder",
+    "options": ["A. Fill cylinders", "B. Monitor pressure", "C. Prevent connection of wrong gas cylinder", "D. Regulate flow rate"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 103,
+    "question": "Full oxygen cylinders typically have a pressure of:",
+    "answer": "B. 2000 psi (approx.)",
+    "options": ["A. 500 psi", "B. 2000 psi (approx.)", "C. 100 psi", "D. 3500 psi"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 104,
+    "question": "Nitrous oxide cylinder is identified by which color?",
+    "answer": "D. Blue",
+    "options": ["A. White", "B. Green", "C. Black", "D. Blue"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 105,
+    "question": "Which component regulates cylinder pressure to safe levels?",
+    "answer": "C. Pressure regulator",
+    "options": ["A. Flowmeter", "B. Pin index", "C. Pressure regulator", "D. Vaporizer"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 106,
+    "question": "Hospital pipeline systems supply gases through:",
+    "answer": "B. Wall-mounted outlets",
+    "options": ["A. Syringes", "B. Wall-mounted outlets", "C. Hand-held tubes", "D. Nebulizers"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 107,
+    "question": "Which gas safety system prevents wrong hose connections?",
+    "answer": "A. Diameter Index Safety System (DISS)",
+    "options": ["A. Diameter Index Safety System (DISS)", "B. Pin Index", "C. Flow restrictor", "D. Valve guard"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 108,
+    "question": "Central pipeline failure should be backed up by:",
+    "answer": "C. Gas cylinders attached to the machine",
+    "options": ["A. IV fluids", "B. Air conditioning", "C. Gas cylinders attached to the machine", "D. Manual ventilation only"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 109,
+    "question": "Which is a common gas used in the hospital pipeline?",
+    "answer": "D. Oxygen",
+    "options": ["A. Nitrogen", "B. Helium", "C. Carbon monoxide", "D. Oxygen"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 110,
+    "question": "Pipeline pressure for oxygen is typically:",
+    "answer": "B. 50 psi",
+    "options": ["A. 15 psi", "B. 50 psi", "C. 200 psi", "D. 100 psi"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 111,
+    "question": "Which surgical procedure is most commonly performed under general anesthesia in general surgery?",
+    "answer": "C. Appendectomy",
+    "options": ["A. Cataract removal", "B. C-section", "C. Appendectomy", "D. Tonsillectomy"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 112,
+    "question": "In general surgery, what is the most common risk of anesthesia?",
+    "answer": "A. Respiratory depression",
+    "options": ["A. Respiratory depression", "B. Hearing loss", "C. Vision impairment", "D. Fracture"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 113,
+    "question": "Preoperative fasting is important before general surgery to prevent:",
+    "answer": "B. Aspiration",
+    "options": ["A. Bleeding", "B. Aspiration", "C. Infection", "D. Pain"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 114,
+    "question": "During general surgery, which of the following monitors oxygenation?",
+    "answer": "D. Pulse oximeter",
+    "options": ["A. ECG", "B. Capnograph", "C. Sphygmomanometer", "D. Pulse oximeter"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 115,
+    "question": "Which of the following drugs is commonly used to induce anesthesia in general surgery?",
+    "answer": "A. Propofol",
+    "options": ["A. Propofol", "B. Ibuprofen", "C. Atropine", "D. Paracetamol"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 116,
+    "question": "In neurosurgery, what position is commonly used for posterior brain procedures?",
+    "answer": "C. Prone",
+    "options": ["A. Supine", "B. Lithotomy", "C. Prone", "D. Lateral"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 117,
+    "question": "Which monitoring is most critical during neurosurgery?",
+    "answer": "D. Intracranial pressure",
+    "options": ["A. Skin temperature", "B. Blood glucose", "C. ECG", "D. Intracranial pressure"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 118,
+    "question": "Which anesthetic agent increases intracranial pressure?",
+    "answer": "B. Ketamine",
+    "options": ["A. Propofol", "B. Ketamine", "C. Thiopentone", "D. Etomidate"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 119,
+    "question": "Which technique is preferred for rapid control of airway in neurosurgical emergencies?",
+    "answer": "C. Rapid sequence induction",
+    "options": ["A. Mask ventilation", "B. Sedation only", "C. Rapid sequence induction", "D. Awake intubation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 120,
+    "question": "What is the major anesthetic concern in spinal surgery?",
+    "answer": "A. Blood loss and spinal cord injury",
+    "options": ["A. Blood loss and spinal cord injury", "B. Nausea", "C. Vision change", "D. Hearing loss"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 121,
+    "question": "Cardiopulmonary bypass is commonly used in which surgery?",
+    "answer": "D. Open heart surgery",
+    "options": ["A. Appendectomy", "B. Hernia repair", "C. C-section", "D. Open heart surgery"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 122,
+    "question": "Which drug is used to prevent clot formation during cardiovascular surgery?",
+    "answer": "A. Heparin",
+    "options": ["A. Heparin", "B. Adrenaline", "C. Dopamine", "D. Diazepam"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 123,
+    "question": "Which monitoring is essential during cardiovascular surgery?",
+    "answer": "C. Invasive arterial pressure",
+    "options": ["A. Capnography", "B. ECG only", "C. Invasive arterial pressure", "D. Pulse oximetry only"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 124,
+    "question": "What is a common complication in cardiac anesthesia?",
+    "answer": "D. Arrhythmia",
+    "options": ["A. Hypoglycemia", "B. Mydriasis", "C. Bronchospasm", "D. Arrhythmia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 125,
+    "question": "Which anesthetic agent is safest in cardiac-compromised patients?",
+    "answer": "B. Etomidate",
+    "options": ["A. Propofol", "B. Etomidate", "C. Halothane", "D. Ketamine"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 126,
+    "question": "Which approach is often used for thoracic anesthesia?",
+    "answer": "C. One-lung ventilation",
+    "options": ["A. Bilateral intubation", "B. Nasal cannula", "C. One-lung ventilation", "D. Non-invasive mask"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 127,
+    "question": "Thoracic surgery often requires isolation of which organ?",
+    "answer": "D. Lung",
+    "options": ["A. Heart", "B. Brain", "C. Liver", "D. Lung"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 128,
+    "question": "Double-lumen tubes are used in:",
+    "answer": "A. Thoracic anesthesia",
+    "options": ["A. Thoracic anesthesia", "B. Neurosurgery", "C. ENT procedures", "D. Pediatric surgery"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 129,
+    "question": "What complication is most likely during lung re-expansion?",
+    "answer": "C. Pulmonary edema",
+    "options": ["A. Cardiac arrest", "B. Stroke", "C. Pulmonary edema", "D. Seizure"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 130,
+    "question": "What type of anesthesia is preferred for thoracotomy?",
+    "answer": "D. General anesthesia with muscle relaxation",
+    "options": ["A. Local only", "B. Spinal", "C. Sedation", "D. General anesthesia with muscle relaxation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 131,
+    "question": "Which of the following is NOT a type of shock?",
+    "answer": "D. Hepatic shock",
+    "options": ["A. Hypovolemic", "B. Cardiogenic", "C. Septic", "D. Hepatic shock"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 132,
+    "question": "Which fluid is typically used for initial resuscitation in hypovolemic shock?",
+    "answer": "A. Normal saline",
+    "options": ["A. Normal saline", "B. Albumin", "C. Dextrose 5%", "D. Water for injection"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 133,
+    "question": "Which airway device can be used in a difficult airway scenario?",
+    "answer": "C. Laryngeal mask airway",
+    "options": ["A. Nasal cannula", "B. Face mask", "C. Laryngeal mask airway", "D. Nebulizer"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 134,
+    "question": "In patients with ischemic heart disease, which anesthetic agent is preferred?",
+    "answer": "C. Etomidate",
+    "options": ["A. Ketamine", "B. Halothane", "C. Etomidate", "D. Midazolam"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 135,
+    "question": "Which disease requires careful blood glucose monitoring during anesthesia?",
+    "answer": "B. Diabetes mellitus",
+    "options": ["A. Asthma", "B. Diabetes mellitus", "C. Myasthenia gravis", "D. COPD"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 136,
+    "question": "What is a major risk of anesthesia in COPD patients?",
+    "answer": "A. Respiratory depression",
+    "options": ["A. Respiratory depression", "B. Hypertension", "C. Hypoglycemia", "D. Bradycardia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 137,
+    "question": "Which anesthesia is commonly used in pediatric surgeries?",
+    "answer": "B. Inhalational anesthesia",
+    "options": ["A. Regional anesthesia", "B. Inhalational anesthesia", "C. Spinal anesthesia", "D. Conscious sedation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 138,
+    "question": "Which risk is higher in pediatric anesthesia?",
+    "answer": "C. Airway obstruction",
+    "options": ["A. Hypertension", "B. Cardiac arrest", "C. Airway obstruction", "D. Hypoglycemia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 139,
+    "question": "Which drug is commonly used for pediatric induction?",
+    "answer": "A. Sevoflurane",
+    "options": ["A. Sevoflurane", "B. Thiopental", "C. Propofol", "D. Diazepam"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 140,
+    "question": "Which regional technique is often used in orthopedic surgeries?",
+    "answer": "C. Spinal anesthesia",
+    "options": ["A. General anesthesia", "B. Epidural anesthesia", "C. Spinal anesthesia", "D. Local infiltration"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 141,
+    "question": "A common complication in long orthopedic procedures is:",
+    "answer": "B. Deep vein thrombosis",
+    "options": ["A. Anemia", "B. Deep vein thrombosis", "C. Hypoglycemia", "D. Asthma attack"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 142,
+    "question": "Which monitor is essential in major orthopedic surgeries?",
+    "answer": "A. ECG",
+    "options": ["A. ECG", "B. EEG", "C. Spirometer", "D. Glucometer"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 143,
+    "question": "Which type of anesthesia is preferred for elective C-section?",
+    "answer": "C. Spinal anesthesia",
+    "options": ["A. General anesthesia", "B. Local anesthesia", "C. Spinal anesthesia", "D. Inhalational anesthesia"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 144,
+    "question": "A major concern during obstetric anesthesia is:",
+    "answer": "D. Aspiration risk",
+    "options": ["A. Tachycardia", "B. Bradycardia", "C. Hypertension", "D. Aspiration risk"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 145,
+    "question": "What is the safest position for a pregnant woman under anesthesia?",
+    "answer": "B. Left lateral",
+    "options": ["A. Supine", "B. Left lateral", "C. Prone", "D. Trendelenburg"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 146,
+    "question": "ENT surgeries commonly require:",
+    "answer": "C. Endotracheal intubation",
+    "options": ["A. Spinal anesthesia", "B. Sedation only", "C. Endotracheal intubation", "D. Nebulization"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 147,
+    "question": "What is a risk during ENT surgery under anesthesia?",
+    "answer": "A. Airway fire",
+    "options": ["A. Airway fire", "B. Stroke", "C. Vision loss", "D. Myocardial infarction"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 148,
+    "question": "ENT procedures often require which tube?",
+    "answer": "D. Reinforced endotracheal tube",
+    "options": ["A. Nasogastric tube", "B. Tracheostomy tube", "C. Oral airway", "D. Reinforced endotracheal tube"]
+  },
+
+  {
+    "course": "Anesthesia",
+    "numb": 149,
+    "question": "Which anesthesia is commonly used in eye surgeries?",
+    "answer": "B. Local block",
+    "options": ["A. General anesthesia", "B. Local block", "C. Inhalation only", "D. Intramuscular sedation"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 150,
+    "question": "Which of the following is a common anesthetic concern in eye surgery?",
+    "answer": "C. Oculocardiac reflex",
+    "options": ["A. Hypertension", "B. Nausea", "C. Oculocardiac reflex", "D. Vomiting"]
+  },
+  {
+    "course": "Anesthesia",
+    "numb": 151,
+    "question": "Which nerve block is typically used for cataract surgery?",
+    "answer": "A. Retrobulbar block",
+    "options": ["A. Retrobulbar block", "B. Femoral block", "C. Brachial plexus block", "D. Sciatic block"]
+  },
+
+
+
+]
 
 
 
