@@ -9947,6 +9947,96 @@ const questionBank =
     "answer": "A. Retrobulbar block",
     "options": ["A. Retrobulbar block", "B. Femoral block", "C. Brachial plexus block", "D. Sciatic block"]
   },
+//  Cardio MCQS 4th semester 
+  {
+    "course": "Cardio",
+    "numb": 1,
+    "question": "What is the most common symptom of angina pectoris?",
+    "answer": "C. Chest pain",
+    "options": ["A. Headache", "B. Leg swelling", "C. Chest pain", "D. Abdominal pain"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 2,
+    "question": "Angina is caused primarily by:",
+    "answer": "D. Reduced blood flow to the heart",
+    "options": ["A. Infection", "B. Valve leak", "C. Low oxygen levels", "D. Reduced blood flow to the heart"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 3,
+    "question": "Which of the following is used in first aid treatment of angina?",
+    "answer": "B. Nitroglycerin",
+    "options": ["A. Paracetamol", "B. Nitroglycerin", "C. Aspirin", "D. Ibuprofen"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 4,
+    "question": "Which lifestyle factor can increase the risk of angina?",
+    "answer": "A. Smoking",
+    "options": ["A. Smoking", "B. Regular exercise", "C. Low cholesterol", "D. Hydration"]
+  },
+
+  {
+    "course": "Cardio",
+    "numb": 5,
+    "question": "Ischemic heart disease is primarily caused by:",
+    "answer": "C. Atherosclerosis",
+    "options": ["A. Infections", "B. Heartworms", "C. Atherosclerosis", "D. Congenital defect"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 6,
+    "question": "Which test is commonly used to detect ischemic heart disease?",
+    "answer": "A. ECG",
+    "options": ["A. ECG", "B. Liver function test", "C. Urinalysis", "D. Skin biopsy"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 7,
+    "question": "One of the key clinical features of ischemic heart disease is:",
+    "answer": "D. Chest discomfort",
+    "options": ["A. Diarrhea", "B. Jaundice", "C. Skin rash", "D. Chest discomfort"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 8,
+    "question": "Which of these is part of emergency care for ischemic heart disease?",
+    "answer": "C. Oxygen therapy",
+    "options": ["A. Antacids", "B. Diuretics", "C. Oxygen therapy", "D. Insulin"]
+  },
+
+  {
+    "course": "Cardio",
+    "numb": 9,
+    "question": "Acute myocardial infarction is commonly known as:",
+    "answer": "B. Heart attack",
+    "options": ["A. Stroke", "B. Heart attack", "C. Palpitation", "D. Hypertension"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 10,
+    "question": "What enzyme is elevated in myocardial infarction?",
+    "answer": "D. Troponin",
+    "options": ["A. Amylase", "B. Creatinine", "C. Bilirubin", "D. Troponin"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 11,
+    "question": "First aid for suspected myocardial infarction includes:",
+    "answer": "A. Administering aspirin",
+    "options": ["A. Administering aspirin", "B. Giving cold compress", "C. Making the patient walk", "D. Providing sugar"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 12,
+    "question": "Which symptom is most typical in acute myocardial infarction?",
+    "answer": "C. Severe chest pain radiating to the left arm",
+    "options": ["A. Headache", "B. Back pain", "C. Severe chest pain radiating to the left arm", "D. Leg cramps"]
+  },
+
+  
+
 
 
 
