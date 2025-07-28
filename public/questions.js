@@ -10034,8 +10034,180 @@ const questionBank =
     "answer": "C. Severe chest pain radiating to the left arm",
     "options": ["A. Headache", "B. Back pain", "C. Severe chest pain radiating to the left arm", "D. Leg cramps"]
   },
+  {
+    "course": "Cardio",
+    "numb": 13,
+    "question": "Cardiogenic shock is primarily caused by:",
+    "answer": "B. Pump failure of the heart",
+    "options": ["A. Blood loss", "B. Pump failure of the heart", "C. Infection", "D. Allergic reaction"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 14,
+    "question": "Which of the following is a symptom of cardiogenic shock?",
+    "answer": "C. Cold, clammy skin",
+    "options": ["A. Warm flushed skin", "B. Hypertension", "C. Cold, clammy skin", "D. Increased urine output"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 15,
+    "question": "First aid management of cardiogenic shock includes:",
+    "answer": "A. Maintaining airway and oxygenation",
+    "options": ["A. Maintaining airway and oxygenation", "B. Giving cold water", "C. Providing insulin", "D. Administering diuretics"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 16,
+    "question": "What happens to blood pressure in cardiogenic shock?",
+    "answer": "D. It decreases",
+    "options": ["A. It increases", "B. It remains constant", "C. It fluctuates", "D. It decreases"]
+  },
 
-  
+  {
+    "course": "Cardio",
+    "numb": 17,
+    "question": "Congestive heart failure is characterized by:",
+    "answer": "C. Fluid accumulation in lungs and body",
+    "options": ["A. Elevated liver enzymes", "B. Low blood sugar", "C. Fluid accumulation in lungs and body", "D. Dehydration"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 18,
+    "question": "One common symptom of congestive heart failure is:",
+    "answer": "B. Shortness of breath",
+    "options": ["A. Diarrhea", "B. Shortness of breath", "C. Jaundice", "D. Abdominal pain"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 19,
+    "question": "Which of the following drugs is used to treat CHF?",
+    "answer": "D. Furosemide",
+    "options": ["A. Amoxicillin", "B. Paracetamol", "C. Aspirin", "D. Furosemide"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 20,
+    "question": "CHF affects which organ primarily?",
+    "answer": "A. Heart",
+    "options": ["A. Heart", "B. Liver", "C. Kidney", "D. Brain"]
+  },
+
+  {
+    "course": "Cardio",
+    "numb": 21,
+    "question": "Rheumatic fever typically follows:",
+    "answer": "C. Streptococcal throat infection",
+    "options": ["A. Viral infection", "B. Pneumonia", "C. Streptococcal throat infection", "D. Malaria"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 22,
+    "question": "A classic symptom of rheumatic fever is:",
+    "answer": "B. Migratory joint pain",
+    "options": ["A. Skin rash", "B. Migratory joint pain", "C. Hair loss", "D. Vision loss"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 23,
+    "question": "Which heart valve is most commonly affected by rheumatic fever?",
+    "answer": "A. Mitral valve",
+    "options": ["A. Mitral valve", "B. Tricuspid valve", "C. Aortic valve", "D. Pulmonary valve"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 24,
+    "question": "What is the drug of choice for preventing rheumatic fever recurrence?",
+    "answer": "C. Penicillin",
+    "options": ["A. Aspirin", "B. Ibuprofen", "C. Penicillin", "D. Diuretics"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 25,
+    "question": "Rheumatic heart disease is a long-term complication of which condition?",
+    "answer": "C. Rheumatic fever",
+    "options": ["A. Hypertension", "B. Diabetes", "C. Rheumatic fever", "D. Asthma"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 26,
+    "question": "Which valve is most often damaged in rheumatic heart disease?",
+    "answer": "A. Mitral valve",
+    "options": ["A. Mitral valve", "B. Tricuspid valve", "C. Aortic valve", "D. Pulmonary valve"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 27,
+    "question": "A common sign of rheumatic heart disease is:",
+    "answer": "D. Heart murmur",
+    "options": ["A. High fever", "B. Night sweats", "C. Cyanosis", "D. Heart murmur"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 28,
+    "question": "Which test is helpful in diagnosing valve damage in RHD?",
+    "answer": "B. Echocardiography",
+    "options": ["A. X-ray", "B. Echocardiography", "C. CT scan", "D. Urinalysis"]
+  },
+
+  {
+    "course": "Cardio",
+    "numb": 29,
+    "question": "Valvular heart disease affects which part of the heart?",
+    "answer": "A. Heart valves",
+    "options": ["A. Heart valves", "B. Arteries", "C. Pericardium", "D. Myocardium"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 30,
+    "question": "Which of these is a symptom of valvular heart disease?",
+    "answer": "C. Chest pain",
+    "options": ["A. Rash", "B. Frequent urination", "C. Chest pain", "D. Nausea"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 31,
+    "question": "Aortic stenosis is a type of:",
+    "answer": "D. Valvular heart disease",
+    "options": ["A. Cardiomyopathy", "B. Arrhythmia", "C. Congenital defect", "D. Valvular heart disease"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 32,
+    "question": "Which diagnostic test helps evaluate valvular function?",
+    "answer": "A. Echocardiogram",
+    "options": ["A. Echocardiogram", "B. X-ray", "C. Blood test", "D. CT scan"]
+  },
+
+  {
+    "course": "Cardio",
+    "numb": 33,
+    "question": "Hypertension is defined as a blood pressure greater than:",
+    "answer": "B. 140/90 mmHg",
+    "options": ["A. 100/60 mmHg", "B. 140/90 mmHg", "C. 120/70 mmHg", "D. 160/110 mmHg"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 34,
+    "question": "Which organ is most at risk from long-term hypertension?",
+    "answer": "D. Kidneys",
+    "options": ["A. Skin", "B. Lungs", "C. Liver", "D. Kidneys"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 35,
+    "question": "Which lifestyle change is recommended for hypertension?",
+    "answer": "C. Reducing salt intake",
+    "options": ["A. Increased sugar", "B. Alcohol intake", "C. Reducing salt intake", "D. Skipping meals"]
+  },
+  {
+    "course": "Cardio",
+    "numb": 36,
+    "question": "A common class of drugs for treating hypertension is:",
+    "answer": "A. Beta blockers",
+    "options": ["A. Beta blockers", "B. Antibiotics", "C. Laxatives", "D. Sedatives"]
+  },
+
+
 
 
 
