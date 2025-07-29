@@ -10207,6 +10207,1113 @@ const questionBank =
     "options": ["A. Beta blockers", "B. Antibiotics", "C. Laxatives", "D. Sedatives"]
   },
 
+// Dental MCQs 4th semester
+  {
+    "course": "Dental",
+    "numb": 1,
+    "question": "What is the most commonly affected surface in dental caries?",
+    "answer": "B. Occlusal surface",
+    "options": ["A. Buccal surface", "B. Occlusal surface", "C. Lingual surface", "D. Cervical surface"]
+  },
+  {
+    "course": "Dental",
+    "numb": 2,
+    "question": "Which age group is more susceptible to rampant caries?",
+    "answer": "C. Children aged 3-5 years",
+    "options": ["A. Adults over 60", "B. Teenagers", "C. Children aged 3-5 years", "D. Infants under 1"]
+  },
+  {
+    "course": "Dental",
+    "numb": 3,
+    "question": "Which of the following is NOT a theory of caries etiology?",
+    "answer": "D. Pressure theory",
+    "options": ["A. Proteolysis theory", "B. Acidogenic theory", "C. Autoimmune theory", "D. Pressure theory"]
+  },
+  {
+    "course": "Dental",
+    "numb": 4,
+    "question": "What is the main effect of fluoride in caries prevention?",
+    "answer": "A. Inhibits demineralization",
+    "options": ["A. Inhibits demineralization", "B. Increases salivation", "C. Kills all oral bacteria", "D. Changes tooth color"]
+  },
+  {
+    "course": "Dental",
+    "numb": 5,
+    "question": "Which dietary component contributes most to dental caries?",
+    "answer": "B. Refined sugars",
+    "options": ["A. Proteins", "B. Refined sugars", "C. Fats", "D. Vitamins"]
+  },
+  {
+    "course": "Dental",
+    "numb": 6,
+    "question": "Fluoride is commonly added to which product to prevent caries?",
+    "answer": "C. Toothpaste",
+    "options": ["A. Milk", "B. Cheese", "C. Toothpaste", "D. Soap"]
+  },
+  {
+    "course": "Dental",
+    "numb": 7,
+    "question": "What is the definition of dental health?",
+    "answer": "B. A state of well-being of the oral cavity and related tissues",
+    "options": ["A. Freedom from toothache", "B. A state of well-being of the oral cavity and related tissues", "C. Ability to chew only", "D. Only clean teeth"]
+  },
+  {
+    "course": "Dental",
+    "numb": 8,
+    "question": "Which method is most effective in educating patients chairside?",
+    "answer": "A. One-on-one discussion",
+    "options": ["A. One-on-one discussion", "B. TV ads", "C. Posters", "D. Health week events"]
+  },
+  {
+    "course": "Dental",
+    "numb": 9,
+    "question": "Who shares responsibility for dental health education?",
+    "answer": "D. All of the above",
+    "options": ["A. Dental professionals", "B. Schools", "C. Parents", "D. All of the above"]
+  },
+  {
+    "course": "Dental",
+    "numb": 10,
+    "question": "Which anesthetic is commonly used in dentistry?",
+    "answer": "C. Lignocaine",
+    "options": ["A. Morphine", "B. Aspirin", "C. Lignocaine", "D. Chlorhexidine"]
+  },
+  {
+    "course": "Dental",
+    "numb": 11,
+    "question": "Topical anesthetics are applied to:",
+    "answer": "A. Mucosal surface",
+    "options": ["A. Mucosal surface", "B. Tooth enamel", "C. Tongue tip", "D. Saliva"]
+  },
+  {
+    "course": "Dental",
+    "numb": 12,
+    "question": "Which of the following is a common complication post-local anesthesia?",
+    "answer": "B. Hematoma",
+    "options": ["A. Tooth fracture", "B. Hematoma", "C. Bad breath", "D. Headache"]
+  },
+  {
+    "course": "Dental",
+    "numb": 13,
+    "question": "Which x-ray film is best for detecting interproximal caries?",
+    "answer": "A. Bitewing",
+    "options": ["A. Bitewing", "B. Periapical", "C. Occlusal", "D. Panoramic"]
+  },
+  {
+    "course": "Dental",
+    "numb": 14,
+    "question": "Which radiation precaution is essential for dental x-rays?",
+    "answer": "C. Use of lead apron",
+    "options": ["A. Wearing gloves", "B. Drinking water", "C. Use of lead apron", "D. Closing eyes"]
+  },
+  {
+    "course": "Dental",
+    "numb": 15,
+    "question": "What is the eruption age for permanent first molars?",
+    "answer": "B. 6 years",
+    "options": ["A. 3 years", "B. 6 years", "C. 8 years", "D. 12 years"]
+  },
+  {
+    "course": "Dental",
+    "numb": 16,
+    "question": "Which habit can cause malocclusion in children?",
+    "answer": "C. Thumb sucking",
+    "options": ["A. Early walking", "B. Bathing daily", "C. Thumb sucking", "D. Eating vegetables"]
+  },
+  {
+    "course": "Dental",
+    "numb": 17,
+    "question": "Which appliance is commonly used for orthodontic treatment?",
+    "answer": "A. Removable appliance",
+    "options": ["A. Removable appliance", "B. Hearing aid", "C. Nose clip", "D. Neck brace"]
+  },
+  {
+    "course": "Dental",
+    "numb": 18,
+    "question": "What is supragingival calculus?",
+    "answer": "A. Calculus above the gum line",
+    "options": ["A. Calculus above the gum line", "B. Tooth decay", "C. Below gum calculus", "D. Tooth infection"]
+  },
+  {
+    "course": "Dental",
+    "numb": 19,
+    "question": "What instrument is used for polishing teeth?",
+    "answer": "C. Rubber cup",
+    "options": ["A. Forceps", "B. Explorer", "C. Rubber cup", "D. Excavator"]
+  },
+  {
+    "course": "Dental",
+    "numb": 20,
+    "question": "Which mouthwash is used in chemical plaque control?",
+    "answer": "B. Chlorhexidine",
+    "options": ["A. Listerine", "B. Chlorhexidine", "C. Glycerine", "D. Sodium chloride"]
+  },
+    {
+    "course": "Dental",
+    "numb": 21,
+    "question": "Which vitamin deficiency can lead to gingival bleeding?",
+    "answer": "C. Vitamin C",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin D",
+      "C. Vitamin C",
+      "D. Vitamin K"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 22,
+    "question": "Which local anesthetic is commonly used in dentistry for procedures requiring longer duration?",
+    "answer": "B. Bupivacaine",
+    "options": [
+      "A. Lidocaine",
+      "B. Bupivacaine",
+      "C. Mepivacaine",
+      "D. Procaine"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 23,
+    "question": "What is the most important step in preventing dental caries in children?",
+    "answer": "A. Brushing with fluoride toothpaste",
+    "options": [
+      "A. Brushing with fluoride toothpaste",
+      "B. Eating more sugar",
+      "C. Drinking only milk",
+      "D. Using mouthwash daily"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 24,
+    "question": "In dental radiography, which tissue appears the most radiopaque?",
+    "answer": "D. Enamel",
+    "options": [
+      "A. Pulp",
+      "B. Dentin",
+      "C. Bone",
+      "D. Enamel"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 25,
+    "question": "Which of the following is a behavioral method to prevent dental caries?",
+    "answer": "C. Reducing frequency of sugar intake",
+    "options": [
+      "A. Chewing gum regularly",
+      "B. Using herbal toothpaste",
+      "C. Reducing frequency of sugar intake",
+      "D. Avoiding brushing at night"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 26,
+    "question": "Which of these is a component of the DMFT index?",
+    "answer": "A. Decayed teeth",
+    "options": [
+      "A. Decayed teeth",
+      "B. Deep pockets",
+      "C. Discolored teeth",
+      "D. Dull pain"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 27,
+    "question": "What is the main function of fluoride in caries prevention?",
+    "answer": "B. Strengthens enamel",
+    "options": [
+      "A. Kills all bacteria",
+      "B. Strengthens enamel",
+      "C. Whitens teeth",
+      "D. Dissolves plaque"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 28,
+    "question": "What is the most common side effect of local anesthesia?",
+    "answer": "A. Temporary numbness",
+    "options": [
+      "A. Temporary numbness",
+      "B. Hair loss",
+      "C. Tooth fracture",
+      "D. Permanent paralysis"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 29,
+    "question": "Which type of orthodontic appliance is fixed and not removable by the patient?",
+    "answer": "C. Braces",
+    "options": [
+      "A. Hawley retainer",
+      "B. Night guard",
+      "C. Braces",
+      "D. Mouth prop"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 30,
+    "question": "The most effective method of preventing fluorosis is:",
+    "answer": "D. Regulating fluoride intake in children",
+    "options": [
+      "A. Avoiding water",
+      "B. Not brushing teeth",
+      "C. Using herbal mouthwash",
+      "D. Regulating fluoride intake in children"
+    ]
+  },
+{
+    "course": "Dental",
+    "numb": 31,
+    "question": "Which instrument is primarily used to detect carious lesions?",
+    "answer": "B. Dental explorer",
+    "options": [
+      "A. Mouth mirror",
+      "B. Dental explorer",
+      "C. Cotton pliers",
+      "D. Scaler"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 32,
+    "question": "Which of the following conditions is an indication for using a bitewing radiograph?",
+    "answer": "C. Detecting interproximal caries",
+    "options": [
+      "A. Impacted teeth",
+      "B. Jaw fractures",
+      "C. Detecting interproximal caries",
+      "D. Periodontal disease"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 33,
+    "question": "Sealants are most effective when applied to which teeth?",
+    "answer": "D. Permanent molars",
+    "options": [
+      "A. Primary incisors",
+      "B. Primary molars",
+      "C. Permanent canines",
+      "D. Permanent molars"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 34,
+    "question": "Which radiographic view is used to assess the maxillary sinus?",
+    "answer": "A. Waters view",
+    "options": [
+      "A. Waters view",
+      "B. Lateral cephalometric",
+      "C. Bitewing",
+      "D. Periapical"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 35,
+    "question": "What is the function of a rubber dam during dental procedures?",
+    "answer": "C. Isolates the operating field",
+    "options": [
+      "A. Reduces bleeding",
+      "B. Helps in anesthesia",
+      "C. Isolates the operating field",
+      "D. Protects X-ray film"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 36,
+    "question": "Which of the following is a preventive orthodontic treatment?",
+    "answer": "B. Space maintainer",
+    "options": [
+      "A. Braces",
+      "B. Space maintainer",
+      "C. Night guard",
+      "D. Tooth extraction"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 37,
+    "question": "Which type of fluoride application is professionally applied in dental clinics?",
+    "answer": "D. Fluoride varnish",
+    "options": [
+      "A. Fluoridated water",
+      "B. Fluoride tablets",
+      "C. Fluoride toothpaste",
+      "D. Fluoride varnish"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 38,
+    "question": "What is the typical onset time of action for lidocaine when used as local anesthesia?",
+    "answer": "A. 2–3 minutes",
+    "options": [
+      "A. 2–3 minutes",
+      "B. 10–15 minutes",
+      "C. 30 seconds",
+      "D. 15–20 minutes"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 39,
+    "question": "Which tooth is most susceptible to dental caries in children?",
+    "answer": "B. First molar",
+    "options": [
+      "A. Central incisor",
+      "B. First molar",
+      "C. Canine",
+      "D. Second premolar"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 40,
+    "question": "Which of the following is a primary preventive measure for dental caries?",
+    "answer": "A. Oral health education",
+    "options": [
+      "A. Oral health education",
+      "B. Filling cavities",
+      "C. Root canal treatment",
+      "D. Extraction of decayed teeth"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 41,
+    "question": "Orthodontic appliances are mainly used for:",
+    "answer": "C. Alignment of teeth",
+    "options": [
+      "A. Whitening teeth",
+      "B. Removing decay",
+      "C. Alignment of teeth",
+      "D. Relieving pain"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 42,
+    "question": "Which of the following best describes plaque?",
+    "answer": "D. Soft, sticky film of bacteria on teeth",
+    "options": [
+      "A. Hard deposit on enamel",
+      "B. Salivary residue",
+      "C. Food particles stuck in teeth",
+      "D. Soft, sticky film of bacteria on teeth"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 43,
+    "question": "What is the main complication of untreated dental caries?",
+    "answer": "C. Pulpitis",
+    "options": [
+      "A. Discoloration",
+      "B. Gingivitis",
+      "C. Pulpitis",
+      "D. Hypersensitivity"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 44,
+    "question": "Which diagnostic tool is best for identifying early interproximal caries?",
+    "answer": "B. Bitewing X-ray",
+    "options": [
+      "A. Periapical X-ray",
+      "B. Bitewing X-ray",
+      "C. Occlusal radiograph",
+      "D. Panoramic radiograph"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 45,
+    "question": "Which of the following is a feature of fluorosis?",
+    "answer": "A. Mottled enamel",
+    "options": [
+      "A. Mottled enamel",
+      "B. Tooth mobility",
+      "C. Gingival bleeding",
+      "D. Calculus deposits"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 46,
+    "question": "Which anesthesia technique is used for mandibular posterior teeth?",
+    "answer": "C. Inferior alveolar nerve block",
+    "options": [
+      "A. Infiltration anesthesia",
+      "B. Topical anesthesia",
+      "C. Inferior alveolar nerve block",
+      "D. Mental nerve block"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 47,
+    "question": "What is the recommended fluoride concentration in drinking water?",
+    "answer": "B. 0.7 ppm",
+    "options": [
+      "A. 0.2 ppm",
+      "B. 0.7 ppm",
+      "C. 2.0 ppm",
+      "D. 5.0 ppm"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 48,
+    "question": "Which bacteria is most associated with the initiation of dental caries?",
+    "answer": "A. Streptococcus mutans",
+    "options": [
+      "A. Streptococcus mutans",
+      "B. Lactobacillus acidophilus",
+      "C. Actinomyces naeslundii",
+      "D. Staphylococcus aureus"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 49,
+    "question": "Which of the following describes a preventive sealant?",
+    "answer": "D. A resin applied to occlusal surfaces",
+    "options": [
+      "A. A filling for deep caries",
+      "B. A mouthwash for plaque",
+      "C. A surgical dressing",
+      "D. A resin applied to occlusal surfaces"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 50,
+    "question": "Which method ensures patient safety during radiographic exposure?",
+    "answer": "C. Use of lead apron",
+    "options": [
+      "A. Standing behind the patient",
+      "B. Using cotton rolls",
+      "C. Use of lead apron",
+      "D. Hand-holding the film"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 51,
+    "question": "Which age group benefits most from pit and fissure sealants for caries prevention?",
+    "answer": "A. Children aged 6–12 years",
+    "options": [
+      "A. Children aged 6–12 years",
+      "B. Adults over 40 years",
+      "C. Elderly over 60 years",
+      "D. Infants under 2 years"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 52,
+    "question": "Which vitamin deficiency can lead to gingival bleeding and affect oral health?",
+    "answer": "C. Vitamin C",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin D",
+      "C. Vitamin C",
+      "D. Vitamin K"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 53,
+    "question": "What is the function of topical fluoride in caries prevention?",
+    "answer": "D. Remineralizes enamel and inhibits bacterial activity",
+    "options": [
+      "A. Stains bacteria",
+      "B. Removes calculus",
+      "C. Replaces calcium in saliva",
+      "D. Remineralizes enamel and inhibits bacterial activity"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 54,
+    "question": "Why is radiographic imaging essential in detecting interproximal caries?",
+    "answer": "C. Visual access to these areas is limited",
+    "options": [
+      "A. It helps assess patient cooperation",
+      "B. It gives a 3D model of teeth",
+      "C. Visual access to these areas is limited",
+      "D. It determines age of caries"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 55,
+    "question": "Which caries risk factor is most strongly associated with low socio-economic status?",
+    "answer": "A. Limited access to dental care and poor diet",
+    "options": [
+      "A. Limited access to dental care and poor diet",
+      "B. Excessive use of mouthwash",
+      "C. Smoking habits",
+      "D. Vitamin deficiency"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 56,
+    "question": "Which property of sugar contributes most to dental caries?",
+    "answer": "B. Frequency of sugar intake",
+    "options": [
+      "A. Total amount consumed",
+      "B. Frequency of sugar intake",
+      "C. Source of sugar",
+      "D. Temperature of sugar solution"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 57,
+    "question": "What is the primary source of infection in early childhood caries?",
+    "answer": "C. Transmission from mother/caregiver",
+    "options": [
+      "A. Pacifiers",
+      "B. Unclean utensils",
+      "C. Transmission from mother/caregiver",
+      "D. Contaminated toys"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 58,
+    "question": "Why is prevention of dental caries more cost-effective than treatment?",
+    "answer": "D. It reduces need for complex and expensive procedures",
+    "options": [
+      "A. Prevention takes less time",
+      "B. Prevention avoids radiographs",
+      "C. Patients prefer it",
+      "D. It reduces need for complex and expensive procedures"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 59,
+    "question": "Which of the following can be used as a caries risk assessment tool?",
+    "answer": "B. CAMBRA",
+    "options": [
+      "A. LASER",
+      "B. CAMBRA",
+      "C. CBC test",
+      "D. Dental mirror"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 60,
+    "question": "Which microorganism is most associated with the initiation of dental caries?",
+    "answer": "A. Streptococcus mutans",
+    "options": [
+      "A. Streptococcus mutans",
+      "B. Lactobacillus acidophilus",
+      "C. Actinomyces israelii",
+      "D. Candida albicans"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 61,
+    "question": "Which component is the major inorganic part of dental calculus?",
+    "answer": "A. Calcium phosphate",
+    "options": [
+      "A. Calcium phosphate",
+      "B. Collagen fibers",
+      "C. Lipid membranes",
+      "D. Keratin"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 62,
+    "question": "Which of the following stains is considered intrinsic?",
+    "answer": "D. Tetracycline staining",
+    "options": [
+      "A. Coffee stain",
+      "B. Tobacco stain",
+      "C. Chlorhexidine stain",
+      "D. Tetracycline staining"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 63,
+    "question": "What does the Oral Hygiene Index primarily assess?",
+    "answer": "B. Debris and calculus on specific tooth surfaces",
+    "options": [
+      "A. Gingival bleeding score",
+      "B. Debris and calculus on specific tooth surfaces",
+      "C. Enamel demineralization",
+      "D. Tooth sensitivity"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 64,
+    "question": "Which stage of plaque formation involves bacterial colonization?",
+    "answer": "C. Secondary colonization",
+    "options": [
+      "A. Pellicle formation",
+      "B. Initial adhesion",
+      "C. Secondary colonization",
+      "D. Plaque mineralization"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 65,
+    "question": "Which of the following is most effective in removing extrinsic stains?",
+    "answer": "A. Prophylactic polishing",
+    "options": [
+      "A. Prophylactic polishing",
+      "B. Root planing",
+      "C. Endodontic treatment",
+      "D. Gingivectomy"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 66,
+    "question": "The Plaque Index of Silness and Loe evaluates which aspect?",
+    "answer": "C. Thickness of plaque at the gingival margin",
+    "options": [
+      "A. Number of decayed teeth",
+      "B. Degree of tooth mobility",
+      "C. Thickness of plaque at the gingival margin",
+      "D. Depth of periodontal pockets"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 67,
+    "question": "What is a distinguishing feature of chronic periodontitis?",
+    "answer": "B. Slow progression of attachment loss",
+    "options": [
+      "A. Painful acute episodes",
+      "B. Slow progression of attachment loss",
+      "C. Occurs only in children",
+      "D. High levels of dental fluorosis"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 68,
+    "question": "Which pathogen is most commonly associated with aggressive periodontitis?",
+    "answer": "D. Aggregatibacter actinomycetemcomitans",
+    "options": [
+      "A. Streptococcus mutans",
+      "B. Candida albicans",
+      "C. Porphyromonas gingivalis",
+      "D. Aggregatibacter actinomycetemcomitans"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 69,
+    "question": "Which diagnostic tool is essential for detecting bone loss in periodontal disease?",
+    "answer": "C. Radiographs",
+    "options": [
+      "A. Vitality test",
+      "B. Disclosing agents",
+      "C. Radiographs",
+      "D. Pulp tester"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 70,
+    "question": "What is the most common sign of periodontal disease?",
+    "answer": "A. Bleeding gums",
+    "options": [
+      "A. Bleeding gums",
+      "B. White lesions",
+      "C. Ulceration of tongue",
+      "D. Xerostomia"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 71,
+    "question": "Which tooth is most frequently impacted requiring surgical removal?",
+    "answer": "C. Mandibular third molar",
+    "options": [
+      "A. Maxillary first premolar",
+      "B. Mandibular incisor",
+      "C. Mandibular third molar",
+      "D. Maxillary canine"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 72,
+    "question": "What is the best initial management of an avulsed permanent tooth?",
+    "answer": "B. Reimplant immediately or store in milk",
+    "options": [
+      "A. Discard the tooth",
+      "B. Reimplant immediately or store in milk",
+      "C. Place in alcohol",
+      "D. Clean with hydrogen peroxide"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 73,
+    "question": "Which surgical procedure removes bone around a tooth?",
+    "answer": "C. Osteoplasty",
+    "options": [
+      "A. Frenectomy",
+      "B. Gingivectomy",
+      "C. Osteoplasty",
+      "D. Root canal therapy"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 74,
+    "question": "What is a common complication of oral surgery?",
+    "answer": "D. Post-operative infection",
+    "options": [
+      "A. Tooth eruption",
+      "B. Gingival hyperplasia",
+      "C. Dentin hypersensitivity",
+      "D. Post-operative infection"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 75,
+    "question": "Which condition is characterized by complete absence of teeth?",
+    "answer": "A. Anodontia",
+    "options": [
+      "A. Anodontia",
+      "B. Hypoplasia",
+      "C. Fluorosis",
+      "D. Macrodontia"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 76,
+    "question": "What is the term for extra teeth in the dental arch?",
+    "answer": "B. Supernumerary teeth",
+    "options": [
+      "A. Microdontia",
+      "B. Supernumerary teeth",
+      "C. Amelogenesis imperfecta",
+      "D. Pulpitis"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 77,
+    "question": "Fusion of two developing teeth is called:",
+    "answer": "C. Fusion",
+    "options": [
+      "A. Concrescence",
+      "B. Gemination",
+      "C. Fusion",
+      "D. Ankylosis"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 78,
+    "question": "Which abnormality involves underdeveloped enamel?",
+    "answer": "A. Enamel hypoplasia",
+    "options": [
+      "A. Enamel hypoplasia",
+      "B. Dentinogenesis imperfecta",
+      "C. Periodontitis",
+      "D. Pulp stones"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 79,
+    "question": "Which restorative material releases fluoride?",
+    "answer": "C. Glass ionomer cement",
+    "options": [
+      "A. Amalgam",
+      "B. Composite resin",
+      "C. Glass ionomer cement",
+      "D. Gold foil"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 80,
+    "question": "The primary reason for failure of composite restorations is:",
+    "answer": "A. Marginal leakage",
+    "options": [
+      "A. Marginal leakage",
+      "B. Color mismatch",
+      "C. High cost",
+      "D. Short working time"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 81,
+    "question": "Which of the following is an advantage of amalgam?",
+    "answer": "B. High compressive strength",
+    "options": [
+      "A. Aesthetic appearance",
+      "B. High compressive strength",
+      "C. Immediate setting",
+      "D. Light-cured"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 82,
+    "question": "What is the main component of dental amalgam?",
+    "answer": "A. Mercury",
+    "options": [
+      "A. Mercury",
+      "B. Calcium",
+      "C. Potassium",
+      "D. Aluminum"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 83,
+    "question": "A patient who becomes aggressive in the dental chair may be managed by:",
+    "answer": "C. Using behavior guidance and desensitization",
+    "options": [
+      "A. Immediate extraction",
+      "B. Restraints",
+      "C. Using behavior guidance and desensitization",
+      "D. Increasing the dental bill"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 84,
+    "question": "Which patient is classified as 'dental phobic'?",
+    "answer": "D. Avoids treatment due to irrational fear",
+    "options": [
+      "A. Allergic to anesthesia",
+      "B. Has sensitive teeth",
+      "C. Refuses to brush teeth",
+      "D. Avoids treatment due to irrational fear"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 85,
+    "question": "Best way to calm a nervous child before treatment is:",
+    "answer": "A. Tell-show-do technique",
+    "options": [
+      "A. Tell-show-do technique",
+      "B. Sedation only",
+      "C. Restraints",
+      "D. Scolding"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 86,
+    "question": "What should be avoided when treating a patient with epilepsy?",
+    "answer": "C. Bright, flashing lights",
+    "options": [
+      "A. Air-water syringe",
+      "B. Topical anesthesia",
+      "C. Bright, flashing lights",
+      "D. Fluoride varnish"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 87,
+    "question": "The role of a dental hygienist includes all EXCEPT:",
+    "answer": "D. Performing surgical extractions",
+    "options": [
+      "A. Oral prophylaxis",
+      "B. Patient education",
+      "C. Fluoride application",
+      "D. Performing surgical extractions"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 88,
+    "question": "Which skill is most important for a dental hygienist?",
+    "answer": "A. Communication and patient education",
+    "options": [
+      "A. Communication and patient education",
+      "B. Manual tooth extraction",
+      "C. Radiographic interpretation",
+      "D. Fabricating crowns"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 89,
+    "question": "Dental hygienists help in preventing caries primarily through:",
+    "answer": "C. Fluoride application and oral hygiene instruction",
+    "options": [
+      "A. Orthodontic procedures",
+      "B. Scaling only",
+      "C. Fluoride application and oral hygiene instruction",
+      "D. Taking dental impressions"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 90,
+    "question": "Dental hygienists are legally allowed to:",
+    "answer": "B. Remove plaque and calculus",
+    "options": [
+      "A. Extract molars",
+      "B. Remove plaque and calculus",
+      "C. Place implants",
+      "D. Do root canal treatment"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 91,
+    "question": "What is the ideal time for a hygienist to educate a child on brushing?",
+    "answer": "C. During the prophylaxis appointment",
+    "options": [
+      "A. While taking radiographs",
+      "B. During anesthesia",
+      "C. During the prophylaxis appointment",
+      "D. Before scheduling treatment"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 92,
+    "question": "What is the first step in a dental hygiene assessment?",
+    "answer": "A. Medical and dental history",
+    "options": [
+      "A. Medical and dental history",
+      "B. Scaling",
+      "C. Plaque disclosure",
+      "D. Periodontal probing"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 93,
+    "question": "Which documentation must a hygienist always record?",
+    "answer": "B. Periodontal charting",
+    "options": [
+      "A. Number of teeth",
+      "B. Periodontal charting",
+      "C. Patient’s family members",
+      "D. X-ray exposure time"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 94,
+    "question": "What is the purpose of using disclosing agents?",
+    "answer": "C. To highlight plaque on teeth",
+    "options": [
+      "A. Whiten teeth",
+      "B. Treat caries",
+      "C. To highlight plaque on teeth",
+      "D. Remove calculus"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 95,
+    "question": "Which instrument is commonly used for subgingival scaling?",
+    "answer": "D. Gracey curette",
+    "options": [
+      "A. Explorer",
+      "B. Mouth mirror",
+      "C. Ultrasonic tip",
+      "D. Gracey curette"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 96,
+    "question": "Dental hygienists must follow which infection control standard?",
+    "answer": "A. Universal precautions",
+    "options": [
+      "A. Universal precautions",
+      "B. Surgical asepsis",
+      "C. Hospital protocols",
+      "D. Patient preferences"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 97,
+    "question": "The use of fluoride varnish is especially recommended for:",
+    "answer": "C. Children at high risk of caries",
+    "options": [
+      "A. Adults with implants",
+      "B. Orthodontic patients only",
+      "C. Children at high risk of caries",
+      "D. Patients with dentures"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 98,
+    "question": "How often should dental instruments be sterilized?",
+    "answer": "B. After every use",
+    "options": [
+      "A. Once a day",
+      "B. After every use",
+      "C. Once a week",
+      "D. Monthly"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 99,
+    "question": "Which method is most effective in preventing cross-contamination?",
+    "answer": "A. Hand hygiene and glove use",
+    "options": [
+      "A. Hand hygiene and glove use",
+      "B. Air fresheners",
+      "C. Using only disposable cups",
+      "D. Avoiding patient contact"
+    ]
+  },
+  {
+    "course": "Dental",
+    "numb": 100,
+    "question": "Which personal protective equipment (PPE) is essential during scaling?",
+    "answer": "C. Gloves, mask, eye protection",
+    "options": [
+      "A. Apron only",
+      "B. Gloves and hat",
+      "C. Gloves, mask, eye protection",
+      "D. Shoes and lab coat"
+    ]
+  },
+  
+
+
+
+
+
 
 ];
 
