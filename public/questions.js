@@ -8865,7 +8865,7 @@ const questionBank =
 
 // 4th Semester Subjects MCQS 
 
-[
+
   {
     "course": "Anesthesia",
     "numb": 1,
