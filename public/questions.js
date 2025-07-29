@@ -11308,7 +11308,1210 @@ const questionBank =
       "D. Shoes and lab coat"
     ]
   },
-  
+
+  // Dialysis 4th Semester MCQS 
+  {
+    "course": "Dialysis",
+    "numb": 1,
+    "question": "Which of the following is a common symptom of glomerular disease?",
+    "answer": "B. Hematuria",
+    "options": [
+      "A. Hypoglycemia",
+      "B. Hematuria",
+      "C. Jaundice",
+      "D. Polycythemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 2,
+    "question": "What is the first-line treatment for hyperkalemia with ECG changes?",
+    "answer": "C. Intravenous calcium gluconate",
+    "options": [
+      "A. Furosemide",
+      "B. Oral sodium polystyrene sulfonate",
+      "C. Intravenous calcium gluconate",
+      "D. Sodium bicarbonate tablets"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 3,
+    "question": "Which condition is characterized by low sodium concentration in blood?",
+    "answer": "A. Hyponatremia",
+    "options": [
+      "A. Hyponatremia",
+      "B. Hypernatremia",
+      "C. Hyperkalemia",
+      "D. Hypokalemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 4,
+    "question": "What is a clinical sign of hypocalcemia?",
+    "answer": "D. Muscle cramps and tetany",
+    "options": [
+      "A. Bradycardia",
+      "B. Flushed skin",
+      "C. Mental confusion",
+      "D. Muscle cramps and tetany"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 5,
+    "question": "Metabolic acidosis is commonly treated with which of the following?",
+    "answer": "B. Sodium bicarbonate",
+    "options": [
+      "A. Insulin",
+      "B. Sodium bicarbonate",
+      "C. Calcium supplements",
+      "D. Potassium chloride"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 6,
+    "question": "Which metabolic disturbance is commonly associated with vomiting?",
+    "answer": "C. Metabolic alkalosis",
+    "options": [
+      "A. Respiratory acidosis",
+      "B. Metabolic acidosis",
+      "C. Metabolic alkalosis",
+      "D. Respiratory alkalosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 7,
+    "question": "In patients with chronic renal failure, which electrolyte imbalance is most likely?",
+    "answer": "A. Hyperphosphatemia",
+    "options": [
+      "A. Hyperphosphatemia",
+      "B. Hypokalemia",
+      "C. Hypernatremia",
+      "D. Hypoglycemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 8,
+    "question": "Which connective tissue disorder often affects kidney function?",
+    "answer": "D. Systemic lupus erythematosus",
+    "options": [
+      "A. Osteoarthritis",
+      "B. Rheumatoid arthritis",
+      "C. Gout",
+      "D. Systemic lupus erythematosus"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 9,
+    "question": "What is the hallmark symptom of nephrolithiasis?",
+    "answer": "B. Severe flank pain",
+    "options": [
+      "A. Fever and chills",
+      "B. Severe flank pain",
+      "C. Abdominal bloating",
+      "D. Chest tightness"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 10,
+    "question": "Which disease is a hereditary cause of cystic kidney formation?",
+    "answer": "C. Polycystic kidney disease",
+    "options": [
+      "A. Diabetic nephropathy",
+      "B. Interstitial nephritis",
+      "C. Polycystic kidney disease",
+      "D. Lupus nephritis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 11,
+    "question": "What symptom is commonly associated with glomerular diseases?",
+    "answer": "B. Proteinuria",
+    "options": [
+      "A. Bradycardia",
+      "B. Proteinuria",
+      "C. Dry cough",
+      "D. Skin rash"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 12,
+    "question": "Which drug class is commonly used to manage proteinuria in glomerular diseases?",
+    "answer": "A. ACE inhibitors",
+    "options": [
+      "A. ACE inhibitors",
+      "B. Beta blockers",
+      "C. Calcium channel blockers",
+      "D. Statins"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 13,
+    "question": "What electrolyte imbalance is typically seen with excessive water loss and sodium retention?",
+    "answer": "D. Hypernatremia",
+    "options": [
+      "A. Hypokalemia",
+      "B. Hypocalcemia",
+      "C. Hyponatremia",
+      "D. Hypernatremia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 14,
+    "question": "Which sign indicates hyperkalemia on ECG?",
+    "answer": "C. Tall peaked T waves",
+    "options": [
+      "A. Short PR interval",
+      "B. Flattened T waves",
+      "C. Tall peaked T waves",
+      "D. ST elevation"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 15,
+    "question": "What is a clinical sign of hypocalcemia?",
+    "answer": "A. Chvostek's sign",
+    "options": [
+      "A. Chvostek's sign",
+      "B. Cyanosis",
+      "C. Bradycardia",
+      "D. Miosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 16,
+    "question": "Which condition is a cause of metabolic alkalosis?",
+    "answer": "B. Prolonged vomiting",
+    "options": [
+      "A. Diarrhea",
+      "B. Prolonged vomiting",
+      "C. Renal failure",
+      "D. Sepsis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 17,
+    "question": "What condition leads to respiratory acidosis?",
+    "answer": "D. COPD",
+    "options": [
+      "A. Hyperventilation",
+      "B. Metabolic acidosis",
+      "C. Liver failure",
+      "D. COPD"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 18,
+    "question": "Which disease commonly causes renal involvement in diabetes?",
+    "answer": "C. Diabetic nephropathy",
+    "options": [
+      "A. Hyperglycemia",
+      "B. Glomerulonephritis",
+      "C. Diabetic nephropathy",
+      "D. Diabetic ketoacidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 19,
+    "question": "What renal complication may result from systemic lupus erythematosus (SLE)?",
+    "answer": "A. Lupus nephritis",
+    "options": [
+      "A. Lupus nephritis",
+      "B. Membranous nephropathy",
+      "C. Renal carcinoma",
+      "D. Ureteral obstruction"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 20,
+    "question": "Which of the following is a type of secondary hypertension?",
+    "answer": "C. Renovascular hypertension",
+    "options": [
+      "A. Essential hypertension",
+      "B. Isolated systolic hypertension",
+      "C. Renovascular hypertension",
+      "D. White coat hypertension"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 21,
+    "question": "Which of the following is the most specific marker for kidney function?",
+    "answer": "B. Serum creatinine",
+    "options": [
+      "A. Blood urea nitrogen",
+      "B. Serum creatinine",
+      "C. Hemoglobin",
+      "D. Albumin"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 22,
+    "question": "What is the primary cause of anemia in chronic kidney disease (CKD)?",
+    "answer": "C. Decreased erythropoietin production",
+    "options": [
+      "A. Iron deficiency",
+      "B. Blood loss",
+      "C. Decreased erythropoietin production",
+      "D. Vitamin B12 deficiency"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 23,
+    "question": "Which acid-base disorder is commonly seen in end-stage renal disease (ESRD)?",
+    "answer": "D. Metabolic acidosis",
+    "options": [
+      "A. Metabolic alkalosis",
+      "B. Respiratory acidosis",
+      "C. Respiratory alkalosis",
+      "D. Metabolic acidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 24,
+    "question": "Which electrolyte is most affected during dialysis?",
+    "answer": "A. Potassium",
+    "options": [
+      "A. Potassium",
+      "B. Sodium",
+      "C. Chloride",
+      "D. Magnesium"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 25,
+    "question": "Which condition is an indication for urgent dialysis?",
+    "answer": "C. Severe hyperkalemia",
+    "options": [
+      "A. Mild edema",
+      "B. Slight hypertension",
+      "C. Severe hyperkalemia",
+      "D. Proteinuria"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 26,
+    "question": "Which dialysis modality is performed continuously over 24 hours?",
+    "answer": "B. Continuous renal replacement therapy",
+    "options": [
+      "A. Peritoneal dialysis",
+      "B. Continuous renal replacement therapy",
+      "C. Hemodialysis",
+      "D. Intermittent peritoneal dialysis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 27,
+    "question": "Which of the following is a complication of hemodialysis?",
+    "answer": "D. Hypotension",
+    "options": [
+      "A. Hypertension",
+      "B. Hyperglycemia",
+      "C. Bradycardia",
+      "D. Hypotension"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 28,
+    "question": "Which parameter is most useful to monitor adequacy of dialysis?",
+    "answer": "A. Urea reduction ratio (URR)",
+    "options": [
+      "A. Urea reduction ratio (URR)",
+      "B. Hemoglobin level",
+      "C. Blood pressure",
+      "D. Body weight"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 29,
+    "question": "What vascular access is preferred for long-term hemodialysis?",
+    "answer": "C. Arteriovenous fistula",
+    "options": [
+      "A. Central venous catheter",
+      "B. Peripheral line",
+      "C. Arteriovenous fistula",
+      "D. Subclavian catheter"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 30,
+    "question": "Which of the following is a sign of fluid overload in renal failure?",
+    "answer": "B. Pulmonary edema",
+    "options": [
+      "A. Dry mucous membranes",
+      "B. Pulmonary edema",
+      "C. Low jugular venous pressure",
+      "D. Hypotension"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 31,
+    "question": "What is the typical frequency of hemodialysis in stable CKD patients?",
+    "answer": "C. Three times per week",
+    "options": [
+      "A. Daily",
+      "B. Twice a week",
+      "C. Three times per week",
+      "D. Once a week"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 32,
+    "question": "Which symptom indicates uremia in a dialysis patient?",
+    "answer": "D. Altered mental status",
+    "options": [
+      "A. Thirst",
+      "B. Nausea",
+      "C. Weight gain",
+      "D. Altered mental status"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 33,
+    "question": "Which nutrient is often restricted in chronic renal failure?",
+    "answer": "B. Protein",
+    "options": [
+      "A. Carbohydrates",
+      "B. Protein",
+      "C. Fats",
+      "D. Fiber"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 34,
+    "question": "Which mineral is commonly elevated in chronic kidney disease?",
+    "answer": "C. Phosphorus",
+    "options": [
+      "A. Calcium",
+      "B. Magnesium",
+      "C. Phosphorus",
+      "D. Zinc"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 35,
+    "question": "Which hormone is supplemented to treat renal anemia?",
+    "answer": "A. Erythropoietin",
+    "options": [
+      "A. Erythropoietin",
+      "B. Insulin",
+      "C. Aldosterone",
+      "D. Cortisol"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 36,
+    "question": "What is a major complication of peritoneal dialysis?",
+    "answer": "D. Peritonitis",
+    "options": [
+      "A. Pulmonary edema",
+      "B. Hypoglycemia",
+      "C. Anemia",
+      "D. Peritonitis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 37,
+    "question": "Which of the following conditions causes nephrotic syndrome?",
+    "answer": "C. Minimal change disease",
+    "options": [
+      "A. Pyelonephritis",
+      "B. Acute tubular necrosis",
+      "C. Minimal change disease",
+      "D. Interstitial nephritis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 38,
+    "question": "What type of fluid is used in peritoneal dialysis?",
+    "answer": "A. Hypertonic glucose solution",
+    "options": [
+      "A. Hypertonic glucose solution",
+      "B. Isotonic saline",
+      "C. Lactated Ringer’s",
+      "D. Hypotonic dextrose"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 39,
+    "question": "Which metabolic disorder is linked to kidney stones?",
+    "answer": "D. Hyperparathyroidism",
+    "options": [
+      "A. Hyperthyroidism",
+      "B. Hypoglycemia",
+      "C. Hyponatremia",
+      "D. Hyperparathyroidism"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 40,
+    "question": "Which blood parameter rises earliest in acute kidney injury?",
+    "answer": "B. Creatinine",
+    "options": [
+      "A. Potassium",
+      "B. Creatinine",
+      "C. Hematocrit",
+      "D. Calcium"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 41,
+    "question": "What condition involves sudden loss of kidney function?",
+    "answer": "C. Acute kidney injury",
+    "options": [
+      "A. Nephrotic syndrome",
+      "B. Nephritic syndrome",
+      "C. Acute kidney injury",
+      "D. Chronic kidney disease"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 42,
+    "question": "What dietary element must be limited to control hyperkalemia?",
+    "answer": "A. Bananas",
+    "options": [
+      "A. Bananas",
+      "B. Milk",
+      "C. Rice",
+      "D. Bread"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 43,
+    "question": "Which toxin accumulates in uremia?",
+    "answer": "D. Urea",
+    "options": [
+      "A. Glucose",
+      "B. Creatine",
+      "C. Bicarbonate",
+      "D. Urea"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 44,
+    "question": "Which vitamin is often deficient in dialysis patients?",
+    "answer": "C. Vitamin D",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin B12",
+      "C. Vitamin D",
+      "D. Vitamin K"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 45,
+    "question": "Which symptom is seen in early CKD?",
+    "answer": "B. Fatigue",
+    "options": [
+      "A. Coma",
+      "B. Fatigue",
+      "C. Seizures",
+      "D. Cyanosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 46,
+    "question": "Which test is used to estimate GFR?",
+    "answer": "D. Creatinine clearance",
+    "options": [
+      "A. BUN",
+      "B. Serum sodium",
+      "C. Hemoglobin",
+      "D. Creatinine clearance"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 47,
+    "question": "What is the normal GFR in healthy adults?",
+    "answer": "B. 90–120 mL/min",
+    "options": [
+      "A. 60–80 mL/min",
+      "B. 90–120 mL/min",
+      "C. 40–60 mL/min",
+      "D. 20–40 mL/min"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 48,
+    "question": "Which of the following is a cause of prerenal AKI?",
+    "answer": "C. Hypovolemia",
+    "options": [
+      "A. Nephrotoxic drugs",
+      "B. Tubular necrosis",
+      "C. Hypovolemia",
+      "D. Glomerulonephritis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 49,
+    "question": "Which syndrome is characterized by hematuria, hypertension, and proteinuria?",
+    "answer": "A. Nephritic syndrome",
+    "options": [
+      "A. Nephritic syndrome",
+      "B. Nephrotic syndrome",
+      "C. Acute kidney injury",
+      "D. ESRD"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 50,
+    "question": "Which parameter is most useful to assess fluid balance in dialysis patients?",
+    "answer": "B. Daily weight",
+    "options": [
+      "A. Heart rate",
+      "B. Daily weight",
+      "C. Blood sugar",
+      "D. Serum creatinine"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 51,
+    "question": "Which renal condition is most commonly associated with sickle cell disease?",
+    "answer": "A. Hematuria due to papillary necrosis",
+    "options": [
+      "A. Hematuria due to papillary necrosis",
+      "B. Acute tubular necrosis",
+      "C. Glomerulonephritis",
+      "D. Nephrolithiasis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 52,
+    "question": "Which type of cystic kidney disease is inherited in an autosomal dominant fashion?",
+    "answer": "C. Adult polycystic kidney disease",
+    "options": [
+      "A. Medullary sponge kidney",
+      "B. Nephronophthisis",
+      "C. Adult polycystic kidney disease",
+      "D. Acquired renal cysts"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 53,
+    "question": "What is a key histological finding in interstitial nephritis?",
+    "answer": "D. Inflammatory infiltrates in the interstitial tissue",
+    "options": [
+      "A. Glomerular sclerosis",
+      "B. Tubular atrophy only",
+      "C. Vascular hypertrophy",
+      "D. Inflammatory infiltrates in the interstitial tissue"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 54,
+    "question": "A patient with decreased urine output and elevated creatinine is diagnosed with acute renal failure. What is the most common cause?",
+    "answer": "B. Acute tubular necrosis",
+    "options": [
+      "A. Glomerulonephritis",
+      "B. Acute tubular necrosis",
+      "C. Renal artery stenosis",
+      "D. Nephrolithiasis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 55,
+    "question": "In chronic renal failure, which of the following is typically elevated?",
+    "answer": "D. Serum phosphate",
+    "options": [
+      "A. Serum calcium",
+      "B. Serum bicarbonate",
+      "C. Hemoglobin",
+      "D. Serum phosphate"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 56,
+    "question": "What is the key cardiovascular complication associated with chronic kidney disease?",
+    "answer": "C. Left ventricular hypertrophy",
+    "options": [
+      "A. Valvular heart disease",
+      "B. Endocarditis",
+      "C. Left ventricular hypertrophy",
+      "D. Pericardial effusion"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 57,
+    "question": "Which disorder is most commonly associated with glomerular damage due to immune complex deposition?",
+    "answer": "A. Lupus nephritis",
+    "options": [
+      "A. Lupus nephritis",
+      "B. Diabetes mellitus",
+      "C. Hypertension",
+      "D. Amyloidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 58,
+    "question": "Which of the following is a feature of essential hypertension?",
+    "answer": "C. No identifiable secondary cause",
+    "options": [
+      "A. Associated with renal artery stenosis",
+      "B. Caused by endocrine disorder",
+      "C. No identifiable secondary cause",
+      "D. Directly caused by nephritis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 59,
+    "question": "What is the first step in managing a patient with suspected acute renal failure?",
+    "answer": "B. Identify and treat the underlying cause",
+    "options": [
+      "A. Initiate dialysis",
+      "B. Identify and treat the underlying cause",
+      "C. Administer loop diuretics",
+      "D. Begin corticosteroid therapy"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 60,
+    "question": "Which of the following is commonly used to assess kidney function over time?",
+    "answer": "D. Glomerular filtration rate (GFR)",
+    "options": [
+      "A. Blood glucose",
+      "B. Serum sodium",
+      "C. Liver function test",
+      "D. Glomerular filtration rate (GFR)"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 61,
+    "question": "Which is a common symptom in aging kidneys?",
+    "answer": "A. Decreased GFR",
+    "options": [
+      "A. Decreased GFR",
+      "B. Hyperfiltration",
+      "C. Increased renin production",
+      "D. Hyperkalemia in all patients"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 62,
+    "question": "What is the appropriate step before initiating dialysis in a new patient?",
+    "answer": "C. Assess fluid status and electrolyte balance",
+    "options": [
+      "A. Insert central line immediately",
+      "B. Give antibiotics",
+      "C. Assess fluid status and electrolyte balance",
+      "D. Perform ECG"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 63,
+    "question": "What investigation is commonly used to detect nephrolithiasis?",
+    "answer": "D. Non-contrast CT scan",
+    "options": [
+      "A. MRI",
+      "B. PET scan",
+      "C. IV pyelogram",
+      "D. Non-contrast CT scan"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 64,
+    "question": "Which metabolic change is commonly seen in metabolic alkalosis?",
+    "answer": "B. Increased blood pH and bicarbonate",
+    "options": [
+      "A. Decreased pH and increased CO₂",
+      "B. Increased blood pH and bicarbonate",
+      "C. Increased anion gap",
+      "D. Increased lactic acid"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 65,
+    "question": "During post-dialysis care, what is crucial to monitor?",
+    "answer": "D. Blood pressure and fluid balance",
+    "options": [
+      "A. Heart rate only",
+      "B. Oxygen saturation",
+      "C. Blood glucose",
+      "D. Blood pressure and fluid balance"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 66,
+    "question": "Which electrolyte abnormality is most dangerous and requires urgent correction in renal failure?",
+    "answer": "C. Hyperkalemia",
+    "options": [
+      "A. Hypocalcemia",
+      "B. Hyponatremia",
+      "C. Hyperkalemia",
+      "D. Hypophosphatemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 67,
+    "question": "Which sign is suggestive of uremic encephalopathy in chronic kidney disease?",
+    "answer": "A. Confusion and decreased alertness",
+    "options": [
+      "A. Confusion and decreased alertness",
+      "B. Sweating and palpitations",
+      "C. Hyperreflexia",
+      "D. Abdominal pain"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 68,
+    "question": "Which type of hypertension is commonly seen in renal artery stenosis?",
+    "answer": "C. Secondary hypertension",
+    "options": [
+      "A. Essential hypertension",
+      "B. Malignant hypertension",
+      "C. Secondary hypertension",
+      "D. Gestational hypertension"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 69,
+    "question": "What is the recommended treatment for acute hyperkalemia?",
+    "answer": "B. IV calcium gluconate and insulin with glucose",
+    "options": [
+      "A. Oral potassium binders",
+      "B. IV calcium gluconate and insulin with glucose",
+      "C. Hemodialysis only",
+      "D. Oral bicarbonate"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 70,
+    "question": "What is the most frequent cause of chronic renal failure in developing countries?",
+    "answer": "A. Chronic glomerulonephritis",
+    "options": [
+      "A. Chronic glomerulonephritis",
+      "B. Diabetes mellitus",
+      "C. Polycystic kidney disease",
+      "D. Urinary tract infection"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 71,
+    "question": "Which hormone is deficient in end-stage renal disease leading to anemia?",
+    "answer": "C. Erythropoietin",
+    "options": [
+      "A. Renin",
+      "B. ADH",
+      "C. Erythropoietin",
+      "D. Aldosterone"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 72,
+    "question": "Which is a typical sign of nephrotic syndrome?",
+    "answer": "D. Proteinuria >3.5 g/day",
+    "options": [
+      "A. Hematuria",
+      "B. Leukocyturia",
+      "C. Urine osmolality >1000",
+      "D. Proteinuria >3.5 g/day"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 73,
+    "question": "Which test best evaluates acid-base status in metabolic disorders?",
+    "answer": "B. Arterial blood gas (ABG)",
+    "options": [
+      "A. Serum urea",
+      "B. Arterial blood gas (ABG)",
+      "C. ECG",
+      "D. Chest X-ray"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 74,
+    "question": "What is the purpose of preparing the AV fistula before initiating dialysis?",
+    "answer": "A. To allow vascular access with high blood flow",
+    "options": [
+      "A. To allow vascular access with high blood flow",
+      "B. For infusion of antibiotics",
+      "C. To measure venous pressure",
+      "D. As a temporary measure"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 75,
+    "question": "In pregnancy, which urinary condition needs aggressive management?",
+    "answer": "C. Pyelonephritis",
+    "options": [
+      "A. Bacteriuria",
+      "B. Hematuria",
+      "C. Pyelonephritis",
+      "D. Glycosuria"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 76,
+    "question": "Which condition results in respiratory acidosis?",
+    "answer": "D. Chronic obstructive pulmonary disease",
+    "options": [
+      "A. Hyperventilation",
+      "B. Metabolic alkalosis",
+      "C. Renal failure",
+      "D. Chronic obstructive pulmonary disease"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 77,
+    "question": "What is the first-line treatment for renal stones <5mm?",
+    "answer": "A. Increased fluid intake and observation",
+    "options": [
+      "A. Increased fluid intake and observation",
+      "B. Open surgery",
+      "C. Hemodialysis",
+      "D. Corticosteroids"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 78,
+    "question": "Which condition leads to increased serum phosphate and decreased calcium in renal failure?",
+    "answer": "C. Secondary hyperparathyroidism",
+    "options": [
+      "A. Hyperaldosteronism",
+      "B. Addison's disease",
+      "C. Secondary hyperparathyroidism",
+      "D. Nephrotic syndrome"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 79,
+    "question": "What is the most common infective organism in catheter-associated UTI in dialysis patients?",
+    "answer": "B. E. coli",
+    "options": [
+      "A. Staphylococcus aureus",
+      "B. E. coli",
+      "C. Klebsiella",
+      "D. Pseudomonas"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 80,
+    "question": "Which of the following is a critical post-dialysis instruction for patients?",
+    "answer": "D. Monitor for signs of bleeding from access site",
+    "options": [
+      "A. Eat a high-protein meal immediately",
+      "B. Skip next antihypertensive dose",
+      "C. Avoid sleep for 6 hours",
+      "D. Monitor for signs of bleeding from access site"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 81,
+    "question": "A dialysis patient presents with confusion and deep rapid breathing. ABG reveals a low pH and low bicarbonate. What is the most likely acid-base disturbance?",
+    "answer": "A. Metabolic acidosis",
+    "options": [
+      "A. Metabolic acidosis",
+      "B. Respiratory alkalosis",
+      "C. Metabolic alkalosis",
+      "D. Respiratory acidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 82,
+    "question": "A patient on hemodialysis has persistent vomiting and reports muscle cramps. Labs show elevated pH and bicarbonate. What is the likely condition?",
+    "answer": "C. Metabolic alkalosis",
+    "options": [
+      "A. Respiratory alkalosis",
+      "B. Metabolic acidosis",
+      "C. Metabolic alkalosis",
+      "D. Respiratory acidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 83,
+    "question": "In a patient with COPD and chronic renal failure, ABG shows low pH with elevated CO2. Which acid-base disorder is most likely?",
+    "answer": "D. Respiratory acidosis",
+    "options": [
+      "A. Metabolic acidosis",
+      "B. Respiratory alkalosis",
+      "C. Metabolic alkalosis",
+      "D. Respiratory acidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 84,
+    "question": "A patient with severe anxiety and rapid breathing has high pH and low CO2 levels on ABG. What is the diagnosis?",
+    "answer": "B. Respiratory alkalosis",
+    "options": [
+      "A. Metabolic alkalosis",
+      "B. Respiratory alkalosis",
+      "C. Metabolic acidosis",
+      "D. Respiratory acidosis"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 85,
+    "question": "Which electrolyte imbalance is characterized by weakness, thirst, dry mucous membranes, and confusion?",
+    "answer": "A. Hypernatremia",
+    "options": [
+      "A. Hypernatremia",
+      "B. Hyponatremia",
+      "C. Hyperkalemia",
+      "D. Hypocalcemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 86,
+    "question": "A dialysis patient has muscle twitching, irritability, and confusion. Labs show sodium 118 mEq/L. What is the likely diagnosis?",
+    "answer": "B. Hyponatremia",
+    "options": [
+      "A. Hypernatremia",
+      "B. Hyponatremia",
+      "C. Hypokalemia",
+      "D. Hypercalcemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 87,
+    "question": "Tall T waves on ECG in a dialysis patient most likely indicate which electrolyte disturbance?",
+    "answer": "C. Hyperkalemia",
+    "options": [
+      "A. Hypokalemia",
+      "B. Hypocalcemia",
+      "C. Hyperkalemia",
+      "D. Hyperphosphatemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 88,
+    "question": "A patient presents with fatigue, muscle cramps, and arrhythmias. Serum potassium is 2.7 mEq/L. What is the condition?",
+    "answer": "A. Hypokalemia",
+    "options": [
+      "A. Hypokalemia",
+      "B. Hyperkalemia",
+      "C. Hypernatremia",
+      "D. Hypophosphatemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 89,
+    "question": "A dialysis patient with hyperparathyroidism is at risk for which electrolyte abnormality?",
+    "answer": "D. Hypercalcemia",
+    "options": [
+      "A. Hypocalcemia",
+      "B. Hypokalemia",
+      "C. Hyponatremia",
+      "D. Hypercalcemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 90,
+    "question": "Tingling in the lips, muscle spasms, and a positive Chvostek's sign in a dialysis patient suggest what condition?",
+    "answer": "A. Hypocalcemia",
+    "options": [
+      "A. Hypocalcemia",
+      "B. Hyperkalemia",
+      "C. Hypernatremia",
+      "D. Hyperphosphatemia"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 91,
+    "question": "What is the immediate nursing action if a patient becomes unresponsive during dialysis?",
+    "answer": "C. Stop dialysis and check vital signs",
+    "options": [
+      "A. Administer glucose",
+      "B. Call for the nephrologist",
+      "C. Stop dialysis and check vital signs",
+      "D. Increase ultrafiltration rate"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 92,
+    "question": "Which of the following is a sign of air embolism during hemodialysis?",
+    "answer": "B. Sudden chest pain and shortness of breath",
+    "options": [
+      "A. Hypertension and headache",
+      "B. Sudden chest pain and shortness of breath",
+      "C. Slow pulse and sweating",
+      "D. Fever and shivering"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 93,
+    "question": "During CPR in a dialysis setting, what is the first step?",
+    "answer": "A. Assess responsiveness and call for help",
+    "options": [
+      "A. Assess responsiveness and call for help",
+      "B. Start chest compressions",
+      "C. Remove the dialysis needles",
+      "D. Begin rescue breaths"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 94,
+    "question": "Which type of dialysis machine alarm signals blood leak into the dialysate?",
+    "answer": "D. Blood leak detector alarm",
+    "options": [
+      "A. Venous pressure alarm",
+      "B. Arterial pressure alarm",
+      "C. Conductivity alarm",
+      "D. Blood leak detector alarm"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 95,
+    "question": "What is the best response if a patient complains of nausea and vomiting during dialysis?",
+    "answer": "C. Stop ultrafiltration and monitor BP",
+    "options": [
+      "A. Administer antiemetic and continue",
+      "B. Increase blood flow rate",
+      "C. Stop ultrafiltration and monitor BP",
+      "D. Terminate dialysis immediately"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 96,
+    "question": "What is the most crucial parameter to monitor during dialysis to prevent fluid overload?",
+    "answer": "B. Ultrafiltration volume",
+    "options": [
+      "A. Blood urea nitrogen",
+      "B. Ultrafiltration volume",
+      "C. Dialysate flow rate",
+      "D. Arterial pressure"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 97,
+    "question": "Which practice ensures infection control in the dialysis room?",
+    "answer": "A. Hand hygiene before and after patient contact",
+    "options": [
+      "A. Hand hygiene before and after patient contact",
+      "B. Using only disposable syringes",
+      "C. Wearing double gloves",
+      "D. Using air purifiers"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 98,
+    "question": "Which of the following is a key function of the dialysis technician during a session?",
+    "answer": "D. Monitor machine parameters and patient condition",
+    "options": [
+      "A. Adjust medication dosages",
+      "B. Diagnose patient symptoms",
+      "C. Prescribe dietary plans",
+      "D. Monitor machine parameters and patient condition"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 99,
+    "question": "Which emergency drug should be available in the dialysis room for hyperkalemia?",
+    "answer": "C. Calcium gluconate",
+    "options": [
+      "A. Furosemide",
+      "B. Lisinopril",
+      "C. Calcium gluconate",
+      "D. Metoprolol"
+    ]
+  },
+  {
+    "course": "Dialysis",
+    "numb": 100,
+    "question": "What is the correct action if conductivity in the dialysate falls below the safe range?",
+    "answer": "B. Stop dialysis and notify technician or nephrologist",
+    "options": [
+      "A. Continue dialysis and observe",
+      "B. Stop dialysis and notify technician or nephrologist",
+      "C. Increase dialysate flow rate",
+      "D. Administer calcium"
+    ]
+  },
+
+
 
 
 
