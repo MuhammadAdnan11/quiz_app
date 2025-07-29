@@ -12511,11 +12511,2012 @@ const questionBank =
     ]
   },
 
+// Health 4th Semester MCQS
+
+ {
+    "course": "Health",
+    "numb": 1,
+    "question": "Which of the following is the most common cause of conjunctivitis?",
+    "answer": "A. Viral infection",
+    "options": [
+      "A. Viral infection",
+      "B. Fungal infection",
+      "C. Trauma",
+      "D. Allergy"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 2,
+    "question": "A typical symptom of keratitis is:",
+    "answer": "B. Severe eye pain with photophobia",
+    "options": [
+      "A. Itchy eyes",
+      "B. Severe eye pain with photophobia",
+      "C. Blinking excessively",
+      "D. Eyelid swelling"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 3,
+    "question": "Which part of the eye is primarily affected in uveitis?",
+    "answer": "C. Uveal tract",
+    "options": [
+      "A. Retina",
+      "B. Cornea",
+      "C. Uveal tract",
+      "D. Optic nerve"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 4,
+    "question": "What is the immediate step in managing extra ocular foreign bodies?",
+    "answer": "D. Irrigate the eye with sterile saline",
+    "options": [
+      "A. Apply antibiotic drops",
+      "B. Use tweezers to remove",
+      "C. Rub the eye gently",
+      "D. Irrigate the eye with sterile saline"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 5,
+    "question": "Which symptom is typical of blunt trauma to the eye?",
+    "answer": "A. Periorbital swelling and bruising",
+    "options": [
+      "A. Periorbital swelling and bruising",
+      "B. Conjunctival pallor",
+      "C. Loss of eyebrow hair",
+      "D. Corneal opacity"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 6,
+    "question": "Which condition involves inflammation of the eyelid margin?",
+    "answer": "C. Blepharitis",
+    "options": [
+      "A. Conjunctivitis",
+      "B. Keratitis",
+      "C. Blepharitis",
+      "D. Chalazion"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 7,
+    "question": "Dacrocystitis primarily affects which structure?",
+    "answer": "D. Lacrimal sac",
+    "options": [
+      "A. Retina",
+      "B. Iris",
+      "C. Cornea",
+      "D. Lacrimal sac"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 8,
+    "question": "The clouding of the lens in the eye is termed:",
+    "answer": "B. Cataract",
+    "options": [
+      "A. Glaucoma",
+      "B. Cataract",
+      "C. Trachoma",
+      "D. Macular degeneration"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 9,
+    "question": "Trachoma is caused by which organism?",
+    "answer": "A. Chlamydia trachomatis",
+    "options": [
+      "A. Chlamydia trachomatis",
+      "B. Staphylococcus aureus",
+      "C. Herpes simplex virus",
+      "D. Candida albicans"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 10,
+    "question": "What is the treatment of choice for a large pterygium encroaching on the cornea?",
+    "answer": "C. Surgical excision",
+    "options": [
+      "A. Antibiotic drops",
+      "B. Observation",
+      "C. Surgical excision",
+      "D. Artificial tears"
+    ]
+  },
+
+  // ENT DISEASES - EAR
+  {
+    "course": "Health",
+    "numb": 11,
+    "question": "Which symptom is most commonly associated with a boil in the ear?",
+    "answer": "A. Pain and swelling in the ear canal",
+    "options": [
+      "A. Pain and swelling in the ear canal",
+      "B. Tinnitus",
+      "C. Ear discharge",
+      "D. Hearing loss"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 12,
+    "question": "What is the best method to remove a foreign body from the ear?",
+    "answer": "D. Under direct vision using forceps",
+    "options": [
+      "A. Flushing with water",
+      "B. Use of oil drops",
+      "C. Suction",
+      "D. Under direct vision using forceps"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 13,
+    "question": "Otitis externa is commonly known as:",
+    "answer": "C. Swimmer’s ear",
+    "options": [
+      "A. Middle ear infection",
+      "B. Ear boil",
+      "C. Swimmer’s ear",
+      "D. Ear wax"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 14,
+    "question": "Which symptom is typical in otitis media?",
+    "answer": "B. Ear pain with fever",
+    "options": [
+      "A. Itching of ear canal",
+      "B. Ear pain with fever",
+      "C. Bleeding from ear",
+      "D. Tinnitus"
+    ]
+  },
+
+  // ENT - NOSE
+  {
+    "course": "Health",
+    "numb": 15,
+    "question": "The most common cause of epistaxis is:",
+    "answer": "A. Trauma to Little’s area",
+    "options": [
+      "A. Trauma to Little’s area",
+      "B. Sinusitis",
+      "C. Nasal polyp",
+      "D. Allergy"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 16,
+    "question": "Which of the following is a symptom of DNS (Deviated Nasal Septum)?",
+    "answer": "C. Nasal obstruction",
+    "options": [
+      "A. Ear pain",
+      "B. Toothache",
+      "C. Nasal obstruction",
+      "D. Tearing"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 17,
+    "question": "What is the first aid for nasal fracture?",
+    "answer": "B. Apply cold compress and refer",
+    "options": [
+      "A. Insert nasal pack",
+      "B. Apply cold compress and refer",
+      "C. Tilt head backward",
+      "D. Give analgesics only"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 18,
+    "question": "Which organism is commonly responsible for sinusitis?",
+    "answer": "A. Streptococcus pneumoniae",
+    "options": [
+      "A. Streptococcus pneumoniae",
+      "B. Mycobacterium tuberculosis",
+      "C. Neisseria gonorrhoeae",
+      "D. HIV"
+    ]
+  },
+
+  // ENT - THROAT
+  {
+    "course": "Health",
+    "numb": 19,
+    "question": "Tonsillitis primarily affects which structure?",
+    "answer": "B. Palatine tonsils",
+    "options": [
+      "A. Epiglottis",
+      "B. Palatine tonsils",
+      "C. Pharynx",
+      "D. Larynx"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 20,
+    "question": "Which symptom is characteristic of diphtheria?",
+    "answer": "D. Greyish pseudomembrane in throat",
+    "options": [
+      "A. Hoarseness",
+      "B. Sneezing",
+      "C. Runny nose",
+      "D. Greyish pseudomembrane in throat"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 21,
+    "question": "Which condition involves inflammation of the vocal cords?",
+    "answer": "C. Laryngitis",
+    "options": [
+      "A. Pharyngitis",
+      "B. Tonsillitis",
+      "C. Laryngitis",
+      "D. Epiglottitis"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 22,
+    "question": "In case of a foreign body in the throat, what should be done first?",
+    "answer": "B. Encourage the patient to cough",
+    "options": [
+      "A. Induce vomiting",
+      "B. Encourage the patient to cough",
+      "C. Give water to swallow",
+      "D. Apply throat lozenges"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 23,
+    "question": "Which surgical procedure involves creating an opening in the trachea?",
+    "answer": "D. Tracheostomy",
+    "options": [
+      "A. Tonsillectomy",
+      "B. Rhinoplasty",
+      "C. Laryngoscopy",
+      "D. Tracheostomy"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 24,
+    "question": "What is the most common symptom of acute appendicitis?",
+    "answer": "A. Pain in the right lower abdomen",
+    "options": [
+      "A. Pain in the right lower abdomen",
+      "B. Left upper quadrant pain",
+      "C. Generalized itching",
+      "D. Shoulder pain"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 25,
+    "question": "Which sign is typically seen in acute cholecystitis?",
+    "answer": "B. Murphy’s sign",
+    "options": [
+      "A. McBurney’s point tenderness",
+      "B. Murphy’s sign",
+      "C. Cullen’s sign",
+      "D. Kussmaul’s sign"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 26,
+    "question": "A cardinal symptom of intestinal obstruction is:",
+    "answer": "C. Absolute constipation",
+    "options": [
+      "A. Diarrhea",
+      "B. Hematuria",
+      "C. Absolute constipation",
+      "D. Productive cough"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 27,
+    "question": "Flail chest is commonly associated with:",
+    "answer": "D. Chest injuries",
+    "options": [
+      "A. Appendicitis",
+      "B. Hernia",
+      "C. Gallstones",
+      "D. Chest injuries"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 28,
+    "question": "What is the primary concern in abdominal injuries?",
+    "answer": "B. Internal bleeding",
+    "options": [
+      "A. Constipation",
+      "B. Internal bleeding",
+      "C. Swelling",
+      "D. Vomiting"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 29,
+    "question": "A patient with renal colic typically complains of:",
+    "answer": "A. Flank pain radiating to the groin",
+    "options": [
+      "A. Flank pain radiating to the groin",
+      "B. Chest heaviness",
+      "C. Left shoulder pain",
+      "D. Epigastric discomfort"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 30,
+    "question": "Which is a common cause of acute urinary obstruction?",
+    "answer": "D. Enlarged prostate",
+    "options": [
+      "A. UTI",
+      "B. Kidney failure",
+      "C. Gallstones",
+      "D. Enlarged prostate"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 31,
+    "question": "Hematuria refers to the presence of what in urine?",
+    "answer": "C. Blood",
+    "options": [
+      "A. Sugar",
+      "B. Protein",
+      "C. Blood",
+      "D. Bacteria"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 32,
+    "question": "Which catheter is commonly used for urinary catheterization?",
+    "answer": "B. Foley catheter",
+    "options": [
+      "A. Ryle’s tube",
+      "B. Foley catheter",
+      "C. Ventilator tube",
+      "D. Nasal cannula"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 33,
+    "question": "What is the first nursing step on receiving a new patient?",
+    "answer": "D. Verify patient identity and assess condition",
+    "options": [
+      "A. Start IV line",
+      "B. Administer oxygen",
+      "C. Record vitals",
+      "D. Verify patient identity and assess condition"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 34,
+    "question": "Which document is essential for maintaining continuity of care?",
+    "answer": "A. Patient record sheet",
+    "options": [
+      "A. Patient record sheet",
+      "B. IV set",
+      "C. Thermometer",
+      "D. Pulse oximeter"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 35,
+    "question": "What is a key aspect of ward maintenance?",
+    "answer": "B. Infection control",
+    "options": [
+      "A. Cooking arrangements",
+      "B. Infection control",
+      "C. Laundry management",
+      "D. Discharge process"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 36,
+    "question": "Which is a routine investigation before surgery?",
+    "answer": "D. CBC",
+    "options": [
+      "A. Endoscopy",
+      "B. MRI",
+      "C. Biopsy",
+      "D. CBC"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 37,
+    "question": "What is the goal of patient preparation for procedure?",
+    "answer": "A. Ensure safety and cooperation",
+    "options": [
+      "A. Ensure safety and cooperation",
+      "B. Increase blood pressure",
+      "C. Prevent sedation",
+      "D. Reduce costs"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 38,
+    "question": "Pre-operative care includes:",
+    "answer": "C. NPO status and consent form",
+    "options": [
+      "A. Giving antibiotics only",
+      "B. Encouraging eating",
+      "C. NPO status and consent form",
+      "D. Early ambulation"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 39,
+    "question": "What is an example of pre-operative medication?",
+    "answer": "A. Sedative before surgery",
+    "options": [
+      "A. Sedative before surgery",
+      "B. Laxative after meals",
+      "C. IV fluids post-op",
+      "D. Antipyretic for fever"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 40,
+    "question": "Postoperative care includes monitoring for:",
+    "answer": "C. Bleeding and vital signs",
+    "options": [
+      "A. Hunger",
+      "B. Emotional stress",
+      "C. Bleeding and vital signs",
+      "D. Social activity"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 41,
+    "question": "Which nursing procedure is used for relieving urinary retention?",
+    "answer": "B. Catheterization",
+    "options": [
+      "A. IV infusion",
+      "B. Catheterization",
+      "C. Nasogastric suction",
+      "D. Nebulization"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 42,
+    "question": "NG Tube application is used for:",
+    "answer": "A. Feeding or gastric decompression",
+    "options": [
+      "A. Feeding or gastric decompression",
+      "B. Oxygen therapy",
+      "C. Urinary drainage",
+      "D. Blood transfusion"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 43,
+    "question": "What is essential during preparation for discharge?",
+    "answer": "C. Providing follow-up instructions",
+    "options": [
+      "A. Serving last meal",
+      "B. Handing over all drugs",
+      "C. Providing follow-up instructions",
+      "D. Taking final photograph"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 44,
+    "question": "Which task is included in daily work in eye ward?",
+    "answer": "D. Administering eye drops",
+    "options": [
+      "A. Applying dressing to feet",
+      "B. Changing tracheostomy tube",
+      "C. Doing ECG",
+      "D. Administering eye drops"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 45,
+    "question": "In ENT ward, a nurse should be familiar with:",
+    "answer": "B. Ear irrigation techniques",
+    "options": [
+      "A. Dialysis equipment",
+      "B. Ear irrigation techniques",
+      "C. Orthopedic traction",
+      "D. Cardiac catheterization"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 46,
+    "question": "A routine duty in orthopedic ward is:",
+    "answer": "C. Assist in cast application",
+    "options": [
+      "A. Insertion of pacemaker",
+      "B. ENT suctioning",
+      "C. Assist in cast application",
+      "D. Breast examination"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 47,
+    "question": "What is the purpose of EPI program in wards?",
+    "answer": "A. Immunization",
+    "options": [
+      "A. Immunization",
+      "B. Iron supplementation",
+      "C. HIV testing",
+      "D. CPR training"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 48,
+    "question": "Which skill is crucial in the nursery?",
+    "answer": "C. Newborn resuscitation",
+    "options": [
+      "A. Foley catheterization",
+      "B. Tracheostomy care",
+      "C. Newborn resuscitation",
+      "D. CT scan operation"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 49,
+    "question": "The first action in any patient care setting should be:",
+    "answer": "A. Hand hygiene",
+    "options": [
+      "A. Hand hygiene",
+      "B. Start IV",
+      "C. Administer medicine",
+      "D. Check x-ray"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 50,
+    "question": "Proper documentation of care helps in:",
+    "answer": "D. Continuity of treatment",
+    "options": [
+      "A. Shortening stay",
+      "B. Reducing drug cost",
+      "C. Family satisfaction",
+      "D. Continuity of treatment"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 51,
+    "question": "What is a critical sign to monitor post-eye surgery?",
+    "answer": "C. Sudden loss of vision",
+    "options": [
+      "A. Mild redness",
+      "B. Eyelid twitching",
+      "C. Sudden loss of vision",
+      "D. Watery eyes"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 52,
+    "question": "Which device is needed for NG tube insertion?",
+    "answer": "D. Lubricated nasogastric tube",
+    "options": [
+      "A. Oxygen mask",
+      "B. Foley catheter",
+      "C. Intravenous cannula",
+      "D. Lubricated nasogastric tube"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 53,
+    "question": "The first step before catheterization is:",
+    "answer": "A. Explain procedure and obtain consent",
+    "options": [
+      "A. Explain procedure and obtain consent",
+      "B. Clean patient’s hands",
+      "C. Insert catheter immediately",
+      "D. Give IV fluid"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 54,
+    "question": "In postoperative care, nurse should check wound for:",
+    "answer": "B. Redness, swelling, discharge",
+    "options": [
+      "A. Itchiness",
+      "B. Redness, swelling, discharge",
+      "C. Tattoo reaction",
+      "D. Wrinkles"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 55,
+    "question": "Which solution is preferred for eye irrigation?",
+    "answer": "C. Normal saline",
+    "options": [
+      "A. Dettol",
+      "B. Spirit",
+      "C. Normal saline",
+      "D. Vinegar"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 56,
+    "question": "How often should a catheter bag be emptied?",
+    "answer": "D. When it is two-thirds full",
+    "options": [
+      "A. Every 12 hours",
+      "B. Every hour",
+      "C. Once a day",
+      "D. When it is two-thirds full"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 57,
+    "question": "Which investigation is routine before surgery?",
+    "answer": "A. Blood grouping and crossmatching",
+    "options": [
+      "A. Blood grouping and crossmatching",
+      "B. Dental x-ray",
+      "C. EEG",
+      "D. Vision test"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 58,
+    "question": "In ENT emergencies, stridor indicates:",
+    "answer": "C. Airway obstruction",
+    "options": [
+      "A. Nasal bleeding",
+      "B. Ear discharge",
+      "C. Airway obstruction",
+      "D. Deafness"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 59,
+    "question": "Which part is involved in nasal septum deviation?",
+    "answer": "B. Nasal cartilage and bone",
+    "options": [
+      "A. Sinus cavity",
+      "B. Nasal cartilage and bone",
+      "C. External ear",
+      "D. Eye orbit"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 60,
+    "question": "The presence of pus behind the tympanic membrane suggests:",
+    "answer": "D. Otitis media",
+    "options": [
+      "A. Otitis externa",
+      "B. Sinusitis",
+      "C. Rhinitis",
+      "D. Otitis media"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 61,
+    "question": "What is the best nursing response to eye trauma?",
+    "answer": "A. Cover both eyes and refer urgently",
+    "options": [
+      "A. Cover both eyes and refer urgently",
+      "B. Give aspirin",
+      "C. Apply pressure",
+      "D. Flush with soap"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 62,
+    "question": "The role of a nurse in EPI includes:",
+    "answer": "C. Administering vaccines per schedule",
+    "options": [
+      "A. Issuing birth certificates",
+      "B. Feeding patients",
+      "C. Administering vaccines per schedule",
+      "D. Running hospital accounts"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 63,
+    "question": "In ENT care, suctioning is important to:",
+    "answer": "B. Remove secretions from airway",
+    "options": [
+      "A. Fill ear canal",
+      "B. Remove secretions from airway",
+      "C. Diagnose ear tumors",
+      "D. Enhance vocal quality"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 64,
+    "question": "Infants in nursery must be monitored for:",
+    "answer": "D. Jaundice and feeding pattern",
+    "options": [
+      "A. IQ level",
+      "B. Height gain",
+      "C. Tooth eruption",
+      "D. Jaundice and feeding pattern"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 65,
+    "question": "Which PPE is most essential for catheterization?",
+    "answer": "B. Sterile gloves",
+    "options": [
+      "A. Shoe cover",
+      "B. Sterile gloves",
+      "C. Apron only",
+      "D. Face mask"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 66,
+    "question": "Which solution is used to lubricate NG tube?",
+    "answer": "A. Water-soluble lubricant",
+    "options": [
+      "A. Water-soluble lubricant",
+      "B. Coconut oil",
+      "C. Glycerin",
+      "D. Dettol"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 67,
+    "question": "Routine investigation for infection includes:",
+    "answer": "C. Total leukocyte count (TLC)",
+    "options": [
+      "A. LFT",
+      "B. ESR",
+      "C. Total leukocyte count (TLC)",
+      "D. Lipid profile"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 68,
+    "question": "The pre-op medication goal is to:",
+    "answer": "D. Reduce anxiety and secretions",
+    "options": [
+      "A. Increase appetite",
+      "B. Sedate permanently",
+      "C. Raise BP",
+      "D. Reduce anxiety and secretions"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 69,
+    "question": "What is a common nursing diagnosis after surgery?",
+    "answer": "B. Risk of infection",
+    "options": [
+      "A. Risk of hypertension",
+      "B. Risk of infection",
+      "C. Risk of dehydration",
+      "D. Risk of heart failure"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 70,
+    "question": "Discharge education includes all EXCEPT:",
+    "answer": "C. Refusing follow-up",
+    "options": [
+      "A. Medication schedule",
+      "B. Wound care",
+      "C. Refusing follow-up",
+      "D. Return symptoms"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 71,
+    "question": "Most common complication of NG tube feeding is:",
+    "answer": "D. Aspiration",
+    "options": [
+      "A. Vomiting",
+      "B. Diarrhea",
+      "C. Constipation",
+      "D. Aspiration"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 72,
+    "question": "Preoperative consent must be obtained from:",
+    "answer": "B. Patient or legal guardian",
+    "options": [
+      "A. Any family member",
+      "B. Patient or legal guardian",
+      "C. Nurse in-charge",
+      "D. Pharmacist"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 73,
+    "question": "Eye drop administration requires:",
+    "answer": "A. Pulling lower lid and instilling drop",
+    "options": [
+      "A. Pulling lower lid and instilling drop",
+      "B. Rubbing eye first",
+      "C. Closing eye tightly",
+      "D. Using cotton swab"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 74,
+    "question": "When using suction machine in ENT, avoid:",
+    "answer": "C. Prolonged suctioning",
+    "options": [
+      "A. Wearing gloves",
+      "B. Setting correct pressure",
+      "C. Prolonged suctioning",
+      "D. Cleaning suction tip"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 75,
+    "question": "What indicates urinary tract infection from catheter?",
+    "answer": "B. Cloudy urine with foul smell",
+    "options": [
+      "A. Red urine",
+      "B. Cloudy urine with foul smell",
+      "C. Diluted urine",
+      "D. Increased thirst"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 76,
+    "question": "Sign of successful discharge planning is:",
+    "answer": "D. Patient can explain their care plan",
+    "options": [
+      "A. Family signed paper",
+      "B. Medication given",
+      "C. Nurse left room",
+      "D. Patient can explain their care plan"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 77,
+    "question": "First aid for ENT bleeding includes:",
+    "answer": "C. Pinch soft part of nose and lean forward",
+    "options": [
+      "A. Lie flat",
+      "B. Tilt head back",
+      "C. Pinch soft part of nose and lean forward",
+      "D. Put cotton buds inside"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 78,
+    "question": "In practical orthopedics, the nurse must assist in:",
+    "answer": "B. Splinting fractures",
+    "options": [
+      "A. Hair trimming",
+      "B. Splinting fractures",
+      "C. Dental extraction",
+      "D. ENT dressing"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 79,
+    "question": "Eye patients should be instructed to:",
+    "answer": "A. Avoid rubbing eyes",
+    "options": [
+      "A. Avoid rubbing eyes",
+      "B. Watch TV closely",
+      "C. Drive soon after surgery",
+      "D. Use strong light"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 80,
+    "question": "In nursery, temperature is maintained by:",
+    "answer": "C. Radiant warmer",
+    "options": [
+      "A. Fan",
+      "B. Steam",
+      "C. Radiant warmer",
+      "D. Opening windows"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 81,
+    "question": "Main cause of cataract in elderly is:",
+    "answer": "B. Aging",
+    "options": [
+      "A. Smoking",
+      "B. Aging",
+      "C. Obesity",
+      "D. Alcohol"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 82,
+    "question": "Trachoma causes damage to:",
+    "answer": "D. Conjunctiva and cornea",
+    "options": [
+      "A. Retina",
+      "B. Iris",
+      "C. Tear duct",
+      "D. Conjunctiva and cornea"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 83,
+    "question": "Keratitis can lead to:",
+    "answer": "C. Corneal ulcer",
+    "options": [
+      "A. Dry eye",
+      "B. Cataract",
+      "C. Corneal ulcer",
+      "D. Nasal blockage"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 84,
+    "question": "Otitis media untreated can lead to:",
+    "answer": "B. Hearing loss",
+    "options": [
+      "A. Runny nose",
+      "B. Hearing loss",
+      "C. Vision loss",
+      "D. Hoarseness"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 85,
+    "question": "Sinusitis can result from:",
+    "answer": "C. Blockage of sinus drainage",
+    "options": [
+      "A. Eye trauma",
+      "B. Tongue injury",
+      "C. Blockage of sinus drainage",
+      "D. Neck swelling"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 86,
+    "question": "Common symptom of tonsillitis:",
+    "answer": "D. Sore throat and fever",
+    "options": [
+      "A. Ear itching",
+      "B. Jaw pain",
+      "C. Hair fall",
+      "D. Sore throat and fever"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 87,
+    "question": "Laryngitis often causes:",
+    "answer": "B. Hoarseness of voice",
+    "options": [
+      "A. Epistaxis",
+      "B. Hoarseness of voice",
+      "C. Facial swelling",
+      "D. Visual disturbance"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 88,
+    "question": "Chronic rhinitis is caused by:",
+    "answer": "C. Allergens and irritants",
+    "options": [
+      "A. Water",
+      "B. Dusting hands",
+      "C. Allergens and irritants",
+      "D. Vitamins"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 89,
+    "question": "Which drug is used in acute appendicitis management?",
+    "answer": "A. Antibiotics",
+    "options": [
+      "A. Antibiotics",
+      "B. Sedatives",
+      "C. Antacids",
+      "D. Corticosteroids"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 90,
+    "question": "Gallstones may cause pain in:",
+    "answer": "D. Right upper abdomen",
+    "options": [
+      "A. Pelvis",
+      "B. Right thigh",
+      "C. Neck",
+      "D. Right upper abdomen"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 91,
+    "question": "What is the cause of renal colic?",
+    "answer": "B. Kidney stones",
+    "options": [
+      "A. UTI",
+      "B. Kidney stones",
+      "C. Appendicitis",
+      "D. Hepatitis"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 92,
+    "question": "Which test confirms urinary obstruction?",
+    "answer": "A. Ultrasound",
+    "options": [
+      "A. Ultrasound",
+      "B. EEG",
+      "C. Blood sugar",
+      "D. Chest x-ray"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 93,
+    "question": "Best prevention of surgical site infection is:",
+    "answer": "D. Hand hygiene and sterile technique",
+    "options": [
+      "A. Using antibiotics only",
+      "B. Wearing mask only",
+      "C. Giving IV fluids",
+      "D. Hand hygiene and sterile technique"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 94,
+    "question": "Which complication is common after surgery?",
+    "answer": "C. Wound infection",
+    "options": [
+      "A. Hypoglycemia",
+      "B. Fracture",
+      "C. Wound infection",
+      "D. Stroke"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 95,
+    "question": "Which technique is used to insert Foley catheter?",
+    "answer": "A. Aseptic",
+    "options": [
+      "A. Aseptic",
+      "B. Manual",
+      "C. Open wound",
+      "D. Rubbing alcohol"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 96,
+    "question": "Which measure prevents pressure sores?",
+    "answer": "D. Repositioning patient frequently",
+    "options": [
+      "A. Feeding more",
+      "B. Applying cream only",
+      "C. Giving IV fluids",
+      "D. Repositioning patient frequently"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 97,
+    "question": "Dacrocystitis results in:",
+    "answer": "C. Swelling near the inner eye corner",
+    "options": [
+      "A. Eyelid drooping",
+      "B. Red sclera",
+      "C. Swelling near the inner eye corner",
+      "D. Blue iris"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 98,
+    "question": "Most important step in ENT foreign body removal:",
+    "answer": "A. Adequate lighting and instruments",
+    "options": [
+      "A. Adequate lighting and instruments",
+      "B. Water irrigation",
+      "C. Force only",
+      "D. Patient lying down"
+    ]
+  },
+    {
+    "course": "Health",
+    "numb": 99,
+    "question": "Boil in the ear is often due to:",
+    "answer": "B. Bacterial infection",
+    "options": [
+      "A. Allergies",
+      "B. Bacterial infection",
+      "C. Dry ear",
+      "D. Noise pollution"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 100,
+    "question": "Which procedure is used to feed unconscious patient?",
+    "answer": "D. Nasogastric tube feeding",
+    "options": [
+      "A. IV antibiotics",
+      "B. Oral fluids",
+      "C. Oxygen therapy",
+      "D. Nasogastric tube feeding"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 101,
+    "question": "What is the most common symptom of a bone fracture?",
+    "answer": "A. Severe pain at the injury site",
+    "options": [
+      "A. Severe pain at the injury site",
+      "B. Skin rash",
+      "C. Headache",
+      "D. Dizziness"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 102,
+    "question": "Which type of fracture results in the bone breaking into multiple pieces?",
+    "answer": "C. Comminuted fracture",
+    "options": [
+      "A. Simple fracture",
+      "B. Greenstick fracture",
+      "C. Comminuted fracture",
+      "D. Compound fracture"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 103,
+    "question": "What is the immediate first aid step for a suspected fracture?",
+    "answer": "B. Immobilize the affected part",
+    "options": [
+      "A. Massage the area",
+      "B. Immobilize the affected part",
+      "C. Apply heat",
+      "D. Encourage walking"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 104,
+    "question": "Which fracture is commonly seen in children due to soft bones?",
+    "answer": "D. Greenstick fracture",
+    "options": [
+      "A. Simple fracture",
+      "B. Compound fracture",
+      "C. Comminuted fracture",
+      "D. Greenstick fracture"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 105,
+    "question": "Which of the following is a preventive measure for orthopedic injuries?",
+    "answer": "A. Using protective gear during physical activities",
+    "options": [
+      "A. Using protective gear during physical activities",
+      "B. Skipping warm-up exercises",
+      "C. Overusing joints and muscles",
+      "D. Avoiding calcium-rich diet"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 106,
+    "question": "A compound fracture involves:",
+    "answer": "C. Bone breaking and piercing the skin",
+    "options": [
+      "A. Minor hairline cracks",
+      "B. Bone breaking without skin damage",
+      "C. Bone breaking and piercing the skin",
+      "D. Bone bending only"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 107,
+    "question": "First aid for a fractured limb includes all EXCEPT:",
+    "answer": "D. Forcing the limb into its original position",
+    "options": [
+      "A. Supporting the limb",
+      "B. Immobilizing the fracture",
+      "C. Applying ice",
+      "D. Forcing the limb into its original position"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 108,
+    "question": "What is the common cause of fractures in the elderly?",
+    "answer": "B. Osteoporosis",
+    "options": [
+      "A. High-impact sports",
+      "B. Osteoporosis",
+      "C. Childhood trauma",
+      "D. Dehydration"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 109,
+    "question": "What is the ideal number of antenatal visits recommended by WHO?",
+    "answer": "C. At least 8 visits",
+    "options": [
+      "A. 2 visits",
+      "B. 4 visits",
+      "C. At least 8 visits",
+      "D. Only 1 visit"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 110,
+    "question": "Which supplement is essential during pregnancy to prevent neural tube defects?",
+    "answer": "A. Folic acid",
+    "options": [
+      "A. Folic acid",
+      "B. Vitamin C",
+      "C. Iron",
+      "D. Zinc"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 111,
+    "question": "What is the danger sign during pregnancy that requires immediate referral?",
+    "answer": "B. Vaginal bleeding",
+    "options": [
+      "A. Mild nausea",
+      "B. Vaginal bleeding",
+      "C. Increased appetite",
+      "D. Fatigue"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 112,
+    "question": "Which vaccine is given to pregnant women to protect the newborn from tetanus?",
+    "answer": "D. Tetanus toxoid",
+    "options": [
+      "A. MMR",
+      "B. BCG",
+      "C. Hepatitis B",
+      "D. Tetanus toxoid"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 113,
+    "question": "What is the most common cause of neonatal death?",
+    "answer": "A. Prematurity",
+    "options": [
+      "A. Prematurity",
+      "B. Diarrhea",
+      "C. Vaccination",
+      "D. Hypothermia"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 114,
+    "question": "Exclusive breastfeeding is recommended for how many months?",
+    "answer": "C. 6 months",
+    "options": [
+      "A. 3 months",
+      "B. 9 months",
+      "C. 6 months",
+      "D. 12 months"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 115,
+    "question": "Which sign indicates pneumonia in children?",
+    "answer": "D. Fast breathing",
+    "options": [
+      "A. Sneezing",
+      "B. Fever",
+      "C. Ear discharge",
+      "D. Fast breathing"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 116,
+    "question": "Which is the first vaccine given at birth under EPI?",
+    "answer": "B. BCG",
+    "options": [
+      "A. Polio",
+      "B. BCG",
+      "C. Hepatitis A",
+      "D. DPT"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 117,
+    "question": "Pentavalent vaccine protects against how many diseases?",
+    "answer": "C. 5 diseases",
+    "options": [
+      "A. 3 diseases",
+      "B. 2 diseases",
+      "C. 5 diseases",
+      "D. 4 diseases"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 118,
+    "question": "Cold chain equipment used at health centers includes:",
+    "answer": "A. Ice-lined refrigerators",
+    "options": [
+      "A. Ice-lined refrigerators",
+      "B. Microwave oven",
+      "C. Deep freezer",
+      "D. Central heating system"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 119,
+    "question": "What is the recommended temperature range for vaccine storage?",
+    "answer": "C. +2°C to +8°C",
+    "options": [
+      "A. -5°C to 0°C",
+      "B. +10°C to +15°C",
+      "C. +2°C to +8°C",
+      "D. +20°C to +25°C"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 120,
+    "question": "Which skin disease is characterized by intense itching at night and burrows?",
+    "answer": "B. Scabies",
+    "options": [
+      "A. Psoriasis",
+      "B. Scabies",
+      "C. Acne",
+      "D. Eczema"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 121,
+    "question": "What is the most effective prevention against scabies in communities?",
+    "answer": "A. Regular bathing and hygiene",
+    "options": [
+      "A. Regular bathing and hygiene",
+      "B. Taking antibiotics",
+      "C. Applying petroleum jelly",
+      "D. Avoiding sunlight"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 122,
+    "question": "Which is a common fungal infection of the skin?",
+    "answer": "C. Ringworm",
+    "options": [
+      "A. Impetigo",
+      "B. Scabies",
+      "C. Ringworm",
+      "D. Vitiligo"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 123,
+    "question": "In a nursery, which measure helps prevent neonatal hypothermia?",
+    "answer": "D. Keeping baby warm with blankets and warm room",
+    "options": [
+      "A. Bathing baby immediately after birth",
+      "B. Exposing baby to sunlight",
+      "C. Delayed breastfeeding",
+      "D. Keeping baby warm with blankets and warm room"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 124,
+    "question": "Which step is critical in newborn resuscitation?",
+    "answer": "C. Clearing airway and stimulating breathing",
+    "options": [
+      "A. Feeding the baby",
+      "B. Giving oxygen immediately",
+      "C. Clearing airway and stimulating breathing",
+      "D. Massaging the chest"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 125,
+    "question": "What is the purpose of APGAR scoring in newborns?",
+    "answer": "B. Assessing immediate health of the baby",
+    "options": [
+      "A. Measuring birth weight",
+      "B. Assessing immediate health of the baby",
+      "C. Detecting infections",
+      "D. Checking reflexes only"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 126,
+    "question": "Before administering an injection, what is the first step?",
+    "answer": "C. Verify the patient's identity",
+    "options": [
+      "A. Draw the medicine",
+      "B. Choose the site",
+      "C. Verify the patient's identity",
+      "D. Disinfect the area"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 127,
+    "question": "Which route of injection is used for BCG vaccine?",
+    "answer": "A. Intradermal",
+    "options": [
+      "A. Intradermal",
+      "B. Intramuscular",
+      "C. Intravenous",
+      "D. Subcutaneous"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 128,
+    "question": "Which practical step is necessary before wound dressing?",
+    "answer": "C. Wash hands and wear gloves",
+    "options": [
+      "A. Remove all bandages",
+      "B. Pour antiseptic",
+      "C. Wash hands and wear gloves",
+      "D. Apply cotton directly"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 129,
+    "question": "What is the correct method to dispose used syringes?",
+    "answer": "B. Put in safety box without recapping",
+    "options": [
+      "A. Recap and throw in dustbin",
+      "B. Put in safety box without recapping",
+      "C. Burn them directly",
+      "D. Wash and reuse"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 130,
+    "question": "Which practice prevents pressure sores in bedridden patients?",
+    "answer": "D. Frequent repositioning and skin care",
+    "options": [
+      "A. Keeping patient on hard bed",
+      "B. Wrapping tightly in blankets",
+      "C. Avoiding sponge baths",
+      "D. Frequent repositioning and skin care"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 131,
+    "question": "Which of the following is NOT a sterile technique?",
+    "answer": "A. Using bare hands to change dressing",
+    "options": [
+      "A. Using bare hands to change dressing",
+      "B. Wearing gloves",
+      "C. Using sterile tools",
+      "D. Disinfecting wound site"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 132,
+    "question": "Which action helps in preventing nosocomial infections?",
+    "answer": "C. Proper hand hygiene",
+    "options": [
+      "A. Reusing equipment",
+      "B. Wearing same gloves for all patients",
+      "C. Proper hand hygiene",
+      "D. Using personal towels"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 133,
+    "question": "Oral rehydration solution (ORS) is primarily used to treat:",
+    "answer": "B. Dehydration due to diarrhea",
+    "options": [
+      "A. Fever",
+      "B. Dehydration due to diarrhea",
+      "C. Cough",
+      "D. Constipation"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 134,
+    "question": "Which practice is essential during nasogastric tube insertion?",
+    "answer": "C. Lubricate the tube before insertion",
+    "options": [
+      "A. Keep patient standing",
+      "B. Insert without lubrication",
+      "C. Lubricate the tube before insertion",
+      "D. Do not explain procedure to patient"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 135,
+    "question": "Why is it important to check expiry date on medications?",
+    "answer": "B. Expired drugs may lose effectiveness or cause harm",
+    "options": [
+      "A. To get discounts",
+      "B. Expired drugs may lose effectiveness or cause harm",
+      "C. It is written for decoration",
+      "D. It avoids overdose"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 136,
+    "question": "Which is a sign of wound infection?",
+    "answer": "C. Redness, swelling, and pus",
+    "options": [
+      "A. Scabbing",
+      "B. Dry skin",
+      "C. Redness, swelling, and pus",
+      "D. Hair loss"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 137,
+    "question": "For accurate blood pressure measurement, the patient should:",
+    "answer": "A. Sit relaxed with arm supported",
+    "options": [
+      "A. Sit relaxed with arm supported",
+      "B. Stand while measuring",
+      "C. Talk during measurement",
+      "D. Keep legs crossed"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 138,
+    "question": "Which is the correct site for IM injection in infants?",
+    "answer": "D. Anterolateral thigh",
+    "options": [
+      "A. Deltoid",
+      "B. Gluteus maximus",
+      "C. Abdomen",
+      "D. Anterolateral thigh"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 139,
+    "question": "When should a surgical mask be replaced?",
+    "answer": "C. When it becomes moist or soiled",
+    "options": [
+      "A. Once a week",
+      "B. At end of month",
+      "C. When it becomes moist or soiled",
+      "D. Only if torn"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 140,
+    "question": "What should you do after accidental needle stick injury?",
+    "answer": "A. Wash area and report to supervisor immediately",
+    "options": [
+      "A. Wash area and report to supervisor immediately",
+      "B. Ignore if no bleeding",
+      "C. Cover and forget",
+      "D. Use ointment only"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 141,
+    "question": "The correct angle for IM injection is:",
+    "answer": "C. 90 degrees",
+    "options": [
+      "A. 30 degrees",
+      "B. 45 degrees",
+      "C. 90 degrees",
+      "D. 15 degrees"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 142,
+    "question": "The primary purpose of handwashing is to:",
+    "answer": "A. Prevent infection",
+    "options": [
+      "A. Prevent infection",
+      "B. Reduce dryness",
+      "C. Cool the hands",
+      "D. Make hands look clean"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 143,
+    "question": "What is the common sign of dehydration in infants?",
+    "answer": "B. Sunken fontanelle",
+    "options": [
+      "A. Excessive crying",
+      "B. Sunken fontanelle",
+      "C. Flushed cheeks",
+      "D. Sweating"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 144,
+    "question": "Which is the first step in CPR?",
+    "answer": "A. Check responsiveness",
+    "options": [
+      "A. Check responsiveness",
+      "B. Start chest compressions",
+      "C. Open airway",
+      "D. Give breaths"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 145,
+    "question": "Which antiseptic is commonly used before injections?",
+    "answer": "D. Alcohol swab",
+    "options": [
+      "A. Saline",
+      "B. Soap",
+      "C. Betadine",
+      "D. Alcohol swab"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 146,
+    "question": "Best way to monitor fluid balance in patients is by:",
+    "answer": "C. Input-output chart",
+    "options": [
+      "A. Checking color of skin",
+      "B. Pulse measurement",
+      "C. Input-output chart",
+      "D. Temperature"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 147,
+    "question": "What is the correct position for recovery after fainting?",
+    "answer": "A. Lying on side",
+    "options": [
+      "A. Lying on side",
+      "B. Standing",
+      "C. Sitting straight",
+      "D. Walking quickly"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 148,
+    "question": "To measure axillary temperature, the thermometer is placed:",
+    "answer": "B. Under the armpit",
+    "options": [
+      "A. Under tongue",
+      "B. Under the armpit",
+      "C. In ear",
+      "D. On wrist"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 149,
+    "question": "Sterilization of surgical instruments is commonly done by:",
+    "answer": "D. Autoclaving",
+    "options": [
+      "A. Dry cloth",
+      "B. Soap wash",
+      "C. Alcohol swab",
+      "D. Autoclaving"
+    ]
+  },
+  {
+    "course": "Health",
+    "numb": 150,
+    "question": "Universal precautions are taken to prevent spread of:",
+    "answer": "C. Blood-borne infections",
+    "options": [
+      "A. Cold",
+      "B. Tuberculosis",
+      "C. Blood-borne infections",
+      "D. Fungal infections"
+    ]
+  },
+
+// Pathology 4th Semester MCQS
+  {
+    "course": "Path",
+    "numb": 1,
+    "question": "Which of the following is a common symptom of bacterial conjunctivitis?",
+    "answer": "B. Purulent eye discharge",
+    "options": [
+      "A. Blurred vision only",
+      "B. Purulent eye discharge",
+      "C. Eye floaters",
+      "D. Pain on blinking"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 2,
+    "question": "What is the primary treatment for a mature cataract?",
+    "answer": "C. Surgical removal of the lens",
+    "options": [
+      "A. Eye drops",
+      "B. Antibiotics",
+      "C. Surgical removal of the lens",
+      "D. Vitamin A supplementation"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 3,
+    "question": "Which symptom is most associated with acute otitis media?",
+    "answer": "A. Ear pain",
+    "options": [
+      "A. Ear pain",
+      "B. Hearing loss only",
+      "C. Nasal congestion",
+      "D. Sore throat"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 4,
+    "question": "Tonsillitis is most commonly caused by which organism?",
+    "answer": "D. Streptococcus pyogenes",
+    "options": [
+      "A. Staphylococcus aureus",
+      "B. Escherichia coli",
+      "C. Pseudomonas aeruginosa",
+      "D. Streptococcus pyogenes"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 5,
+    "question": "What is the primary aim of managing appendicitis?",
+    "answer": "A. Surgical removal of the appendix",
+    "options": [
+      "A. Surgical removal of the appendix",
+      "B. Pain relief only",
+      "C. Antibiotic therapy only",
+      "D. Dietary management"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 6,
+    "question": "What is the most common complication of untreated hernia?",
+    "answer": "C. Strangulation",
+    "options": [
+      "A. Hemorrhage",
+      "B. Fistula formation",
+      "C. Strangulation",
+      "D. Abscess formation"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 7,
+    "question": "In clinical practice, how is intussusception most commonly treated in children?",
+    "answer": "B. Air or contrast enema",
+    "options": [
+      "A. Surgery always",
+      "B. Air or contrast enema",
+      "C. Observation only",
+      "D. High-fiber diet"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 8,
+    "question": "Which instrument is most commonly used to examine the tympanic membrane?",
+    "answer": "C. Otoscope",
+    "options": [
+      "A. Laryngoscope",
+      "B. Endoscope",
+      "C. Otoscope",
+      "D. Thermometer"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 9,
+    "question": "Which condition is associated with a positive Kernig’s sign?",
+    "answer": "B. Meningitis",
+    "options": [
+      "A. Encephalitis",
+      "B. Meningitis",
+      "C. Tetanus",
+      "D. Brain abscess"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 10,
+    "question": "What is the hallmark feature of rickets in children?",
+    "answer": "A. Bowed legs",
+    "options": [
+      "A. Bowed legs",
+      "B. Enlarged liver",
+      "C. Cyanosis",
+      "D. Tremors"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 11,
+    "question": "Which vaccine is given at birth under the EPI program?",
+    "answer": "D. BCG",
+    "options": [
+      "A. OPV",
+      "B. DPT",
+      "C. Measles",
+      "D. BCG"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 12,
+    "question": "What is the correct temperature range for storing vaccines in a cold chain?",
+    "answer": "A. 2°C to 8°C",
+    "options": [
+      "A. 2°C to 8°C",
+      "B. 0°C to 10°C",
+      "C. -2°C to 2°C",
+      "D. 10°C to 15°C"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 13,
+    "question": "Which skin disease is characterized by silvery white scales?",
+    "answer": "C. Psoriasis",
+    "options": [
+      "A. Impetigo",
+      "B. Eczema",
+      "C. Psoriasis",
+      "D. Scabies"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 14,
+    "question": "Which condition is managed in a neonatal nursery to prevent hypothermia?",
+    "answer": "D. Low birth weight",
+    "options": [
+      "A. Neonatal jaundice",
+      "B. Diarrhea",
+      "C. Colic",
+      "D. Low birth weight"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 15,
+    "question": "Which is the best nursing practice to prevent infection after a surgical procedure?",
+    "answer": "C. Sterile dressing change",
+    "options": [
+      "A. Providing water frequently",
+      "B. Administering analgesics",
+      "C. Sterile dressing change",
+      "D. Positioning the patient upright"
+    ]
+  },
+  {
+    "course": "Path",
+    "numb": 16,
+    "question": "Which of the following is the correct method for administering intramuscular injections?",
+    "answer": "B. 90-degree angle into the muscle",
+    "options": [
+      "A. 45-degree angle into subcutaneous tissue",
+      "B. 90-degree angle into the muscle",
+      "C. 15-degree angle under the skin",
+      "D. 180-degree angle in vein"
+    ]
+  },
 
 
 
-
-
+  
 
 
 ];
