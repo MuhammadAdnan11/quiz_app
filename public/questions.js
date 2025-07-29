@@ -10208,24 +10208,6 @@ const questionBank =
   },
 
 
-
-
-
-
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
 ];
 
 let selectedCourse = "";
