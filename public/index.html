@@ -26,6 +26,54 @@
     #document-links li {
       margin: 5px 0;
     }
+
+      #events-gallery {
+  padding: 40px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+#events-gallery h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #1e3a8a;
+
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 5px;
+  max-width: 1300px;
+  margin: 0 auto;
+ 
+}
+
+.gallery-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.gallery-item img {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+  cursor: pointer;
+  
+}
+
+.gallery-item img:hover {
+  transform: scale(1.05);
+}
+
+.gallery-item p {
+  margin-top: 8px;
+  font-size: 1rem;
+  color: #333;
+}
   </style>
 </head>
 <body>
@@ -218,6 +266,29 @@
     </div>
   </div>
 </div>
+
+<section id="events-gallery">
+  <h2>Event Pictures</h2>
+  <div class="gallery">
+    <div class="gallery-item">
+      <img src="./image/youme-istehsal.jpg" alt="Event 1">
+      <p>Youm-e-Istehsal Kashmir Day</p>
+    </div>
+    <div class="gallery-item">
+      <img src="./image/teacher-training.jpg" alt="Event 2">
+      <p>Teacher Training Session</p>
+    </div>
+    <div class="gallery-item">
+      <img src="./image/cardiology-day.jpg"  alt="Event 3">
+      <p>Cardiology Day</p>
+    </div>
+    <div class="gallery-item">
+      <img src="./image/first-aid.jpg" alt="Event 4">
+      <p>First-Aid Training</p>
+    </div>
+ 
+  </div>
+</section>
 
 <!-- Testominals section  -->
 
