@@ -2606,6 +2606,479 @@ const questionBank =
       "D. Create analog computing models"
     ]
   },
+  {
+    "course": "ck",
+    "numb": 111,
+    "question": "What is the Primary purpose of an Operating System?",
+    "answer": "D. All of the above",
+    "options": [
+      "A. Manage hardware resource",
+      "B. Run applications",
+      "C. Provide Security",
+      "D. All of the above"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 112,
+    "question": "What is the purpose of an HDMI port on a computer?",
+    "answer": "C. Connects to external Display",
+    "options": [
+      "A. Connects to the internet",
+      "B. Transfers Data between devices",
+      "C. Connects to external Display",
+      "D. Provides power to the computer."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 113,
+    "question": "Which of the following is not a browser?",
+    "answer": "C. Python",
+    "options": [
+      "A. Chrome",
+      "B. Firefox",
+      "C. Python",
+      "D. Safari"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 114,
+    "question": "Which Programming language is known for the simplicity and readability?",
+    "answer": "B. Python",
+    "options": [
+      "A. Java",
+      "B. Python",
+      "C. C++",
+      "D. Ruby"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 115,
+    "question": "What is the Purpose of an Antivirus Software?",
+    "answer": "B. Protect against malware",
+    "options": [
+      "A. Speed up the computer",
+      "B. Protect against malware",
+      "C. Manage Internet Connections.",
+      "D. Organize file and Folder"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 116,
+    "question": "What is the purpose of Ctrl + C keyboard shortcut?",
+    "answer": "B. Copy",
+    "options": [
+      "A. Cut",
+      "B. Copy",
+      "C. Paste",
+      "D. Undo"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 117,
+    "question": "What is the purpose of the Ctrl+Z keyboard Shortcut?",
+    "answer": "A. Undo",
+    "options": [
+      "A. Undo",
+      "B. Redo",
+      "C. Copy",
+      "D. Paste"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 118,
+    "question": "What is the purpose of the Ctrl+Y Keyboard shortcut?",
+    "answer": "A. Redo",
+    "options": [
+      "A. Redo",
+      "B. Undo",
+      "C. Copy",
+      "D. Paste"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 119,
+    "question": "What is the function of the Ctrl+H keyboard Shortcut?",
+    "answer": "C. Replace",
+    "options": [
+      "A. Hide",
+      "B. Highlight",
+      "C. Replace",
+      "D. Resize."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 120,
+    "question": "Which of the following is a cloud computing service?",
+    "answer": "B. Google Drive",
+    "options": [
+      "A. Microsoft Word",
+      "B. Google Drive",
+      "C. Adobe Photoshop",
+      "D. VLC Media Player"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 121,
+    "question": "Which of the following is an example of an input device?",
+    "answer": "C. Keyboard",
+    "options": [
+      "A. Printer",
+      "B. Monitor",
+      "C. Keyboard",
+      "D. External Hard drive"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 122,
+    "question": "What is the Function of router in a computer network?",
+    "answer": "B. Connects different networks together",
+    "options": [
+      "A. Connects devices within a local area network",
+      "B. Connects different networks together",
+      "C. Boots internet speed network",
+      "D. manages computer Peripherals"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 123,
+    "question": "Which of the following is an example of an output device?",
+    "answer": "B. Printer",
+    "options": [
+      "A. Keyboard",
+      "B. Printer",
+      "C. Scanner",
+      "D. Mouse"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 124,
+    "question": "Which type of software is designed to harm a computer system?",
+    "answer": "A. Malware",
+    "options": [
+      "A. Malware",
+      "B. Virus",
+      "C. Firewall",
+      "D. Spyware"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 125,
+    "question": "Which of the following is a volatile memory?",
+    "answer": "B. RAM",
+    "options": [
+      "A. ROM",
+      "B. RAM",
+      "C. Hard disk Drive",
+      "D. SSD"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 126,
+    "question": "What is the purpose of the Ctrl + X keyboard Shortcut?",
+    "answer": "A. Cut",
+    "options": [
+      "A. Cut",
+      "B. Copy",
+      "C. Paste",
+      "D. Undo"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 127,
+    "question": "Which of the following is a storage device?",
+    "answer": "C. Hard disk Drive",
+    "options": [
+      "A. CPU",
+      "B. RAM",
+      "C. Hard disk Drive",
+      "D. Motherboard"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 128,
+    "question": "What is the purpose of the Ctrl-A keyboard Shortcut?",
+    "answer": "A. Select all",
+    "options": [
+      "A. Select all",
+      "B. Cut",
+      "C. Copy",
+      "D. Paste"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 129,
+    "question": "What is the function of a cache in a computer system?",
+    "answer": "A. Stores frequently used data for faster access",
+    "options": [
+      "A. Stores frequently used data for faster access",
+      "B. Provides additional storage space",
+      "C. Manages network connections",
+      "D. Acts as a secondary processor"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 130,
+    "question": "Which type of software allows you to create and edit documents?",
+    "answer": "B. Word processing software",
+    "options": [
+      "A. Spreadsheet software",
+      "B. Word processing software",
+      "C. Database software",
+      "D. Presentation Software"
+    ]
+  },
+
+  {
+    "course": "ck",
+    "numb": 131,
+    "question": "What does RAM stand for?",
+    "answer": "A. Random Access Memory",
+    "options": [
+      "A. Random Access Memory",
+      "B. Read Only Memory",
+      "C. Random Analytical Memory",
+      "D. Random Access Module"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 132,
+    "question": "Which of the following is a type of malware that disguises itself as legitimate software?",
+    "answer": "A. Trojan Horse",
+    "options": [
+      "A. Trojan Horse",
+      "B. Virus",
+      "C. Worm",
+      "D. Spyware"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 133,
+    "question": "Which of the following is an example of an optical storage device?",
+    "answer": "B. DVD",
+    "options": [
+      "A. USB Flash drive",
+      "B. DVD",
+      "C. SSD",
+      "D. External Hard Drive"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 134,
+    "question": "Which of the following is a web browser developed by Microsoft?",
+    "answer": "D. Microsoft Edge",
+    "options": [
+      "A. Chrome",
+      "B. Firefox",
+      "C. Safari",
+      "D. Microsoft Edge"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 135,
+    "question": "What is the file extension for a Microsoft Word Document?",
+    "answer": "A. .Doc (or .Docx for newer versions)",
+    "options": [
+      "A. .Doc",
+      "B. .Txt",
+      "C. .PDF",
+      "D. .Exe"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 136,
+    "question": "What is the purpose of an IP Address in computer networking?",
+    "answer": "A. Identify a specific device on a network.",
+    "options": [
+      "A. Identify a specific device on a network.",
+      "B. Provides internet speed control.",
+      "C. Manages wireless connection.",
+      "D. Controls network security."
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 137,
+    "question": "What is the purpose of BIOS in a computer?",
+    "answer": "B. Control the boot process",
+    "options": [
+      "A. Manage hardware Resources",
+      "B. Control the boot process",
+      "C. Provides the Internet Security",
+      "D. Optimizes system performance"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 138,
+    "question": "Which of the following is an example of a graphic file format?",
+    "answer": "B. .JPEG",
+    "options": [
+      "A. .Mp3",
+      "B. .JPEG",
+      "C. .PDF",
+      "D. .TXT"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 139,
+    "question": "What is the Purpose of Ctrl+U Keyboard Shortcut?",
+    "answer": "A. Underline",
+    "options": [
+      "A. Underline",
+      "B. Undo",
+      "C. Copy",
+      "D. Paste"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 140,
+    "question": "Which programming language is often used in web development?",
+    "answer": "C. HTML",
+    "options": [
+      "A. Java",
+      "B. C++",
+      "C. HTML",
+      "D. Pascal"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 141,
+    "question": "Which Excel formula is used to add values in cells A1 and B1?",
+    "answer": "A. =A1 + B1",
+    "options": [
+      "A. =A1 + B1",
+      "B. =SUM(A1+B1)",
+      "C. =ADD(A1, B1)",
+      "D. =A1 & B1"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 142,
+    "question": "What does the formula =AVERAGE(A1:A5) do?",
+    "answer": "C. Calculates average of A1 to A5",
+    "options": [
+      "A. Adds all values from A1 to A5",
+      "B. Finds the highest value from A1 to A5",
+      "C. Calculates average of A1 to A5",
+      "D. Counts the non-empty cells from A1 to A5"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 143,
+    "question": "Which formula returns the highest value in a range A1 to A5?",
+    "answer": "D. =MAX(A1:A5)",
+    "options": [
+      "A. =HIGH(A1:A5)",
+      "B. =TOP(A1:A5)",
+      "C. =LARGE(A1:A5)",
+      "D. =MAX(A1:A5)"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 144,
+    "question": "Which formula would you use to count all numeric entries in cells A1 to A5?",
+    "answer": "C. =COUNT(A1:A5)",
+    "options": [
+      "A. =COUNTA(A1:A5)",
+      "B. =NUMCOUNT(A1:A5)",
+      "C. =COUNT(A1:A5)",
+      "D. =COUNTNUM(A1:A5)"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 145,
+    "question": "What is the purpose of the formula =IF(A1>50, \"Pass\", \"Fail\")?",
+    "answer": "A. Returns 'Pass' if A1 > 50, else 'Fail'",
+    "options": [
+      "A. Returns 'Pass' if A1 > 50, else 'Fail'",
+      "B. Calculates percentage",
+      "C. Joins two cells together",
+      "D. Counts the cells with value over 50"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 146,
+    "question": "Which Excel formula is used to join text in A1 and B1 with a space in between?",
+    "answer": "B. =A1 & \" \" & B1",
+    "options": [
+      "A. =JOIN(A1, B1)",
+      "B. =A1 & \" \" & B1",
+      "C. =COMBINE(A1,B1)",
+      "D. =TEXTJOIN(\" \", TRUE, A1, B1)"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 147,
+    "question": "Which formula returns today’s date?",
+    "answer": "A. =TODAY()",
+    "options": [
+      "A. =TODAY()",
+      "B. =NOW()",
+      "C. =DATE()",
+      "D. =CURRENTDATE()"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 148,
+    "question": "Which formula would return the current date and time in Excel?",
+    "answer": "B. =NOW()",
+    "options": [
+      "A. =TODAY()",
+      "B. =NOW()",
+      "C. =TIME()",
+      "D. =DATETIME()"
+    ]
+  },
+  {
+    "course": "ck",
+    "numb": 149,
+    "question": "What does =ROUND(A1, 2) do in Excel?",
+    "answer": "C. Rounds the value in A1 to 2 decimal places",
+    "options": [
+      "A. Rounds to the nearest whole number",
+      "B. Rounds up to 2 decimal places",
+      "C. Rounds the value in A1 to 2 decimal places",
+      "D. Displays only the first 2 digits"
+    ]
+  },
+  
+
+
+
 
 
    
